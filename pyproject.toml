@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "llud"
+version = "0.1.0"
+description = "Universal Dependencies parser using LLMs (OpenAI, Mistral) with structured output"
+authors = [
+    { name = "Kirill Koncha" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pydantic>=2.0",
+    "langchain>=1.0.0",
+    "langchain-openai>=0.1.0",
+    "langchain-community>=0.2.0",
+    "langchain-openai>=0.1.0",
+    "langchain-mistralai>=0.1.0",
+    "langchain-core>=1.0.0"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "black",
+    "ruff"
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["llud*"]
+
+[tool.black]
+line-length = 88
+
+[tool.ruff]
+line-length = 88
