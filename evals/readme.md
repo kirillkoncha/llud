@@ -3,13 +3,13 @@
 This folder contains the code for evaluating the quality of LLM-based UD parsing.
 
 Metrics:
-- LEMMA: Accuracy of lemmatization (number of correctly predicted lemmas / total number of tokens)
-- UPOS: Accuracy of UPOS tagging (number of correctly predicted UPOS tags / total number of tokens)
-- DEPREL: Accuracy of dependency relation labeling (number of correctly predicted DEPREL labels / total number of tokens)
-- UAS: Unlabeled Attachment Score (number of correctly predicted head tokens / total number of tokens)
-- LAS: Labeled Attachment Score (number of correctly predicted head tokens with correct DEPREL labels / total number of tokens)
-- CYCLE_PROP: Proportion of sentences with cycles in the predicted dependency tree (number of sentences with cycles / total number of sentences)
-- MULTI_ROOT_PROP: Proportion of sentences with multiple roots in the predicted dependency tree (number of sentences with multiple roots / total number of sentences)
+- **LEMMA:** Accuracy of lemmatization (number of correctly predicted lemmas / total number of tokens)
+- **UPOS:** Accuracy of UPOS tagging (number of correctly predicted UPOS tags / total number of tokens)
+- **DEPREL:** Accuracy of dependency relation labeling (number of correctly predicted DEPREL labels / total number of tokens)
+- **UAS:** Unlabeled Attachment Score (number of correctly predicted head tokens / total number of tokens)
+- **LAS:** Labeled Attachment Score (number of correctly predicted head tokens with correct DEPREL labels / total number of tokens)
+- **CYCLE_PROP:** Proportion of sentences with cycles in the predicted dependency tree (number of sentences with cycles / total number of sentences)
+- **MULTI_ROOT_PROP:** Proportion of sentences with multiple roots in the predicted dependency tree (number of sentences with multiple roots / total number of sentences)
 
 ## Running evaluation
 To run the evaluation, you can use the `eval.py` script:

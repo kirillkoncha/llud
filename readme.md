@@ -71,6 +71,8 @@ More providers and capabilities (e.g., using locally deployed models) are planne
 
 Project supports all languages, but the quality of the output depends on the LLM capabilities in a particular language. Expect better performance for high-resource languages, and worse for low-resource ones.
 
+You can evaluate the performance of LLMs on a specific language. Instructions as well as quality metrics for the evaluated languages are available in `evals` folder.
+
 ## Contributing
 
 Contributions are welcome! If you want to contribute, please fork the repository and create a pull request with your changes.
