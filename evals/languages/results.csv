@@ -1,0 +1,2 @@
+lang,model,metrics,eval_set
+tat,gpt-4.1,"{lemma: 72.15, upos:75.17, depress: 54.75, feats: 42.11, uas: 40.22, las: 27.94, cycle_prop: 20.95, multiroot_prop: 0}",https://github.com/UniversalDependencies/UD_Tatar-NMCTT/blob/master/tt_nmctt-ud-test.conllu

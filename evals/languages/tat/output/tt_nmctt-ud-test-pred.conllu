@@ -1,0 +1,2524 @@
+# text = Коронавирустан саклануның төп ысулы вакцинация булып тора — башка юл юк.
+1	Коронавирустан	коронавирус	NOUN	_	Case=Abl|Number=Sing	5	obl	_	_
+2	саклануның	саклану	NOUN	_	Case=Gen|Number=Sing|VerbForm=Vnoun	5	nmod:poss	_	_
+3	төп	төп	ADJ	_	_	4	amod	_	_
+4	ысулы	ысул	NOUN	_	Case=Nom|Number=Sing|Person=3|Poss=Sing	5	nsubj	_	_
+5	вакцинация	вакцинация	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+6	булып	бул	AUX	_	VerbForm=Conv	7	advcl	_	_
+7	тора	тор	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+8	—	—	PUNCT	_	_	7	punct	_	_
+9	башка	башка	ADV	_	_	12	advmod	_	_
+10	юл	юл	NOUN	_	Case=Nom|Number=Sing	12	nsubj	_	_
+11	юк	юк	ADV	_	_	12	advmod	_	_
+12	.	.	PUNCT	_	_	7	punct	_	_
+
+# text = Бу хакта РФ Премьер-министры Михаил Мишустин Курск өлкәсе хастаханәсенең йогышлы авырулар корпусын караганда әйтте.
+1	Бу	бу	DET	_	PronType=Dem	2	det	_	_
+2	хакта	хакта	NOUN	_	Case=Loc|Number=Sing	13	obl	_	_
+3	РФ	РФ	PROPN	_	_	4	nmod	_	_
+4	Премьер-министры	Премьер-министр	NOUN	_	Case=Gen|Number=Sing	6	nmod	_	_
+5	Михаил	Михаил	PROPN	_	_	6	flat:name	_	_
+6	Мишустин	Мишустин	PROPN	_	_	13	nsubj	_	_
+7	Курск	Курск	PROPN	_	_	8	nmod	_	_
+8	өлкәсе	өлкә	NOUN	_	Case=Gen|Number=Sing	9	nmod	_	_
+9	хастаханәсенең	хастаханә	NOUN	_	Case=Gen|Number=Sing	10	nmod	_	_
+10	йогышлы	йогышлы	ADJ	_	_	11	amod	_	_
+11	авырулар	авыру	NOUN	_	Case=Gen|Number=Plur	12	nmod	_	_
+12	корпусын	корпус	NOUN	_	Case=Acc|Number=Sing	13	obj	_	_
+13	караганда	кара	VERB	_	VerbForm=Conv	14	advcl	_	_
+14	әйтте	әйт	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+# text = «Курскта яшәүчеләр дә, бөтен ил халкының да ковидтан саклануның төп юлы — вакцинация икәнен аңлаулары бик мөһим», — дип китерелә Мишустин сүзләре ил Хөкүмәтенең телеграм-каналында.
+1	«	«	PUNCT	_	_	24	punct	_	_
+2	Курскта	Курск	PROPN	_	Case=Loc	4	obl	_	_
+3	яшәүчеләр	яшәүче	NOUN	_	Number=Plur	2	nmod	_	_
+4	дә	дә	PART	_	_	7	discourse	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	бөтен	бөтен	DET	_	_	7	det	_	_
+7	ил	ил	NOUN	_	Case=Gen	9	nmod	_	_
+8	халкының	халык	NOUN	_	Case=Gen	7	nmod	_	_
+9	да	да	PART	_	_	12	discourse	_	_
+10	ковидтан	ковид	NOUN	_	Case=Abl	12	obl	_	_
+11	саклануның	саклану	NOUN	_	Case=Gen	12	nmod	_	_
+12	төп	төп	ADJ	_	_	13	amod	_	_
+13	юлы	юл	NOUN	_	Case=Nom	24	nsubj	_	_
+14	—	—	PUNCT	_	_	24	punct	_	_
+15	вакцинация	вакцинация	NOUN	_	Case=Nom	16	nsubj	_	_
+16	икәнен	икән	AUX	_	VerbForm=Conv	17	ccomp	_	_
+17	аңлаулары	аңлау	VERB	_	Number=Plur|VerbForm=Vnoun	24	acl:relcl	_	_
+18	бик	бик	ADV	_	_	19	advmod	_	_
+19	мөһим	мөһим	ADJ	_	_	17	xcomp	_	_
+20	»	»	PUNCT	_	_	24	punct	_	_
+21	,	,	PUNCT	_	_	24	punct	_	_
+22	—	—	PUNCT	_	_	24	punct	_	_
+23	дип	дип	SCONJ	_	_	24	mark	_	_
+24	китерелә	китерел	VERB	_	Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+25	Мишустин	Мишустин	PROPN	_	_	26	nmod	_	_
+26	сүзләре	сүз	NOUN	_	Case=Nom|Number=Plur	24	nsubj:pass	_	_
+27	ил	ил	NOUN	_	Case=Gen	28	nmod	_	_
+28	Хөкүмәтенең	Хөкүмәт	NOUN	_	Case=Gen	29	nmod	_	_
+29	телеграм-каналында	телеграм-канал	NOUN	_	Case=Loc	24	obl	_	_
+30	.	.	PUNCT	_	_	24	punct	_	_
+
+# text = Премьер сүзләренчә, Курск өлкәсе тулысынча препаратлар белән тәэмин ителгән һәм вакцинация кампаниясен уздыру өчен бернинди каршылыклар да юк.
+1	Премьер	Премьер	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	_
+2	сүзләренчә	сүз	NOUN	_	Case=Equ|Number=Sing|Person=3|Poss=Yes	13	obl	_	_
+3	,	,	PUNCT	_	_	13	punct	_	_
+4	Курск	Курск	PROPN	_	Case=Nom|Number=Sing	5	nmod	_	_
+5	өлкәсе	өлкә	NOUN	_	Case=Nom|Number=Sing|Person=3|Poss=Yes	13	nsubj:pass	_	_
+6	тулысынча	тулысынча	ADV	_	_	13	advmod	_	_
+7	препаратлар	препарат	NOUN	_	Case=Ins|Number=Plur	9	obl	_	_
+8	белән	белән	ADP	_	_	7	case	_	_
+9	тәэмин	тәэмин	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	13	advcl	_	_
+10	ителгән	ит	AUX	_	Tense=Past|VerbForm=Part|Voice=Pass	9	aux:pass	_	_
+11	һәм	һәм	CCONJ	_	_	13	cc	_	_
+12	вакцинация	вакцинация	NOUN	_	Case=Gen|Number=Sing	13	nmod	_	_
+13	кампаниясен	кампания	NOUN	_	Case=Acc|Number=Sing|Person=3|Poss=Yes	0	root	_	_
+14	уздыру	уздыр	VERB	_	VerbForm=Inf	13	acl	_	_
+15	өчен	өчен	ADP	_	_	14	case	_	_
+16	бернинди	бернинди	DET	_	_	17	det	_	_
+17	каршылыклар	каршылык	NOUN	_	Case=Nom|Number=Plur	19	nsubj	_	_
+18	да	да	PART	_	_	17	discourse	_	_
+19	юк	юк	ADV	_	_	13	conj	_	_
+20	.	.	PUNCT	_	_	13	punct	_	_
+
+# text = Хәзер кешеләрне ничек җәлеп итү һәм аңлату эшләрен ничек алып бару мәсьәләсен хәл итәргә кирәк.
+1	Хәзер	хәзер	ADV	_	_	10	advmod	_	_
+2	кешеләрне	кеше	NOUN	_	Case=Acc|Number=Plur	4	obj	_	_
+3	ничек	ничек	ADV	_	_	4	advmod	_	_
+4	җәлеп	җәлеп итү	VERB	_	VerbForm=Conv	6	acl	_	_
+5	итү	итү	AUX	_	VerbForm=Inf	4	aux	_	_
+6	һәм	һәм	CCONJ	_	_	4	cc	_	_
+7	аңлату	аңлату	VERB	_	VerbForm=Conv	4	conj	_	_
+8	эшләрен	эш	NOUN	_	Case=Acc|Number=Plur|Person=3|Poss=Yes	7	obj	_	_
+9	ничек	ничек	ADV	_	_	7	advmod	_	_
+10	алып	алып бару	VERB	_	VerbForm=Conv	13	acl	_	_
+11	бару	бару	AUX	_	VerbForm=Inf	10	aux	_	_
+12	мәсьәләсен	мәсьәлә	NOUN	_	Case=Acc|Number=Sing|Person=3|Poss=Yes	13	obj	_	_
+13	хәл	хәл итү	VERB	_	VerbForm=Inf	14	acl	_	_
+14	итәргә	итү	AUX	_	VerbForm=Inf	15	xcomp	_	_
+15	кирәк	кирәк	ADJ	_	_	0	root	_	_
+16	.	.	PUNCT	_	_	15	punct	_	_
+
+# text = Россия президенты Владимир Путин күп тапкыр Covid-19дан вакцина ясарга чакырды.
+1	Россия	Россия	PROPN	_	Case=Gen|Number=Sing	2	nmod	_	_
+2	президенты	президент	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	Владимир	Владимир	PROPN	_	_	4	flat	_	_
+4	Путин	Путин	PROPN	_	_	8	nsubj	_	_
+5	күп	күп	ADV	_	_	6	advmod	_	_
+6	тапкыр	тапкыр	NOUN	_	Case=Acc|Number=Sing	8	obl	_	_
+7	Covid-19дан	Covid-19	PROPN	_	Case=Abl|Number=Sing	9	obl	_	_
+8	вакцина	вакцина	NOUN	_	Case=Acc|Number=Sing	9	obj	_	_
+9	ясарга	яса	VERB	_	VerbForm=Inf	10	xcomp	_	_
+10	чакырды	чакыр	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# text = Дәүләт башлыгы процедураның мөһимлеген ассызыклый һәм Россиянең барлык вакциналарының куркынычсыз һәм ышанычлы булуын билгеләп үтә.
+1	Дәүләт	дәүләт	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	_
+2	башлыгы	башлык	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
+3	процедураның	процедура	NOUN	_	Case=Gen|Number=Sing	4	nmod	_	_
+4	мөһимлеген	мөһимлек	NOUN	_	Case=Acc|Number=Sing	8	obj	_	_
+5	ассызыклый	ассызыклау	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	conj	_	_
+6	һәм	һәм	CCONJ	_	_	5	cc	_	_
+7	Россиянең	Россия	PROPN	_	Case=Gen|Number=Sing	8	nmod	_	_
+8	барлык	барлык	DET	_	_	12	nmod	_	_
+9	вакциналарының	вакцина	NOUN	_	Case=Gen|Number=Plur	8	nmod	_	_
+10	куркынычсыз	куркынычсыз	ADJ	_	_	12	amod	_	_
+11	һәм	һәм	CCONJ	_	_	10	cc	_	_
+12	ышанычлы	ышанычлы	ADJ	_	_	13	conj	_	_
+13	булуын	булу	NOUN	_	Case=Acc|Number=Sing	14	obj	_	_
+14	билгеләп	билгеләү	VERB	_	VerbForm=Conv	15	advcl	_	_
+15	үтә	үтәү	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+16	.	.	PUNCT	_	_	15	punct	_	_
+
+# text = «Татар-информ» мәгълүмат агентлыгы хәбәр иткәнчә, Татарстанда эпидемия вазгыяте начарлану сәбәпле, ковидка каршы чаралар катгыйланды.
+1	«	«	PUNCT	_	_	2	punct	_	_
+2	Татар-информ	Татар-информ	PROPN	_	_	6	nmod	_	_
+3	»	»	PUNCT	_	_	2	punct	_	_
+4	мәгълүмат	мәгълүмат	NOUN	_	Case=Nom	5	compound	_	_
+5	агентлыгы	агентлык	NOUN	_	Case=Gen	2	flat	_	_
+6	хәбәр	хәбәр	NOUN	_	Case=Nom	7	nsubj	_	_
+7	иткәнчә	иткәнчә	SCONJ	_	_	13	mark	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	Татарстанда	Татарстан	PROPN	_	Case=Loc	10	obl	_	_
+10	эпидемия	эпидемия	NOUN	_	Case=Nom	11	nmod	_	_
+11	вазгыяте	вазгыять	NOUN	_	Case=Gen	13	nsubj	_	_
+12	начарлану	начарлану	NOUN	_	Case=Nom	13	obl	_	_
+13	сәбәпле	сәбәпле	ADP	_	_	16	advcl	_	_
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	ковидка	ковид	NOUN	_	Case=Dat	16	obl	_	_
+16	каршы	каршы	ADJ	_	_	17	amod	_	_
+17	чаралар	чара	NOUN	_	Case=Nom|Number=Plur	18	nsubj	_	_
+18	катгыйланды	катгыйлан	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Pass	0	root	_	_
+19	.	.	PUNCT	_	_	18	punct	_	_
+
+# text = Яңа чикләүләр 11 октябрьдә гамәлгә кертеләчәк.
+1	Яңа	яңа	ADJ	_	_	2	amod	_	_
+2	чикләүләр	чикләү	NOUN	_	Case=Nom|Number=Plur	6	nsubj	_	_
+3	11	11	NUM	_	_	4	nummod	_	_
+4	октябрьдә	октябрь	NOUN	_	Case=Loc	6	obl	_	_
+5	гамәлгә	гамәл	NOUN	_	Case=Dat	6	obl	_	_
+6	кертеләчәк	кертел	VERB	_	Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# text = Төмән китапханәсендә татар язучылары һәм фәнни эшлеклеләренең өлкә хөкүмәте ярдәме белән чыгарылган китапларын тәкъдим иттеләр.
+1	Төмән	Төмән	PROPN	_	Case=Gen|Number=Sing	2	nmod	_	_
+2	китапханәсендә	китапханә	NOUN	_	Case=Loc|Number=Sing|Person=3|Poss=Sing	13	obl	_	_
+3	татар	татар	ADJ	_	_	4	amod	_	_
+4	язучылары	язучы	NOUN	_	Case=Gen|Number=Plur|Person=3|Poss=Sing	6	conj	_	_
+5	һәм	һәм	CCONJ	_	_	4	cc	_	_
+6	фәнни	фәнни	ADJ	_	_	7	amod	_	_
+7	эшлеклеләренең	эшлекле	NOUN	_	Case=Gen|Number=Plur|Person=3|Poss=Sing	4	conj	_	_
+8	өлкә	өлкә	NOUN	_	Case=Nom|Number=Sing	9	nmod	_	_
+9	хөкүмәте	хөкүмәт	NOUN	_	Case=Gen|Number=Sing|Person=3|Poss=Sing	10	nmod	_	_
+10	ярдәме	ярдәм	NOUN	_	Case=Ins|Number=Sing|Person=3|Poss=Sing	13	obl	_	_
+11	белән	белән	ADP	_	_	10	case	_	_
+12	чыгарылган	чыгарыл	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part|Voice=Pass	13	acl	_	_
+13	китапларын	китап	NOUN	_	Case=Acc|Number=Plur|Person=3|Poss=Sing	15	obj	_	_
+14	тәкъдим	тәкъдим	NOUN	_	Case=Acc|Number=Sing	15	obl	_	_
+15	иттеләр	ит	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+16	.	.	PUNCT	_	_	15	punct	_	_
+
+# text = Яңа китаплар арасында себер татары шагыйрәсе һәм фольклорчысы Клара Кучковскаяның «Туганнар» хикәяләр җыентыгы, Россия Фәннәр академиясенең Себер бүлегенең Төмән фәнни үзәге Төньякны үзләштерү проблемалары институты өлкән фәнни хезмәткәре Гөлсифа Бакиеваның «Бөек Ватан сугышы геройлары» белешмәсе, «Төмән өлкәсендә мөселман берләшмәләре һәм мәдәни объектлары» дигән иллюстрацияләнгән белешмә бар, соңгысы фән эшлеклеләре, журналистлар, мөселман руханилары вәкилләренең озак вакытлы эше нәтиҗәсе булып тора.
+1	Яңа	яңа	ADJ	_	Degree=Pos	2	amod	_	_
+2	китаплар	китап	NOUN	_	Case=Nom|Number=Plur	6	obl	_	_
+3	арасында	ара	ADP	_	_	2	case	_	_
+4	себер	Себер	PROPN	_	_	5	nmod	_	_
+5	татары	татар	NOUN	_	Case=Gen|Number=Sing	6	nmod	_	_
+6	шагыйрәсе	шагыйрә	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+7	һәм	һәм	CCONJ	_	_	8	cc	_	_
+8	фольклорчысы	фольклорчы	NOUN	_	Case=Gen|Number=Sing	9	nmod	_	_
+9	Клара	Клара	PROPN	_	_	10	flat	_	_
+10	Кучковскаяның	Кучковская	PROPN	_	Case=Gen	12	nmod	_	_
+11	«	«	PUNCT	_	_	12	punct	_	_
+12	Туганнар	Туганнар	PROPN	_	_	13	nmod	_	_
+13	»	»	PUNCT	_	_	12	punct	_	_
+14	хикәяләр	хикәя	NOUN	_	Case=Gen|Number=Plur	15	nmod	_	_
+15	җыентыгы	җыентык	NOUN	_	Case=Nom|Number=Sing	44	nsubj	_	_
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	Россия	Россия	PROPN	_	_	18	nmod	_	_
+18	Фәннәр	фән	NOUN	_	Case=Gen|Number=Plur	19	nmod	_	_
+19	академиясенең	академия	NOUN	_	Case=Gen|Number=Sing	21	nmod	_	_
+20	Себер	Себер	PROPN	_	_	21	nmod	_	_
+21	бүлегенең	бүлек	NOUN	_	Case=Gen|Number=Sing	23	nmod	_	_
+22	Төмән	Төмән	PROPN	_	_	23	nmod	_	_
+23	фәнни	фәнни	ADJ	_	Degree=Pos	24	amod	_	_
+24	үзәге	үзәк	NOUN	_	Case=Gen|Number=Sing	25	nmod	_	_
+25	Төньякны	Төньяк	PROPN	_	Case=Acc	26	obj	_	_
+26	үзләштерү	үзләштерү	VERB	_	VerbForm=Inf	27	acl	_	_
+27	проблемалары	проблема	NOUN	_	Case=Gen|Number=Plur	28	nmod	_	_
+28	институты	институт	NOUN	_	Case=Gen|Number=Sing	29	nmod	_	_
+29	өлкән	өлкән	ADJ	_	Degree=Pos	30	amod	_	_
+30	фәнни	фәнни	ADJ	_	Degree=Pos	31	amod	_	_
+31	хезмәткәре	хезмәткәр	NOUN	_	Case=Gen|Number=Sing	32	nmod	_	_
+32	Гөлсифа	Гөлсифа	PROPN	_	_	33	flat	_	_
+33	Бакиеваның	Бакиева	PROPN	_	Case=Gen	35	nmod	_	_
+34	«	«	PUNCT	_	_	35	punct	_	_
+35	Бөек	Бөек	ADJ	_	Degree=Pos	36	amod	_	_
+36	Ватан	Ватан	PROPN	_	_	37	nmod	_	_
+37	сугышы	сугыш	NOUN	_	Case=Gen|Number=Sing	38	nmod	_	_
+38	геройлары	герой	NOUN	_	Case=Gen|Number=Plur	39	nmod	_	_
+39	»	»	PUNCT	_	_	38	punct	_	_
+40	белешмәсе	белешмә	NOUN	_	Case=Nom|Number=Sing	44	conj	_	_
+41	,	,	PUNCT	_	_	40	punct	_	_
+42	«	«	PUNCT	_	_	43	punct	_	_
+43	Төмән	Төмән	PROPN	_	_	44	nmod	_	_
+44	өлкәсендә	өлкә	NOUN	_	Case=Loc|Number=Sing	45	obl	_	_
+45	мөселман	мөселман	ADJ	_	Degree=Pos	46	amod	_	_
+46	берләшмәләре	берләшмә	NOUN	_	Case=Gen|Number=Plur	48	nmod	_	_
+47	һәм	һәм	CCONJ	_	_	48	cc	_	_
+48	мәдәни	мәдәни	ADJ	_	Degree=Pos	49	amod	_	_
+49	объектлары	объект	NOUN	_	Case=Gen|Number=Plur	50	nmod	_	_
+50	»	»	PUNCT	_	_	49	punct	_	_
+51	дигән	дигән	VERB	_	VerbForm=Part	52	acl	_	_
+52	иллюстрацияләнгән	иллюстрациялә	VERB	_	VerbForm=Part	53	acl	_	_
+53	белешмә	белешмә	NOUN	_	Case=Nom|Number=Sing	15	conj	_	_
+54	бар	бар	AUX	_	_	15	cop	_	_
+55	,	,	PUNCT	_	_	54	punct	_	_
+56	соңгысы	соңгы	ADJ	_	Degree=Sup	57	nsubj	_	_
+57	фән	фән	NOUN	_	Case=Gen|Number=Sing	62	nmod	_	_
+58	эшлеклеләре	эшлекле	NOUN	_	Case=Gen|Number=Plur	57	nmod	_	_
+59	,	,	PUNCT	_	_	58	punct	_	_
+60	журналистлар	журналист	NOUN	_	Case=Gen|Number=Plur	58	conj	_	_
+61	,	,	PUNCT	_	_	60	punct	_	_
+62	мөселман	мөселман	ADJ	_	Degree=Pos	63	amod	_	_
+63	руханилары	рухани	NOUN	_	Case=Gen|Number=Plur	58	conj	_	_
+64	вәкилләренең	вәкил	NOUN	_	Case=Gen|Number=Plur	65	nmod	_	_
+65	озак	озак	ADV	_	_	66	advmod	_	_
+66	вакытлы	вакытлы	ADJ	_	Degree=Pos	67	amod	_	_
+67	эше	эш	NOUN	_	Case=Gen|Number=Sing	68	nmod	_	_
+68	нәтиҗәсе	нәтиҗә	NOUN	_	Case=Nom|Number=Sing	70	nsubj	_	_
+69	булып	бул	AUX	_	VerbForm=Conv	70	advcl	_	_
+70	тора	тор	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	15	conj	_	_
+71	.	.	PUNCT	_	_	15	punct	_	_
+
+# text = Мөфти Зиннәт хәзрәт Садыйков Төмән өлкәсенең мөселман дини берләшмәләре турында белешмәлек чыгаруга көч куйган редакция коллегиясе әгъзаларына рәхмәт белдерде.
+1	Мөфти	мөфти	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+2	Зиннәт	Зиннәт	PROPN	_	_	1	flat	_	_
+3	хәзрәт	хәзрәт	NOUN	_	_	1	flat	_	_
+4	Садыйков	Садыйков	PROPN	_	_	1	flat	_	_
+5	Төмән	Төмән	PROPN	_	_	6	nmod	_	_
+6	өлкәсенең	өлкә	NOUN	_	Case=Gen|Number=Sing|Person=3|Poss=Yes	8	nmod:poss	_	_
+7	мөселман	мөселман	ADJ	_	_	8	amod	_	_
+8	дини	дини	ADJ	_	_	9	amod	_	_
+9	берләшмәләре	берләшмә	NOUN	_	Case=Gen|Number=Plur|Person=3|Poss=Yes	10	nmod	_	_
+10	турында	турында	ADP	_	_	11	case	_	_
+11	белешмәлек	белешмәлек	NOUN	_	Case=Acc|Number=Sing	12	obj	_	_
+12	чыгаруга	чыгару	VERB	_	Case=Dat|VerbForm=Inf	13	obl	_	_
+13	көч	көч	NOUN	_	Case=Acc|Number=Sing	14	obj	_	_
+14	куйган	куй	VERB	_	Tense=Past|VerbForm=Part|Voice=Act	7	acl:relcl	_	_
+15	редакция	редакция	NOUN	_	Case=Gen|Number=Sing	16	nmod	_	_
+16	коллегиясе	коллегия	NOUN	_	Case=Gen|Number=Sing|Person=3|Poss=Yes	17	nmod:poss	_	_
+17	әгъзаларына	әгъза	NOUN	_	Case=Dat|Number=Plur|Person=3|Poss=Yes	7	obl	_	_
+18	рәхмәт	рәхмәт	NOUN	_	Case=Acc|Number=Sing	7	obj	_	_
+19	белдерде	белдер	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+20	.	.	PUNCT	_	_	19	punct	_	_
+
+# text = Мөфти шулай ук мәгърифәтчелек характерындагы уртак чаралар уздырганда дини кагыйдәләрне үтәүнең кирәклеге турында искәртте.
+1	Мөфти	мөфти	NOUN	_	Case=Nom|Number=Sing	13	nsubj	_	_
+2	шулай	шулай	ADV	_	_	4	advmod	_	_
+3	ук	ук	PART	_	_	2	advmod:emph	_	_
+4	мәгърифәтчелек	мәгърифәтчелек	NOUN	_	Case=Gen|Number=Sing	5	amod	_	_
+5	характерындагы	характер	NOUN	_	Case=Loc|Number=Sing	6	amod	_	_
+6	уртак	уртак	ADJ	_	_	7	amod	_	_
+7	чаралар	чара	NOUN	_	Case=Acc|Number=Plur	8	obj	_	_
+8	уздырганда	уздыр	VERB	_	Tense=Pres|VerbForm=Conv	1	advcl	_	_
+9	дини	дини	ADJ	_	_	10	amod	_	_
+10	кагыйдәләрне	кагыйдә	NOUN	_	Case=Acc|Number=Plur	11	obj	_	_
+11	үтәүнең	үтәү	NOUN	_	Case=Gen|Number=Sing	12	nmod:poss	_	_
+12	кирәклеге	кирәклек	NOUN	_	Case=Nom|Number=Sing	14	obl	_	_
+13	турында	турында	ADP	_	_	12	case	_	_
+14	искәртте	искәрт	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+# text = «Мөселман берләшмәләре һәм Төмән өлкәсендә дини объектлар» белешмәлеге турында «Төмән өлкәсе мөселманнарының өч үзәкләштерелгән дини оешмасы катнашында чыгарылган уникаль басмада Көнбатыш Себернең көньягында ислам таралышының тәфсилле тарихы бәян ителгән, төбәктәге һәрбер мөселман мәхәлләсе турында мәгълүмат бирелгән.
+1	«	«	PUNCT	_	_	2	punct	_	_
+2	Мөселман	мөселман	NOUN	_	Case=Nom|Number=Plur	4	nmod	_	_
+3	берләшмәләре	берләшмә	NOUN	_	Case=Gen|Number=Plur|Person=3	2	nmod:poss	_	_
+4	һәм	һәм	CCONJ	_	_	2	cc	_	_
+5	Төмән	Төмән	PROPN	_	Case=Gen	6	nmod	_	_
+6	өлкәсендә	өлкә	NOUN	_	Case=Loc|Number=Sing	7	obl	_	_
+7	дини	дини	ADJ	_	_	8	amod	_	_
+8	объектлар	объект	NOUN	_	Case=Nom|Number=Plur	2	conj	_	_
+9	»	»	PUNCT	_	_	2	punct	_	_
+10	белешмәлеге	белешмәлек	NOUN	_	Case=Gen|Number=Sing|Person=3	12	nsubj	_	_
+11	турында	турында	ADP	_	_	10	case	_	_
+12	«	«	PUNCT	_	_	18	punct	_	_
+13	Төмән	Төмән	PROPN	_	Case=Gen	14	nmod	_	_
+14	өлкәсе	өлкә	NOUN	_	Case=Gen|Number=Sing|Person=3	15	nmod:poss	_	_
+15	мөселманнарының	мөселман	NOUN	_	Case=Gen|Number=Plur|Person=3	17	nmod:poss	_	_
+16	өч	өч	NUM	_	_	17	nummod	_	_
+17	үзәкләштерелгән	үзәкләштерелгән	ADJ	_	_	18	amod	_	_
+18	дини	дини	ADJ	_	_	19	amod	_	_
+19	оешмасы	оешма	NOUN	_	Case=Gen|Number=Sing|Person=3	21	obl	_	_
+20	катнашында	катнашу	NOUN	_	Case=Loc	19	case	_	_
+21	чыгарылган	чыгару	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	23	acl	_	_
+22	уникаль	уникаль	ADJ	_	_	23	amod	_	_
+23	басмада	басма	NOUN	_	Case=Loc|Number=Sing	28	obl	_	_
+24	Көнбатыш	Көнбатыш	PROPN	_	Case=Gen	25	nmod	_	_
+25	Себернең	Себер	PROPN	_	Case=Gen|Number=Sing|Person=3	26	nmod:poss	_	_
+26	көньягында	көньяк	NOUN	_	Case=Loc|Number=Sing	27	obl	_	_
+27	ислам	ислам	NOUN	_	Case=Nom|Number=Sing	28	nsubj	_	_
+28	таралышының	таралышы	NOUN	_	Case=Gen|Number=Sing|Person=3	29	nmod:poss	_	_
+29	тәфсилле	тәфсилле	ADJ	_	_	30	amod	_	_
+30	тарихы	тарих	NOUN	_	Case=Nom|Number=Sing|Person=3	31	nsubj	_	_
+31	бәян	бәян	NOUN	_	Case=Nom|Number=Sing	32	obj	_	_
+32	ителгән	итү	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+33	,	,	PUNCT	_	_	32	punct	_	_
+34	төбәктәге	төбәк	NOUN	_	Case=Loc|Number=Sing	35	amod	_	_
+35	һәрбер	һәрбер	DET	_	_	36	det	_	_
+36	мөселман	мөселман	NOUN	_	Case=Nom|Number=Sing	37	nmod	_	_
+37	мәхәлләсе	мәхәллә	NOUN	_	Case=Gen|Number=Sing|Person=3	39	nsubj	_	_
+38	турында	турында	ADP	_	_	37	case	_	_
+39	мәгълүмат	мәгълүмат	NOUN	_	Case=Nom|Number=Sing	40	nsubj	_	_
+40	бирелгән	бирү	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	32	conj	_	_
+41	.	.	PUNCT	_	_	32	punct	_	_
+
+# text = Эчтәлек шулай ук мөселман дини структуралары эшчәнлегенең тасвирламасын да үз эченә ала.
+1	Эчтәлек	эчтәлек	NOUN	_	Case=Nom|Number=Sing	10	nsubj	_	_
+2	шулай	шулай	ADV	_	_	10	advmod	_	_
+3	ук	ук	PART	_	_	2	advmod	_	_
+4	мөселман	мөселман	ADJ	_	_	6	amod	_	_
+5	дини	дини	ADJ	_	_	6	amod	_	_
+6	структуралары	структура	NOUN	_	Case=Gen|Number=Plur|Person=3	7	nmod:poss	_	_
+7	эшчәнлегенең	эшчәнлек	NOUN	_	Case=Gen|Number=Sing|Person=3	8	nmod:poss	_	_
+8	тасвирламасын	тасвирлама	NOUN	_	Case=Acc|Number=Sing|Person=3	10	obj	_	_
+9	да	да	PART	_	_	8	discourse	_	_
+10	үз	үз	PRON	_	Case=Acc|Number=Sing|Person=3	11	obl	_	_
+11	эченә	эч	NOUN	_	Case=Dat|Number=Sing	12	obl	_	_
+12	ала	ал	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+# text = Белешмәлекне Төмән өлкәсендә дини вәзгыятьне өйрәнү белән шөгыльләнүче белгечләргә ислам объектларында эшләүчеләр куллана ала.
+1	Белешмәлекне	белешмәлек	NOUN	_	Case=Acc|Number=Sing	10	obj	_	_
+2	Төмән	Төмән	PROPN	_	Case=Gen|Number=Sing	4	nmod	_	_
+3	өлкәсендә	өлкә	NOUN	_	Case=Loc|Number=Sing	4	case	_	_
+4	өлкәсендә	өлкә	NOUN	_	Case=Loc|Number=Sing	7	obl	_	_
+5	дини	дини	ADJ	_	_	6	amod	_	_
+6	вәзгыятьне	вәзгыять	NOUN	_	Case=Acc|Number=Sing	7	obj	_	_
+7	өйрәнү	өйрәнү	VERB	_	VerbForm=Inf	8	obl	_	_
+8	белән	белән	ADP	_	_	10	obl	_	_
+9	шөгыльләнүче	шөгыльләнүче	VERB	_	VerbForm=Part	10	acl	_	_
+10	белгечләргә	белгеч	NOUN	_	Case=Dat|Number=Plur	13	obl	_	_
+11	ислам	ислам	NOUN	_	Case=Nom|Number=Sing	12	nmod	_	_
+12	объектларында	объект	NOUN	_	Case=Loc|Number=Plur	13	obl	_	_
+13	эшләүчеләр	эшләүче	NOUN	_	Case=Nom|Number=Plur	14	nsubj	_	_
+14	куллана	куллану	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+15	ала	алу	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	14	aux	_	_
+16	.	.	PUNCT	_	_	14	punct	_	_
+
+# text = Татарстанның мәгариф һәм фән министры Илсур Һадиуллин әйтүенчә, укытучыларны мәктәпләрдә тотып калу өчен, халык тарафыннан яхшы мөнәсәбәт кирәк.
+1	Татарстанның	Татарстан	PROPN	_	Case=Gen|Number=Sing	5	nmod:poss	_	_
+2	мәгариф	мәгариф	NOUN	_	Case=Nom|Number=Sing	5	conj	_	_
+3	һәм	һәм	CCONJ	_	_	2	cc	_	_
+4	фән	фән	NOUN	_	Case=Nom|Number=Sing	2	conj	_	_
+5	министры	министр	NOUN	_	Case=Gen|Number=Sing	7	nmod	_	_
+6	Илсур	Илсур	PROPN	_	_	7	flat:name	_	_
+7	Һадиуллин	Һадиуллин	PROPN	_	_	8	nsubj	_	_
+8	әйтүенчә	әйтү	NOUN	_	Case=Equ|Number=Sing|VerbForm=Conv	13	advcl	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	укытучыларны	укытучы	NOUN	_	Case=Acc|Number=Plur	11	obj	_	_
+11	мәктәпләрдә	мәктәп	NOUN	_	Case=Loc|Number=Plur	12	obl	_	_
+12	тотып	тот	VERB	_	VerbForm=Conv	13	advcl	_	_
+13	калу	кал	VERB	_	VerbForm=Inf	0	root	_	_
+14	өчен	өчен	ADP	_	_	13	mark	_	_
+15	,	,	PUNCT	_	_	13	punct	_	_
+16	халык	халык	NOUN	_	Case=Nom|Number=Sing	18	nmod:agent	_	_
+17	тарафыннан	тарафыннан	ADP	_	_	16	case	_	_
+18	яхшы	яхшы	ADJ	_	_	19	amod	_	_
+19	мөнәсәбәт	мөнәсәбәт	NOUN	_	Case=Nom|Number=Sing	13	nsubj	_	_
+20	кирәк	кирәк	ADJ	_	_	13	xcomp	_	_
+21	.	.	PUNCT	_	_	13	punct	_	_
+
+# text = Бу фикерен ул Татарстан Президенты Рөстәм Миңнеханов Дәүләт Советына еллык юллама белән чыгышыннан соң әйтте.
+1	Бу	бу	DET	_	PronType=Dem	2	det	_	_
+2	фикерен	фикер	NOUN	_	Case=Acc|Number=Sing|Person=3|Poss=Sing	14	obj	_	_
+3	ул	ул	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+4	Татарстан	Татарстан	PROPN	_	_	5	nmod	_	_
+5	Президенты	президент	NOUN	_	Case=Gen|Number=Sing|Person=3|Poss=Sing	6	nmod:poss	_	_
+6	Рөстәм	Рөстәм	PROPN	_	_	7	flat:name	_	_
+7	Миңнеханов	Миңнеханов	PROPN	_	_	8	nmod	_	_
+8	Дәүләт	дәүләт	NOUN	_	Case=Nom|Number=Sing	9	compound	_	_
+9	Советына	совет	NOUN	_	Case=Dat|Number=Sing	10	obl	_	_
+10	еллык	еллык	ADJ	_	_	11	amod	_	_
+11	юллама	юллама	NOUN	_	Case=Ins|Number=Sing	12	obl	_	_
+12	белән	белән	ADP	_	_	11	case	_	_
+13	чыгышыннан	чыгыш	NOUN	_	Case=Abl|Number=Sing|Person=3|Poss=Sing	14	obl	_	_
+14	соң	соң	ADV	_	_	15	advmod	_	_
+15	әйтте	әйт	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+16	.	.	PUNCT	_	_	15	punct	_	_
+
+# text = «Укытучыларны тотып калу өчен иң беренче укытучыга, гомумән, мәгариф системасына мөнәсәбәтне үзгәртергә кирәк.
+1	«	«	PUNCT	_	_	2	punct	_	_
+2	Укытучыларны	укытучы	NOUN	_	Case=Acc|Number=Plur	5	obj	_	_
+3	тотып	тот	VERB	_	VerbForm=Conv	5	advcl	_	_
+4	калу	кал	VERB	_	VerbForm=Inf	5	xcomp	_	_
+5	өчен	өчен	ADP	_	_	10	advcl	_	_
+6	иң	иң	ADV	_	_	7	advmod	_	_
+7	беренче	беренче	ADJ	_	Degree=Pos	10	amod	_	_
+8	укытучыга	укытучы	NOUN	_	Case=Dat|Number=Sing	10	obl	_	_
+9	гомумән	гомумән	ADV	_	_	10	advmod	_	_
+10	мәгариф	мәгариф	NOUN	_	Case=Dat|Number=Sing	15	obl	_	_
+11	системасына	система	NOUN	_	Case=Dat|Number=Sing|Person=3|Poss=Yes	10	nmod	_	_
+12	мөнәсәбәтне	мөнәсәбәт	NOUN	_	Case=Acc|Number=Sing	13	obj	_	_
+13	үзгәртергә	үзгәрт	VERB	_	VerbForm=Inf	15	xcomp	_	_
+14	кирәк	кирәк	ADJ	_	_	15	cop	_	_
+15	.	.	PUNCT	_	_	0	root	_	_
+
+# text = Бу мөнәсәбәт ул Хөкүмәт, Президент тарафыннан бик яхшы.
+1	Бу	бу	DET	_	PronType=Dem	2	det	_	_
+2	мөнәсәбәт	мөнәсәбәт	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+3	ул	ул	PRON	_	Number=Sing|Person=3|PronType=Prs	2	appos	_	_
+4	Хөкүмәт	Хөкүмәт	PROPN	_	Case=Nom|Number=Sing	5	nmod	_	_
+5	Президент	Президент	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	_
+6	тарафыннан	тарафыннан	ADP	_	_	2	obl	_	_
+7	бик	бик	ADV	_	_	8	advmod	_	_
+8	яхшы	яхшы	ADJ	_	_	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# text = Дәүләт дәрәҗәсендә борчылып сөйлиләр, ә менә халык, массакүләм мәгълүмат чаралары, башка оешмалар тарафыннан әгәр аларга яхшы караш булмаса, ул бик катлаулы», — диде министр «Татар-информ» хәбәрчесенә.
+1	Дәүләт	дәүләт	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
+2	дәрәҗәсендә	дәрәҗә	NOUN	_	Case=Loc|Number=Sing	1	nmod	_	_
+3	борчылып	борчыл	VERB	_	VerbForm=Conv	5	advcl	_	_
+4	сөйлиләр	сөйлә	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	parataxis	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	ә	ә	CCONJ	_	_	4	cc	_	_
+7	менә	менә	PART	_	_	10	discourse	_	_
+8	халык	халык	NOUN	_	Case=Nom|Number=Sing	10	conj	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	массакүләм	массакүләм	ADJ	_	_	12	amod	_	_
+11	мәгълүмат	мәгълүмат	NOUN	_	Case=Nom|Number=Sing	12	nmod	_	_
+12	чаралары	чара	NOUN	_	Case=Nom|Number=Plur|Person=3|Poss=Yes	8	conj	_	_
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	башка	башка	ADJ	_	_	15	amod	_	_
+15	оешмалар	оешма	NOUN	_	Case=Nom|Number=Plur	8	conj	_	_
+16	тарафыннан	тарафыннан	ADP	_	_	15	case	_	_
+17	әгәр	әгәр	SCONJ	_	_	20	mark	_	_
+18	аларга	алар	PRON	_	Case=Dat|Number=Plur|Person=3	20	obl	_	_
+19	яхшы	яхшы	ADJ	_	_	20	amod	_	_
+20	караш	караш	NOUN	_	Case=Nom|Number=Sing	24	nsubj	_	_
+21	булмаса	бул	VERB	_	Polarity=Neg|VerbForm=Cond	20	acl:relcl	_	_
+22	,	,	PUNCT	_	_	21	punct	_	_
+23	ул	ул	PRON	_	Case=Nom|Number=Sing|Person=3	24	nsubj	_	_
+24	бик	бик	ADV	_	_	25	advmod	_	_
+25	катлаулы	катлаулы	ADJ	_	_	0	root	_	_
+26	»	»	PUNCT	_	_	25	punct	_	_
+27	,	,	PUNCT	_	_	25	punct	_	_
+28	—	—	PUNCT	_	_	25	punct	_	_
+29	диде	дие	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	parataxis	_	_
+30	министр	министр	NOUN	_	Case=Nom|Number=Sing	29	nsubj	_	_
+31	«	«	PUNCT	_	_	32	punct	_	_
+32	Татар-информ	Татар-информ	PROPN	_	_	33	nmod	_	_
+33	хәбәрчесенә	хәбәрче	NOUN	_	Case=Dat|Number=Sing|Person=3|Poss=Yes	29	obl	_	_
+34	.	.	PUNCT	_	_	25	punct	_	_
+
+# text = Министр сүзләренчә, быел укырга керүчеләрнең исемлеген карасаң, күп кенә педагогик белгечлекләргә чит телләр дә керә.
+1	Министр	министр	NOUN	_	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	сүзләренчә	сүз	NOUN	_	Case=Equ|Number=Plur|Person=3	13	obl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	быел	быел	ADV	_	_	6	advmod	_	_
+5	укырга	укы	VERB	_	VerbForm=Inf	6	xcomp	_	_
+6	керүчеләрнең	керүче	NOUN	_	Case=Gen|Number=Plur	7	nmod:poss	_	_
+7	исемлеген	исемлек	NOUN	_	Case=Acc|Number=Sing	8	obj	_	_
+8	карасаң	кара	VERB	_	Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	13	advcl	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	күп	күп	DET	_	_	11	det	_	_
+11	кенә	кена	PART	_	_	12	advmod	_	_
+12	педагогик	педагогик	ADJ	_	_	13	amod	_	_
+13	белгечлекләргә	белгечлек	NOUN	_	Case=Dat|Number=Plur	0	root	_	_
+14	чит	чит	ADJ	_	_	15	amod	_	_
+15	телләр	тел	NOUN	_	Case=Nom|Number=Plur	16	nsubj	_	_
+16	дә	дә	PART	_	_	17	advmod	_	_
+17	керә	кер	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	_
+18	.	.	PUNCT	_	_	13	punct	_	_
+
+# text = «Математика һәм чит тел, тарих һәм чит тел буенча белем алган белгечләр мәктәпләргә кирәк, алар төпләнеп калыр дип өметләнәбез», — дип белдерде ул.
+1	«	«	PUNCT	_	_	16	punct	_	_
+2	Математика	математика	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+3	һәм	һәм	CCONJ	_	_	2	cc	_	_
+4	чит	чит	ADJ	_	_	5	amod	_	_
+5	тел	тел	NOUN	_	Case=Nom|Number=Sing	2	conj	_	_
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	тарих	тарих	NOUN	_	Case=Nom|Number=Sing	11	nsubj	_	_
+8	һәм	һәм	CCONJ	_	_	7	cc	_	_
+9	чит	чит	ADJ	_	_	10	amod	_	_
+10	тел	тел	NOUN	_	Case=Nom|Number=Sing	7	conj	_	_
+11	буенча	буенча	ADP	_	_	7	case	_	_
+12	белем	белем	NOUN	_	Case=Acc|Number=Sing	13	obj	_	_
+13	алган	ал	VERB	_	Tense=Past|VerbForm=Part	16	acl	_	_
+14	белгечләр	белгеч	NOUN	_	Case=Nom|Number=Plur	13	nsubj	_	_
+15	мәктәпләргә	мәктәп	NOUN	_	Case=Dat|Number=Plur	16	obl	_	_
+16	кирәк	кирәк	ADJ	_	_	0	root	_	_
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	алар	алар	PRON	_	Case=Nom|Number=Plur|Person=3	20	nsubj	_	_
+19	төпләнеп	төплән	VERB	_	VerbForm=Conv	20	advcl	_	_
+20	калыр	кал	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	23	ccomp	_	_
+21	дип	дип	SCONJ	_	_	20	mark	_	_
+22	өметләнәбез	өметлән	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	23	advcl	_	_
+23	,	,	PUNCT	_	_	16	punct	_	_
+24	—	—	PUNCT	_	_	27	punct	_	_
+25	дип	дип	SCONJ	_	_	27	mark	_	_
+26	белдерде	белдер	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	parataxis	_	_
+27	ул	ул	PRON	_	Case=Nom|Number=Sing|Person=3	26	nsubj	_	_
+28	.	.	PUNCT	_	_	16	punct	_	_
+
+# text = Татарстан Дәүләт Советы Рәисе урынбасары Марат Әхмәтов телсез халыкның милләтен дә югалта алуы турында кисәтте.
+1	Татарстан	Татарстан	PROPN	_	Case=Gen|Number=Sing	4	nmod	_	_
+2	Дәүләт	дәүләт	NOUN	_	Case=Gen|Number=Sing	3	nmod	_	_
+3	Советы	совет	NOUN	_	Case=Gen|Number=Sing	4	nmod	_	_
+4	Рәисе	рәис	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	_
+5	урынбасары	урынбасар	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+6	Марат	Марат	PROPN	_	_	5	flat:name	_	_
+7	Әхмәтов	Әхмәтов	PROPN	_	_	6	flat:name	_	_
+8	телсез	телсез	ADJ	_	_	9	amod	_	_
+9	халыкның	халык	NOUN	_	Case=Gen|Number=Sing	10	nmod:poss	_	_
+10	милләтен	милләт	NOUN	_	Case=Acc|Number=Sing|Person=3|Poss=Sing	13	obj	_	_
+11	дә	дә	PART	_	_	10	discourse	_	_
+12	югалта	югалт	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	xcomp	_	_
+13	алуы	ал	VERB	_	Case=Nom|Number=Sing|Person=3|Poss=Sing|VerbForm=Vnoun	15	csubj	_	_
+14	турында	турында	ADP	_	_	13	case	_	_
+15	кисәтте	кисәт	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+16	.	.	PUNCT	_	_	15	punct	_	_
+
+# text = «Милләтебезне телебез белән турыдан-туры бәйлим, чөнки телсез халык акрынлап милләтен дә югалтырга мөмкин.
+1	«	«	PUNCT	_	_	2	punct	_	_
+2	Милләтебезне	милләт	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Plur|Person[psor]=1	7	obj	_	_
+3	телебез	тел	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Plur|Person[psor]=1	5	obl	_	_
+4	белән	белән	ADP	_	_	3	case	_	_
+5	турыдан-туры	турыдан-туры	ADV	_	_	7	advmod	_	_
+6	бәйлим	бәйлә	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	7	conj	_	_
+7	бәйлим	бәйлә	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	чөнки	чөнки	SCONJ	_	_	13	mark	_	_
+10	телсез	телсез	ADJ	_	_	11	amod	_	_
+11	халык	халык	NOUN	_	Case=Nom|Number=Sing	13	nsubj	_	_
+12	акрынлап	акрынлап	ADV	_	_	13	advmod	_	_
+13	милләтен	милләт	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	15	obj	_	_
+14	дә	дә	PART	_	_	13	discourse	_	_
+15	югалтырга	югалт	VERB	_	VerbForm=Inf	16	xcomp	_	_
+16	мөмкин	мөмкин	ADJ	_	_	7	advcl	_	_
+17	.	.	PUNCT	_	_	7	punct	_	_
+
+# text = Республикабызда туган телнең торышы мактанырлык булмаса да, безгә аңлашырга мөмкинлек бирде.
+1	Республикабызда	республика	NOUN	_	Case=Loc|Number=Sing|Person=1|Poss=Yes	7	obl	_	_
+2	туган	туган	ADJ	_	_	3	amod	_	_
+3	телнең	тел	NOUN	_	Case=Gen|Number=Sing|Person=3|Poss=Yes	1	nmod	_	_
+4	торышы	торыш	NOUN	_	Case=Nom|Number=Sing|Person=3|Poss=Yes	1	nmod	_	_
+5	мактанырлык	мактанырлык	ADJ	_	_	6	xcomp	_	_
+6	булмаса	бул	VERB	_	Mood=Cnd|Polarity=Neg|VerbForm=Conv	7	advcl	_	_
+7	да	да	PART	_	_	12	advmod	_	_
+8	безгә	без	PRON	_	Case=Dat|Number=Plur|Person=1	9	iobj	_	_
+9	аңлашырга	аңлаш	VERB	_	VerbForm=Inf	12	xcomp	_	_
+10	мөмкинлек	мөмкинлек	NOUN	_	Case=Nom|Number=Sing	12	obj	_	_
+11	бирде	бир	VERB	_	Number=Sing|Person=3|Tense=Past	12	conj	_	_
+12	бирде	бир	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	_
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+# text = Безнең күп төрле җәмәгать оешмалары, матбугат чаралары, сәнгать учреждениеләре белән уртак проектлар гамәлдә.
+1	Безнең	без	PRON	_	Case=Gen|Number=Plur|Person=1	4	nmod:poss	_	_
+2	күп	күп	DET	_	_	4	det	_	_
+3	төрле	төрле	ADJ	_	_	4	amod	_	_
+4	җәмәгать	җәмәгать	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	_
+5	оешмалары	оешма	NOUN	_	Case=Nom|Number=Plur|Person=3|Poss=3	4	flat	_	_
+6	матбугат	матбугат	NOUN	_	Case=Nom|Number=Sing	7	conj	_	_
+7	чаралары	чара	NOUN	_	Case=Nom|Number=Plur|Person=3|Poss=3	4	conj	_	_
+8	сәнгать	сәнгать	NOUN	_	Case=Nom|Number=Sing	11	nmod	_	_
+9	учреждениеләре	учреждение	NOUN	_	Case=Nom|Number=Plur|Person=3|Poss=3	8	flat	_	_
+10	белән	белән	ADP	_	_	8	case	_	_
+11	уртак	уртак	ADJ	_	_	12	amod	_	_
+12	проектлар	проект	NOUN	_	Case=Nom|Number=Plur	13	nsubj	_	_
+13	гамәлдә	гамәлдә	ADV	_	_	0	root	_	_
+14	.	.	PUNCT	_	_	13	punct	_	_
+
+# text = Алар халкыбызның туган телебезгә рухи ихтыяҗын үстерү мәсьәләсендә безгә хәйран булышыр дип өметләнәм.
+1	Алар	алар	PRON	_	Case=Nom|Number=Plur|Person=3	13	nsubj	_	_
+2	халкыбызның	халык	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nmod:poss	_	_
+3	туган	туган	ADJ	_	_	4	amod	_	_
+4	телебезгә	тел	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=1	6	obl	_	_
+5	рухи	рухи	ADJ	_	_	6	amod	_	_
+6	ихтыяҗын	ихтыяҗ	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	obj	_	_
+7	үстерү	үстерү	VERB	_	VerbForm=Inf	8	nmod	_	_
+8	мәсьәләсендә	мәсьәлә	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	obl	_	_
+9	безгә	без	PRON	_	Case=Dat|Number=Plur|Person=1	13	obl	_	_
+10	хәйран	хәйран	ADV	_	_	11	advmod	_	_
+11	булышыр	булыш	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut	13	ccomp	_	_
+12	дип	дип	SCONJ	_	_	11	mark	_	_
+13	өметләнәм	өметлән	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+14	.	.	PUNCT	_	_	13	punct	_	_
+
+# text = Президентыбызга рәхмәт, һәр мөрәҗәгать яклау табып килә», — диде.
+1	Президентыбызга	президент	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Plur|Person[psor]=1	3	obl	_	_
+2	рәхмәт	рәхмәт	NOUN	_	_	3	obj	_	_
+3	диде	ди	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	һәр	һәр	DET	_	_	5	det	_	_
+5	мөрәҗәгать	мөрәҗәгать	NOUN	_	_	7	nsubj	_	_
+6	яклау	яклау	NOUN	_	_	7	obj	_	_
+7	табып	тап	VERB	_	VerbForm=Conv	3	advcl	_	_
+8	килә	кил	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+9	»	»	PUNCT	_	_	3	punct	_	_
+10	—	—	PUNCT	_	_	3	punct	_	_
+
+# text = Ә милләтле халык телле булырга тиеш.
+1	Ә	ә	ADV	_	_	4	advmod	_	_
+2	милләтле	милләтле	ADJ	_	_	3	amod	_	_
+3	халык	халык	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+4	телле	телле	ADJ	_	_	6	xcomp	_	_
+5	булырга	бул	VERB	_	VerbForm=Inf	4	aux	_	_
+6	тиеш	тиеш	AUX	_	Mood=Nec|VerbForm=Fin	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# text = Татар теле ул дәүләтле, дәүләте булган тел», — диде Марат Әхмәтов «Татар-информ» хәбәрчесенә.
+1	Татар	татар	ADJ	_	Case=Nom	2	amod	_	_
+2	теле	тел	NOUN	_	Case=Nom|Number=Sing|Person=3|Poss=Yes	7	nsubj	_	_
+3	ул	ул	PRON	_	Case=Nom|Number=Sing|Person=3	2	cop	_	_
+4	дәүләтле	дәүләтле	ADJ	_	_	2	amod	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	дәүләте	дәүләт	NOUN	_	Case=Gen|Number=Sing|Person=3|Poss=Yes	7	nmod	_	_
+7	булган	бул	VERB	_	Tense=Past|VerbForm=Part	2	acl	_	_
+8	тел	тел	NOUN	_	Case=Nom|Number=Sing	7	obj	_	_
+9	»	»	PUNCT	_	_	8	punct	_	_
+10	,	,	PUNCT	_	_	7	punct	_	_
+11	—	—	PUNCT	_	_	13	punct	_	_
+12	диде	ди	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+13	Марат	Марат	PROPN	_	_	12	nsubj	_	_
+14	Әхмәтов	Әхмәтов	PROPN	_	_	13	flat	_	_
+15	«	«	PUNCT	_	_	17	punct	_	_
+16	Татар-информ	Татар-информ	PROPN	_	_	17	compound	_	_
+17	хәбәрчесенә	хәбәрче	NOUN	_	Case=Dat|Number=Sing|Person=3|Poss=Yes	12	obl	_	_
+18	.	.	PUNCT	_	_	12	punct	_	_
+
+# text = Ул халык санын алу бик мөһим, җаваплы чор булганын искәртте.
+1	Ул	ул	PRON	_	Case=Nom|Number=Sing|Person=3	6	nsubj	_	_
+2	халык	халык	NOUN	_	Case=Gen|Number=Sing	4	nmod	_	_
+3	санын	сан	NOUN	_	Case=Acc|Number=Sing|Person=3|Poss=Sing	4	obj	_	_
+4	алу	алу	VERB	_	VerbForm=Inf	6	obj	_	_
+5	бик	бик	ADV	_	_	6	advmod	_	_
+6	мөһим	мөһим	ADJ	_	_	10	ccomp	_	_
+7	җаваплы	җаваплы	ADJ	_	_	8	amod	_	_
+8	чор	чор	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	_
+9	булганын	бул	VERB	_	Case=Acc|Number=Sing|Person=3|Poss=Sing|Tense=Past|VerbForm=Part	10	advcl	_	_
+10	искәртте	искәрт	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# text = «Ил күләмендә татарларның саны кимемәсен иде дип теләр идем.
+1	«	«	PUNCT	_	_	8	punct	_	_
+2	Ил	ил	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	_
+3	күләмендә	күләм	NOUN	_	Case=Loc|Number=Sing	2	nmod	_	_
+4	татарларның	татар	NOUN	_	Case=Gen|Number=Plur	5	nmod	_	_
+5	саны	сан	NOUN	_	Case=Nom|Number=Sing|Person=3	8	nsubj	_	_
+6	кимемәсен	киме	VERB	_	Mood=Opt|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+7	иде	иде	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
+8	дип	дип	SCONJ	_	_	10	mark	_	_
+9	теләр	телә	VERB	_	Mood=Opt|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	acl	_	_
+10	идем	иде	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# text = Үрчү сәләте ягыннан татар милләте болай да утрак, төпле гаиләле халык.
+1	Үрчү	үрчү	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	_
+2	сәләте	сәләт	NOUN	_	Case=Gen|Number=Sing	7	obl	_	_
+3	ягыннан	ягы	NOUN	_	Case=Abl|Number=Sing	2	case	_	_
+4	татар	татар	ADJ	_	_	5	amod	_	_
+5	милләте	милләт	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+6	болай	болай	ADV	_	_	7	advmod	_	_
+7	да	да	PART	_	_	0	root	_	_
+8	утрак	утрак	ADJ	_	_	7	conj	_	_
+9	төпле	төпле	ADJ	_	_	10	amod	_	_
+10	гаиләле	гаиләле	ADJ	_	_	8	conj	_	_
+11	халык	халык	NOUN	_	Case=Nom|Number=Sing	10	conj	_	_
+12	.	.	PUNCT	_	_	7	punct	_	_
+
+# text = Безгә үзебезне саклап, яклап, рухи ныклыгыбызны танытып, төрле төбәкләрдәге милләттәшләребез белән ныклы элемтәдә бер айлык сынауны уңышлы үтәргә кирәк», — диде.
+1	Безгә	без	PRON	_	Case=Dat|Number=Plur|Person=1	13	obl	_	_
+2	үзебезне	үзебез	PRON	_	Case=Acc|Number=Plur|Person=1	3	obj	_	_
+3	саклап	сакла	VERB	_	VerbForm=Conv	13	advcl	_	_
+4	яклап	якла	VERB	_	VerbForm=Conv	3	conj	_	_
+5	рухи	рухи	ADJ	_	_	6	amod	_	_
+6	ныклыгыбызны	ныклык	NOUN	_	Case=Acc|Number=Sing|Person=1|Poss=Plur	7	obj	_	_
+7	танытып	таныт	VERB	_	VerbForm=Conv	3	conj	_	_
+8	төрле	төрле	ADJ	_	_	9	amod	_	_
+9	төбәкләрдәге	төбәк	NOUN	_	Case=Loc|Number=Plur	10	amod	_	_
+10	милләттәшләребез	милләттәш	NOUN	_	Case=Nom|Number=Plur|Person=1|Poss=Plur	13	obl	_	_
+11	белән	белән	ADP	_	_	10	case	_	_
+12	ныклы	ныклы	ADJ	_	_	13	amod	_	_
+13	элемтәдә	элемтә	NOUN	_	Case=Loc|Number=Sing	18	obl	_	_
+14	бер	бер	NUM	_	_	15	nummod	_	_
+15	айлык	ай	NOUN	_	Case=Nom|Number=Sing	16	amod	_	_
+16	сынауны	сынау	NOUN	_	Case=Acc|Number=Sing	17	obj	_	_
+17	уңышлы	уңышлы	ADJ	_	_	18	amod	_	_
+18	үтәргә	үт	VERB	_	VerbForm=Inf	19	xcomp	_	_
+19	кирәк	кирәк	AUX	_	_	21	ccomp	_	_
+20	»	»	PUNCT	_	_	21	punct	_	_
+21	диде	де	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	_
+22	.	.	PUNCT	_	_	21	punct	_	_
+
+# text = Марат Әхмәтов Туган телләр елы кысаларында матур эшләргә өндәде.
+1	Марат	Марат	PROPN	_	Case=Nom|Number=Sing	8	nsubj	_	_
+2	Әхмәтов	Әхмәтов	PROPN	_	Case=Nom|Number=Sing	1	flat	_	_
+3	Туган	туган	ADJ	_	Degree=Pos	4	amod	_	_
+4	телләр	тел	NOUN	_	Case=Gen|Number=Plur	6	nmod	_	_
+5	елы	ел	NOUN	_	Case=Gen|Number=Sing	6	nmod	_	_
+6	кысаларында	кысалар	NOUN	_	Case=Loc|Number=Plur	8	obl	_	_
+7	матур	матур	ADJ	_	Degree=Pos	8	amod	_	_
+8	эшләргә	эшлә	VERB	_	VerbForm=Inf	9	xcomp	_	_
+9	өндәде	өндә	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# text = «Комиссия эшчәнлегендә елны шулай итеп игълан итү безгә бик тупланып эшләргә ярдәм итте.
+1	«	«	PUNCT	_	_	10	punct	_	_
+2	Комиссия	комиссия	NOUN	_	Case=Gen|Number=Sing	4	nmod:poss	_	_
+3	эшчәнлегендә	эшчәнлек	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl	_	_
+4	елны	ел	NOUN	_	Case=Acc|Number=Sing	10	obj	_	_
+5	шулай	шулай	ADV	_	_	6	advmod	_	_
+6	итеп	ит	VERB	_	VerbForm=Conv	10	advcl	_	_
+7	игълан	игълан	NOUN	_	_	6	obj	_	_
+8	итү	ит	VERB	_	VerbForm=Inf	7	acl	_	_
+9	безгә	без	PRON	_	Case=Dat|Number=Plur|Person=1	10	iobj	_	_
+10	бик	бик	ADV	_	_	12	advmod	_	_
+11	тупланып	туплан	VERB	_	VerbForm=Conv	12	advcl	_	_
+12	эшләргә	эшлә	VERB	_	VerbForm=Inf	13	xcomp	_	_
+13	ярдәм	ярдәм	NOUN	_	_	14	obj	_	_
+14	итте	ит	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+# text = Татарстанда коронавирустан беренче прививканы 11 октябрьгә кадәр сәүдә үзәкләрендә ясатырга мөмкин.
+1	Татарстанда	Татарстан	PROPN	_	Case=Loc	2	obl	_	_
+2	коронавирустан	коронавирус	NOUN	_	Case=Abl	7	obl	_	_
+3	беренче	беренче	ADJ	_	_	4	amod	_	_
+4	прививканы	прививка	NOUN	_	Case=Acc	7	obj	_	_
+5	11	11	NUM	_	_	6	nummod	_	_
+6	октябрьгә	октябрь	NOUN	_	Case=Dat	7	obl	_	_
+7	кадәр	кадәр	ADP	_	_	10	obl	_	_
+8	сәүдә	сәүдә	NOUN	_	_	9	nmod	_	_
+9	үзәкләрендә	үзәк	NOUN	_	Case=Loc|Number=Plur	7	obl	_	_
+10	ясатырга	ясат	VERB	_	VerbForm=Inf	11	xcomp	_	_
+11	мөмкин	мөмкин	ADJ	_	_	0	root	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# text = Татарстан Сәламәтлек саклау министрлыгы матбугат хезмәтендә мобиль вакцинация пунктларының эш тәртибен аңлаттылар.
+1	Татарстан	Татарстан	PROPN	_	Case=Nom|Number=Sing	4	nmod	_	_
+2	Сәламәтлек	сәламәтлек	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
+3	саклау	саклау	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	_
+4	министрлыгы	министрлык	NOUN	_	Case=Gen|Number=Sing|Person=3	6	nmod	_	_
+5	матбугат	матбугат	NOUN	_	Case=Nom|Number=Sing	6	nmod	_	_
+6	хезмәтендә	хезмәт	NOUN	_	Case=Loc|Number=Sing|Person=3	10	obl	_	_
+7	мобиль	мобиль	ADJ	_	_	8	amod	_	_
+8	вакцинация	вакцинация	NOUN	_	Case=Gen|Number=Sing	9	nmod	_	_
+9	пунктларының	пункт	NOUN	_	Case=Gen|Number=Plur|Person=3	10	nsubj	_	_
+10	эш	эш	NOUN	_	Case=Acc|Number=Sing	11	obj	_	_
+11	тәртибен	тәртип	NOUN	_	Case=Acc|Number=Sing|Person=3	12	obj	_	_
+12	аңлаттылар	аңлат	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+# text = Моннан тыш, Covid-19 инфекциясеннән прививканы яшәү урыны буенча поликлиникада ясатырга мөмкин.
+1	Моннан	моннан	ADV	_	_	7	advmod	_	_
+2	тыш	тыш	ADP	_	_	1	case	_	_
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	Covid-19	Covid-19	PROPN	_	_	5	compound	_	_
+5	инфекциясеннән	инфекция	NOUN	_	Case=Abl|Number=Sing	7	obl	_	_
+6	прививканы	прививка	NOUN	_	Case=Acc|Number=Sing	7	obj	_	_
+7	ясатырга	ясатырга	VERB	_	VerbForm=Inf	0	root	_	_
+8	яшәү	яшәү	NOUN	_	Case=Nom|Number=Sing	9	nmod	_	_
+9	урыны	урын	NOUN	_	Case=Gen|Number=Sing	10	obl	_	_
+10	буенча	буенча	ADP	_	_	7	obl	_	_
+11	поликлиникада	поликлиника	NOUN	_	Case=Loc|Number=Sing	7	obl	_	_
+12	мөмкин	мөмкин	ADJ	_	_	7	xcomp	_	_
+13	.	.	PUNCT	_	_	7	punct	_	_
+
+# text = Әмма сәүдә үзәгендә вакцинация пунктына аерым керү урыны оештырылса, ул барлык теләүчеләр өчен эшне дәвам итәчәк.
+1	Әмма	әмма	CCONJ	_	_	13	cc	_	_
+2	сәүдә	сәүдә	NOUN	_	Case=Gen|Number=Sing	3	nmod	_	_
+3	үзәгендә	үзәк	NOUN	_	Case=Loc|Number=Sing|Person=3|Poss=Sing	7	obl	_	_
+4	вакцинация	вакцинация	NOUN	_	Case=Gen|Number=Sing	5	nmod	_	_
+5	пунктына	пункт	NOUN	_	Case=Dat|Number=Sing|Person=3|Poss=Sing	7	obl	_	_
+6	аерым	аерым	ADJ	_	_	7	amod	_	_
+7	керү	керү	NOUN	_	Case=Acc|Number=Sing	8	obj	_	_
+8	урыны	урын	NOUN	_	Case=Gen|Number=Sing|Person=3|Poss=Sing	9	obl	_	_
+9	оештырылса	оештыр	VERB	_	Mood=Cnd|Tense=Past|VerbForm=Conv|Voice=Pass	13	advcl	_	_
+10	ул	ул	PRON	_	Case=Nom|Number=Sing|Person=3	13	nsubj	_	_
+11	барлык	барлык	DET	_	_	12	det	_	_
+12	теләүчеләр	теләүче	NOUN	_	Case=Gen|Number=Plur	15	nmod	_	_
+13	өчен	өчен	ADP	_	_	15	case	_	_
+14	эшне	эш	NOUN	_	Case=Acc|Number=Sing	15	obj	_	_
+15	дәвам	дәвам	NOUN	_	Case=Acc|Number=Sing	16	obj	_	_
+16	итәчәк	ит	VERB	_	Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+17	.	.	PUNCT	_	_	16	punct	_	_
+
+# text = Хәзер Татарстанда стационар һәм мобиль бригадалар өчен 163 вакцинация пункты эшли.
+1	Хәзер	хәзер	ADV	_	_	8	advmod	_	_
+2	Татарстанда	Татарстан	PROPN	_	Case=Loc	8	obl	_	_
+3	стационар	стационар	ADJ	_	_	5	amod	_	_
+4	һәм	һәм	CCONJ	_	_	5	cc	_	_
+5	мобиль	мобиль	ADJ	_	_	6	amod	_	_
+6	бригадалар	бригада	NOUN	_	Number=Plur	7	nmod	_	_
+7	өчен	өчен	ADP	_	_	6	case	_	_
+8	163	163	NUM	_	_	9	nummod	_	_
+9	вакцинация	вакцинация	NOUN	_	_	10	nmod	_	_
+10	пункты	пункт	NOUN	_	Number=Sing	11	nsubj	_	_
+11	эшли	эшлә	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# text = Ихтыяҗ булса, аларның саны арттырылачак.
+1	Ихтыяҗ	ихтыяҗ	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+2	булса	бул	AUX	_	Mood=Cnd|Tense=Pres|VerbForm=Conv	5	advcl	_	_
+3	аларның	алар	PRON	_	Case=Gen|Number=Plur|Person=3	4	nmod:poss	_	_
+4	саны	сан	NOUN	_	Case=Nom|Number=Sing|Person=3|Poss=Yes	5	nsubj	_	_
+5	арттырылачак	арттыр	VERB	_	Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# text = Социаль челтәрдә Казанда Тукай урамында низаг вакытында билгесез кеше ир-атны юлга этеп чыгарган һәм аны автомобиль таптаткан.
+1	Социаль	социаль	ADJ	_	_	2	amod	_	_
+2	челтәрдә	челтәр	NOUN	_	Case=Loc|Number=Sing	13	obl	_	_
+3	Казанда	Казан	PROPN	_	Case=Loc|Number=Sing	13	obl	_	_
+4	Тукай	Тукай	PROPN	_	Case=Gen|Number=Sing	5	nmod	_	_
+5	урамында	урам	NOUN	_	Case=Loc|Number=Sing	13	obl	_	_
+6	низаг	низаг	NOUN	_	Case=Gen|Number=Sing	7	nmod	_	_
+7	вакытында	вакыт	NOUN	_	Case=Loc|Number=Sing	13	obl	_	_
+8	билгесез	билгесез	ADJ	_	_	9	amod	_	_
+9	кеше	кеше	NOUN	_	Case=Nom|Number=Sing	13	nsubj	_	_
+10	ир-атны	ир-ат	NOUN	_	Case=Acc|Number=Sing	13	obj	_	_
+11	юлга	юл	NOUN	_	Case=Dat|Number=Sing	12	obl	_	_
+12	этеп	эт	VERB	_	VerbForm=Conv	13	advcl	_	_
+13	чыгарган	чыгар	VERB	_	Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+14	һәм	һәм	CCONJ	_	_	15	cc	_	_
+15	аны	ул	PRON	_	Case=Acc|Number=Sing|Person=3	16	obj	_	_
+16	автомобиль	автомобиль	NOUN	_	Case=Nom|Number=Sing	17	nsubj	_	_
+17	таптаткан	таптат	VERB	_	Tense=Past|VerbForm=Part|Voice=Caus	13	conj	_	_
+18	.	.	PUNCT	_	_	13	punct	_	_
+
+# text = Тикшерү ачыклаганча, бу хәл 5 октябрьдә кич булган.
+1	Тикшерү	тикшерү	NOUN	_	Case=Nom|Number=Sing	2	obl	_	_
+2	ачыклаганча	ачыклаганча	SCONJ	_	_	7	mark	_	_
+3	бу	бу	DET	_	_	4	det	_	_
+4	хәл	хәл	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+5	5	5	NUM	_	_	6	nummod	_	_
+6	октябрьдә	октябрь	NOUN	_	Case=Loc|Number=Sing	7	obl	_	_
+7	кич	кич	NOUN	_	Case=Nom|Number=Sing	8	obl	_	_
+8	булган	бул	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# text = Әлегә билгесез кеше 27 яшьлек ир-атны Skoda автомобиле тәгәрмәче астына эткән.
+1	Әлегә	әлегә	ADV	_	_	7	advmod	_	_
+2	билгесез	билгесез	ADJ	_	_	3	amod	_	_
+3	кеше	кеше	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+4	27	27	NUM	_	_	5	nummod	_	_
+5	яшьлек	яшьлек	ADJ	_	_	6	amod	_	_
+6	ир-атны	ир-ат	NOUN	_	Case=Acc|Number=Sing	7	obj	_	_
+7	эткән	эт	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+8	Skoda	Skoda	PROPN	_	_	9	compound	_	_
+9	автомобиле	автомобиль	NOUN	_	Case=Gen|Number=Sing	10	nmod:poss	_	_
+10	тәгәрмәче	тәгәрмәч	NOUN	_	Case=Gen|Number=Sing	11	nmod:poss	_	_
+11	астына	асты	NOUN	_	Case=Dat|Number=Sing	7	obl	_	_
+12	.	.	PUNCT	_	_	7	punct	_	_
+
+# text = Хәзер имгәнгән кеше хастаханәдә ята.
+1	Хәзер	хәзер	ADV	_	_	5	advmod	_	_
+2	имгәнгән	имгән	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	_
+3	кеше	кеше	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+4	хастаханәдә	хастаханә	NOUN	_	Case=Loc|Number=Sing	5	obl	_	_
+5	ята	ят	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# text = «Үтерергә омтылу» маддәсе буенча җинаять эше кузгатылган.
+1	«	«	PUNCT	_	_	3	punct	_	_
+2	Үтерергә	үтерергә	VERB	_	VerbForm=Inf	3	acl	_	_
+3	омтылу	омтылу	NOUN	_	Case=Nom	4	nmod	_	_
+4	»	»	PUNCT	_	_	3	punct	_	_
+5	маддәсе	маддә	NOUN	_	Case=Gen|Number=Sing|Person=3	6	nmod	_	_
+6	буенча	буенча	ADP	_	_	7	case	_	_
+7	җинаять	җинаять	NOUN	_	Case=Nom	8	nmod	_	_
+8	эше	эш	NOUN	_	Case=Nom|Number=Sing|Person=3	9	nsubj:pass	_	_
+9	кузгатылган	кузгатыл	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# text = Хәзер тикшерүчеләр бу хәл килеп чыгу сәбәпләрен ачыклый, шулай ук ир-атны юлга этеп чыгарган кешене эзлиләр, дип хәбәр итте Россия Тикшерү идарәсенең Татарстан буенча Тикшерү идарәсе җитәкчесенең өлкән ярдәмчесе Андрей Шептицкий.
+1	Хәзер	хәзер	ADV	_	_	7	advmod	_	_
+2	тикшерүчеләр	тикшерүче	NOUN	_	Case=Nom|Number=Plur	7	nsubj	_	_
+3	бу	бу	DET	_	_	4	det	_	_
+4	хәл	хәл	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+5	килеп	килеп	ADV	_	_	6	advmod	_	_
+6	чыгу	чыгу	NOUN	_	Case=Gen|Number=Sing	7	obl	_	_
+7	сәбәпләрен	сәбәп	NOUN	_	Case=Acc|Number=Plur|Person=3|Poss=Yes	8	obj	_	_
+8	ачыклый	ачыкла	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	шулай	шулай	ADV	_	_	12	advmod	_	_
+11	ук	ук	PART	_	_	10	advmod	_	_
+12	ир-атны	ир-ат	NOUN	_	Case=Acc|Number=Sing	13	obj	_	_
+13	юлга	юл	NOUN	_	Case=Dat|Number=Sing	14	obl	_	_
+14	этеп	эт	VERB	_	VerbForm=Conv	15	advcl	_	_
+15	чыгарган	чыгар	VERB	_	Tense=Past|VerbForm=Part	16	acl	_	_
+16	кешене	кеше	NOUN	_	Case=Acc|Number=Sing	17	obj	_	_
+17	эзлиләр	эзлә	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	8	conj	_	_
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	дип	дип	SCONJ	_	_	20	mark	_	_
+20	хәбәр	хәбәр	NOUN	_	Case=Acc|Number=Sing	21	obj	_	_
+21	итте	ит	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	parataxis	_	_
+22	Россия	Россия	PROPN	_	Case=Gen|Number=Sing	25	nmod	_	_
+23	Тикшерү	тикшерү	NOUN	_	Case=Gen|Number=Sing	25	nmod	_	_
+24	идарәсенең	идарә	NOUN	_	Case=Gen|Number=Sing|Person=3|Poss=Yes	25	nmod	_	_
+25	Татарстан	Татарстан	PROPN	_	Case=Gen|Number=Sing	27	nmod	_	_
+26	буенча	буенча	ADP	_	_	25	case	_	_
+27	Тикшерү	тикшерү	NOUN	_	Case=Gen|Number=Sing	28	nmod	_	_
+28	идарәсе	идарә	NOUN	_	Case=Gen|Number=Sing|Person=3|Poss=Yes	29	nmod	_	_
+29	җитәкчесенең	җитәкче	NOUN	_	Case=Gen|Number=Sing|Person=3|Poss=Yes	30	nmod	_	_
+30	өлкән	өлкән	ADJ	_	_	31	amod	_	_
+31	ярдәмчесе	ярдәмче	NOUN	_	Case=Nom|Number=Sing|Person=3|Poss=Yes	21	obl	_	_
+32	Андрей	Андрей	PROPN	_	_	33	flat	_	_
+33	Шептицкий	Шептицкий	PROPN	_	_	31	appos	_	_
+34	.	.	PUNCT	_	_	8	punct	_	_
+
+# text = Татарстанда томан төшәчәк, күз күреме 500 метр яки кимрәк булырга мөмкин.
+1	Татарстанда	Татарстан	PROPN	_	Case=Loc	6	obl	_	_
+2	томан	томан	NOUN	_	Case=Nom	6	nsubj	_	_
+3	төшәчәк	төшәргә	VERB	_	Tense=Fut|VerbForm=Fin	6	acl:relcl	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	күз	күз	NOUN	_	Case=Nom	6	nsubj	_	_
+6	күреме	күрем	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	0	root	_	_
+7	500	500	NUM	_	_	8	nummod	_	_
+8	метр	метр	NOUN	_	Case=Nom	6	nmod	_	_
+9	яки	яки	CCONJ	_	_	10	cc	_	_
+10	кимрәк	кимрәк	ADJ	_	_	8	conj	_	_
+11	булырга	булырга	VERB	_	VerbForm=Inf	6	acl	_	_
+12	мөмкин	мөмкин	ADJ	_	_	11	xcomp	_	_
+13	.	.	PUNCT	_	_	6	punct	_	_
+
+# text = Татарстан Гидрометеорология һәм әйләнә-тирә мохитне күзәтү үзәге хәбәр иткәнчә, һава торышы болытлы һәм коры булачак.
+1	Татарстан	Татарстан	PROPN	_	Case=Nom	2	nmod	_	_
+2	Гидрометеорология	гидрометеорология	NOUN	_	Case=Gen	6	nmod	_	_
+3	һәм	һәм	CCONJ	_	_	4	cc	_	_
+4	әйләнә-тирә	әйләнә-тирә	ADJ	_	_	5	amod	_	_
+5	мохитне	мохит	NOUN	_	Case=Acc	2	conj	_	_
+6	күзәтү	күзәтү	NOUN	_	Case=Gen	7	nmod	_	_
+7	үзәге	үзәк	NOUN	_	Case=Nom|Number=Sing|Person=3|Poss=Sing	8	nsubj	_	_
+8	хәбәр	хәбәр	NOUN	_	Case=Nom	9	advcl	_	_
+9	иткәнчә	иткәнчә	SCONJ	_	_	13	mark	_	_
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	һава	һава	NOUN	_	Case=Nom	12	nmod	_	_
+12	торышы	торыш	NOUN	_	Case=Nom|Number=Sing|Person=3|Poss=Sing	13	nsubj	_	_
+13	болытлы	болытлы	ADJ	_	_	15	conj	_	_
+14	һәм	һәм	CCONJ	_	_	15	cc	_	_
+15	коры	коры	ADJ	_	_	16	xcomp	_	_
+16	булачак	бул	AUX	_	Tense=Fut|VerbForm=Fin	0	root	_	_
+17	.	.	PUNCT	_	_	16	punct	_	_
+
+# text = Җил көнбатыш һәм төньяк-көнбатыштан уртача тизлектә фаразлана.
+1	Җил	җил	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+2	көнбатыш	көнбатыш	NOUN	_	Case=Abl|Number=Sing	4	conj	_	_
+3	һәм	һәм	CCONJ	_	_	2	cc	_	_
+4	төньяк-көнбатыштан	төньяк-көнбатыш	NOUN	_	Case=Abl|Number=Sing	6	obl	_	_
+5	уртача	уртача	ADV	_	_	6	advmod	_	_
+6	тизлектә	тизлек	NOUN	_	Case=Loc|Number=Sing	7	obl	_	_
+7	фаразлана	фаразла	VERB	_	Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# text = Түбән Каманың «Татнефть-поиск» эзләнү отряды вәкилләре Кырымда Хәтер вахтасында катнашып, сугыш вакытында һәлак булган Чиләбе кешесе Василий Архипович Ломановның җәсәден табалар.
+1	Түбән	түбән	ADJ	_	_	2	amod	_	_
+2	Каманың	Кама	PROPN	_	Case=Gen|Number=Sing	6	nmod:poss	_	_
+3	«	«	PUNCT	_	_	6	punct	_	_
+4	Татнефть-поиск	Татнефть-поиск	PROPN	_	_	6	flat	_	_
+5	»	»	PUNCT	_	_	6	punct	_	_
+6	эзләнү	эзләнү	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	_
+7	отряды	отряд	NOUN	_	Case=Gen|Number=Sing	8	nmod:poss	_	_
+8	вәкилләре	вәкил	NOUN	_	Case=Nom|Number=Plur|Person=3|Poss=Yes	18	nsubj	_	_
+9	Кырымда	Кырым	PROPN	_	Case=Loc|Number=Sing	18	obl	_	_
+10	Хәтер	Хәтер	NOUN	_	Case=Nom|Number=Sing	11	compound	_	_
+11	вахтасында	вахта	NOUN	_	Case=Loc|Number=Sing|Person=3|Poss=Yes	18	obl	_	_
+12	катнашып	катнаш	VERB	_	VerbForm=Conv	18	advcl	_	_
+13	сугыш	сугыш	NOUN	_	Case=Gen|Number=Sing	14	nmod	_	_
+14	вакытында	вакыт	NOUN	_	Case=Loc|Number=Sing|Person=3|Poss=Yes	15	obl	_	_
+15	һәлак	һәлак	ADJ	_	_	16	amod	_	_
+16	булган	бул	VERB	_	Tense=Past|VerbForm=Part	17	acl	_	_
+17	Чиләбе	Чиләбе	PROPN	_	Case=Gen|Number=Sing	20	nmod	_	_
+18	кешесе	кеше	NOUN	_	Case=Gen|Number=Sing|Person=3|Poss=Yes	21	nmod:poss	_	_
+19	Василий	Василий	PROPN	_	_	21	flat	_	_
+20	Архипович	Архипович	PROPN	_	_	21	flat	_	_
+21	Ломановның	Ломанов	PROPN	_	Case=Gen|Number=Sing	23	nmod:poss	_	_
+22	җәсәден	җәсәд	NOUN	_	Case=Acc|Number=Sing|Person=3|Poss=Yes	23	obj	_	_
+23	табалар	тап	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+24	.	.	PUNCT	_	_	23	punct	_	_
+
+# text = Бүген Василий Ломановның туганнары һәм Чиләбе хакимияте вәкилләренә аның җәсәден тапшырдылар.
+1	Бүген	бүген	ADV	_	_	10	advmod	_	_
+2	Василий	Василий	PROPN	_	Case=Gen	4	nmod:poss	_	_
+3	Ломановның	Ломанов	PROPN	_	Case=Gen	4	flat:name	_	_
+4	туганнары	туган	NOUN	_	Case=Nom|Number=Plur|Person=3	10	nsubj	_	_
+5	һәм	һәм	CCONJ	_	_	6	cc	_	_
+6	Чиләбе	Чиләбе	PROPN	_	Case=Gen	7	nmod:poss	_	_
+7	хакимияте	хакимият	NOUN	_	Case=Nom|Number=Sing|Person=3	4	conj	_	_
+8	вәкилләренә	вәкил	NOUN	_	Case=Dat|Number=Plur	10	obl	_	_
+9	аның	ул	PRON	_	Case=Gen|Number=Sing|Person=3	10	nmod:poss	_	_
+10	җәсәден	җәсәд	NOUN	_	Case=Acc|Number=Sing|Person=3	11	obj	_	_
+11	тапшырдылар	тапшыр	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# text = 1942 елда Кырым Республикасының Владиславовка авылы янында һәлак булган Василий Ломанов тумышы белән Чиләбе өлкәсенең Кыштым шәһәреннән.
+1	1942	1942	NUM	_	NumType=Card	2	nummod	_	_
+2	елда	ел	NOUN	_	Case=Loc|Number=Sing	13	obl	_	_
+3	Кырым	Кырым	PROPN	_	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	Республикасының	республика	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3	6	nmod:poss	_	_
+5	Владиславовка	Владиславовка	PROPN	_	Case=Gen|Number=Sing	6	nmod	_	_
+6	авылы	авыл	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3	7	obl	_	_
+7	янында	янында	ADV	_	_	13	obl	_	_
+8	һәлак	һәлак	ADJ	_	_	9	amod	_	_
+9	булган	бул	VERB	_	Tense=Past|VerbForm=Part	13	acl:relcl	_	_
+10	Василий	Василий	PROPN	_	_	11	flat:name	_	_
+11	Ломанов	Ломанов	PROPN	_	_	9	nsubj	_	_
+12	тумышы	тумыш	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person=3	13	obl	_	_
+13	белән	белән	ADP	_	_	0	root	_	_
+14	Чиләбе	Чиләбе	PROPN	_	Case=Gen|Number=Sing	15	nmod:poss	_	_
+15	өлкәсенең	өлкә	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3	17	nmod:poss	_	_
+16	Кыштым	Кыштым	PROPN	_	Case=Gen|Number=Sing	17	nmod:poss	_	_
+17	шәһәреннән	шәһәр	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3	13	obl	_	_
+18	.	.	PUNCT	_	_	13	punct	_	_
+
+# text = Сугыш башлангач, шәһәрдә яшәүчеләр кебек үк, ул фронтка алына.
+1	Сугыш	сугыш	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+2	башлангач	башлан	VERB	_	Tense=Past|VerbForm=Conv	8	advcl	_	_
+3	шәһәрдә	шәһәр	NOUN	_	Case=Loc|Number=Sing	4	obl	_	_
+4	яшәүчеләр	яшәүче	NOUN	_	Case=Nom|Number=Plur	8	obl	_	_
+5	кебек	кебек	ADP	_	_	4	case	_	_
+6	үк	үк	PART	_	_	4	advmod	_	_
+7	,	,	PUNCT	_	_	2	punct	_	_
+8	ул	ул	PRON	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
+9	фронтка	фронт	NOUN	_	Case=Dat|Number=Sing	10	obl	_	_
+10	алына	алын	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	conj	_	_
+11	.	.	PUNCT	_	_	8	punct	_	_
+
+# text = Аның фронт юлы турындагы мәгълүматларның күбесе югалган.
+1	Аның	ул	PRON	_	Case=Gen|Number=Sing|Person=3	4	nmod:poss	_	_
+2	фронт	фронт	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
+3	юлы	юл	NOUN	_	Case=Gen|Number=Sing|Person=3|Poss=Yes	4	nmod	_	_
+4	турындагы	турында	ADJ	_	Case=Gen|Number=Sing	5	amod	_	_
+5	мәгълүматларның	мәгълүмат	NOUN	_	Case=Gen|Number=Plur	7	nmod:poss	_	_
+6	күбесе	күп	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind	7	nsubj	_	_
+7	югалган	югал	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# text = Бу турыда Түбән Кама муниципаль районы рәсми сайтында хәбәр ителә.
+1	Бу	бу	DET	_	PronType=Dem	2	det	_	_
+2	турыда	туры	NOUN	_	Case=Loc	7	obl	_	_
+3	Түбән	Түбән	PROPN	_	_	4	compound	_	_
+4	Кама	Кама	PROPN	_	_	5	nmod	_	_
+5	муниципаль	муниципаль	ADJ	_	_	6	amod	_	_
+6	районы	район	NOUN	_	Case=Gen	7	nmod	_	_
+7	рәсми	рәсми	ADJ	_	_	8	amod	_	_
+8	сайтында	сайт	NOUN	_	Case=Loc	11	obl	_	_
+9	хәбәр	хәбәр	NOUN	_	_	11	obj	_	_
+10	ителә	ит	AUX	_	Tense=Pres|VerbForm=Fin|Voice=Pass	11	aux:pass	_	_
+11	ителә	ит	VERB	_	Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# text = Агымдагы елның сентябрендә Түбән Кама эзтабарлары Кырымнан килгән хезмәттәшләре белән берлектә сугыш узган урыннарда казу эшләре оештырган.
+1	Агымдагы	агымдагы	ADJ	_	Case=Gen|Number=Sing	2	amod	_	_
+2	елның	ел	NOUN	_	Case=Gen|Number=Sing	4	obl	_	_
+3	сентябрендә	сентябрь	NOUN	_	Case=Loc|Number=Sing	4	obl	_	_
+4	Түбән	Түбән	PROPN	_	_	7	nmod	_	_
+5	Кама	Кама	PROPN	_	_	4	flat	_	_
+6	эзтабарлары	эзтабар	NOUN	_	Case=Nom|Number=Plur|Person=3	7	nsubj	_	_
+7	Кырымнан	Кырым	PROPN	_	Case=Abl|Number=Sing	8	obl	_	_
+8	килгән	кил	VERB	_	Tense=Past|VerbForm=Part	6	acl	_	_
+9	хезмәттәшләре	хезмәттәш	NOUN	_	Case=Nom|Number=Plur|Person=3	8	obj	_	_
+10	белән	белән	ADP	_	_	9	case	_	_
+11	берлектә	берлек	NOUN	_	Case=Loc|Number=Sing	7	obl	_	_
+12	сугыш	сугыш	NOUN	_	Case=Nom|Number=Sing	13	nmod	_	_
+13	узган	уз	VERB	_	Tense=Past|VerbForm=Part	14	acl	_	_
+14	урыннарда	урын	NOUN	_	Case=Loc|Number=Plur	17	obl	_	_
+15	казу	казу	NOUN	_	Case=Nom|Number=Sing	16	nmod	_	_
+16	эшләре	эш	NOUN	_	Case=Nom|Number=Plur|Person=3	17	obj	_	_
+17	оештырган	оештыр	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+18	.	.	PUNCT	_	_	17	punct	_	_
+
+# text = Һәлак булган сугышчының сөякләре янында медальоны да табылган, шуның буенча аның шәхесен ачыклый алганнар.
+1	Һәлак	һәлак	ADJ	_	_	2	amod	_	_
+2	булган	бул	VERB	_	Tense=Past|VerbForm=Part	4	acl	_	_
+3	сугышчының	сугышчы	NOUN	_	Case=Gen|Number=Sing	2	nmod:poss	_	_
+4	сөякләре	сөяк	NOUN	_	Case=Loc|Number=Plur|Person=3|Poss=Yes	8	obl	_	_
+5	янында	янында	NOUN	_	_	4	case	_	_
+6	медальоны	медальон	NOUN	_	Case=Nom|Number=Sing	8	nsubj:pass	_	_
+7	да	да	PART	_	_	6	advmod	_	_
+8	табылган	тап	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	шуның	шу	PRON	_	Case=Gen|Number=Sing	12	nmod:poss	_	_
+11	буенча	буенча	ADP	_	_	10	case	_	_
+12	аның	ул	PRON	_	Case=Gen|Number=Sing	14	obl	_	_
+13	шәхесен	шәхес	NOUN	_	Case=Acc|Number=Sing|Person=3|Poss=Yes	14	obj	_	_
+14	ачыклый	ачыкла	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	8	conj	_	_
+15	алганнар	ал	AUX	_	Number=Plur|Person=3|Tense=Past|VerbForm=Part	14	aux	_	_
+16	.	.	PUNCT	_	_	8	punct	_	_
+
+# text = Чарада солдатның туганнары, Чиләбе өлкәсенең Кыштым шәһәре хакимияте вәкилләре, Түбән Кама предприятиеләре һәм учреждениеләре вәкилләре, мәктәп укучылары һәм студентлар катнашты.
+1	Чарада	чара	NOUN	_	Case=Loc|Number=Sing	13	obl	_	_
+2	солдатның	солдат	NOUN	_	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	туганнары	туган	NOUN	_	Case=Nom|Number=Plur|Person=3	1	nmod	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	Чиләбе	Чиләбе	PROPN	_	Case=Gen|Number=Sing	7	nmod:poss	_	_
+6	өлкәсенең	өлкә	NOUN	_	Case=Gen|Number=Sing	7	nmod:poss	_	_
+7	Кыштым	Кыштым	PROPN	_	Case=Gen|Number=Sing	8	nmod	_	_
+8	шәһәре	шәһәр	NOUN	_	Case=Gen|Number=Sing	9	nmod:poss	_	_
+9	хакимияте	хакимият	NOUN	_	Case=Nom|Number=Sing|Person=3	10	nmod	_	_
+10	вәкилләре	вәкил	NOUN	_	Case=Nom|Number=Plur|Person=3	3	conj	_	_
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	Түбән	түбән	ADJ	_	_	13	amod	_	_
+13	Кама	Кама	PROPN	_	Case=Gen|Number=Sing	14	nmod	_	_
+14	предприятиеләре	предприятие	NOUN	_	Case=Nom|Number=Plur|Person=3	15	nmod	_	_
+15	һәм	һәм	CCONJ	_	_	14	cc	_	_
+16	учреждениеләре	учреждение	NOUN	_	Case=Nom|Number=Plur|Person=3	14	conj	_	_
+17	вәкилләре	вәкил	NOUN	_	Case=Nom|Number=Plur|Person=3	14	conj	_	_
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	мәктәп	мәктәп	NOUN	_	Case=Nom|Number=Sing	20	nmod	_	_
+20	укучылары	укучы	NOUN	_	Case=Nom|Number=Plur|Person=3	22	nsubj	_	_
+21	һәм	һәм	CCONJ	_	_	22	cc	_	_
+22	студентлар	студент	NOUN	_	Case=Nom|Number=Plur	20	conj	_	_
+23	катнашты	катнаш	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
+24	.	.	PUNCT	_	_	23	punct	_	_
+
+# text = Бөек Ватан сугышында һәлак булган батырларны бер минут тынлык белән искә алдылар һәм Җиңү Монументына чәчәкләр куйдылар.
+1	Бөек	бөек	ADJ	_	Degree=Pos	2	amod	_	_
+2	Ватан	Ватан	NOUN	_	Case=Gen|Number=Sing	4	nmod	_	_
+3	сугышында	сугыш	NOUN	_	Case=Loc|Number=Sing	4	obl	_	_
+4	һәлак	һәлак	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	_
+5	булган	бул	AUX	_	Tense=Past|VerbForm=Part	4	aux	_	_
+6	батырларны	батыр	NOUN	_	Case=Acc|Number=Plur	11	obj	_	_
+7	бер	бер	NUM	_	_	8	nummod	_	_
+8	минут	минут	NOUN	_	Case=Acc|Number=Sing	9	obl	_	_
+9	тынлык	тынлык	NOUN	_	Case=Ins|Number=Sing	11	obl	_	_
+10	белән	белән	ADP	_	_	9	case	_	_
+11	искә	искә ал	VERB	_	Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	алдылар	ал	AUX	_	Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	_
+13	һәм	һәм	CCONJ	_	_	16	cc	_	_
+14	Җиңү	Җиңү	NOUN	_	Case=Gen|Number=Sing	15	nmod	_	_
+15	Монументына	монумент	NOUN	_	Case=Dat|Number=Sing	16	obl	_	_
+16	чәчәкләр	чәчәк	NOUN	_	Case=Acc|Number=Plur	17	obj	_	_
+17	куйдылар	куй	VERB	_	Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	conj	_	_
+18	.	.	PUNCT	_	_	11	punct	_	_
+
+# text = Әгерҗедә спортчы, Чечня Республикасы территориясендә хәрби конфликтта катнашкан хәрби хәрәкәтләр ветераны Антон Шушпанов вафат.
+1	Әгерҗедә	Әгерҗе	PROPN	_	Case=Loc	2	obl	_	_
+2	спортчы	спортчы	NOUN	_	Number=Sing	10	nsubj	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	Чечня	Чечня	PROPN	_	_	6	nmod	_	_
+5	Республикасы	республика	NOUN	_	Case=Gen|Number=Sing	4	flat	_	_
+6	территориясендә	территория	NOUN	_	Case=Loc|Number=Sing	8	obl	_	_
+7	хәрби	хәрби	ADJ	_	_	8	amod	_	_
+8	конфликтта	конфликт	NOUN	_	Case=Loc|Number=Sing	10	obl	_	_
+9	катнашкан	катнаш	VERB	_	Tense=Past|VerbForm=Part	10	acl	_	_
+10	хәрби	хәрби	ADJ	_	_	13	amod	_	_
+11	хәрәкәтләр	хәрәкәт	NOUN	_	Case=Gen|Number=Plur	10	nmod	_	_
+12	ветераны	ветеран	NOUN	_	Case=Nom|Number=Sing	10	appos	_	_
+13	Антон	Антон	PROPN	_	_	14	nsubj	_	_
+14	Шушпанов	Шушпанов	PROPN	_	_	15	nsubj	_	_
+15	вафат	вафат	ADJ	_	_	0	root	_	_
+16	.	.	PUNCT	_	_	15	punct	_	_
+
+# text = Кызганычка, төрле ярышларда күп тапкырлар җиңү яулаган район баһадиры пневмонияне җиңә алмады.
+1	Кызганычка	кызганыч	NOUN	_	Case=Dat	8	obl	_	_
+2	,	,	PUNCT	_	_	8	punct	_	_
+3	төрле	төрле	ADJ	_	_	4	amod	_	_
+4	ярышларда	ярыш	NOUN	_	Case=Loc|Number=Plur	6	obl	_	_
+5	күп	күп	DET	_	_	6	det	_	_
+6	тапкырлар	тапкыр	NOUN	_	Case=Acc|Number=Plur	8	obl	_	_
+7	җиңү	җиңү	NOUN	_	_	8	obj	_	_
+8	яулаган	яулау	VERB	_	Tense=Past|VerbForm=Part|Voice=Act	10	acl	_	_
+9	район	район	NOUN	_	Case=Nom	10	nsubj	_	_
+10	баһадиры	баһадир	NOUN	_	Case=Nom|Number=Sing|Person=3|Poss=Yes	13	nsubj	_	_
+11	пневмонияне	пневмония	NOUN	_	Case=Acc	13	obj	_	_
+12	җиңә	җиңү	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	aux	_	_
+13	алмады	алмау	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	0	root	_	_
+14	.	.	PUNCT	_	_	13	punct	_	_
+
+# text = Аның белән хушлашу шимбә көнне сәгать көндезге 12дә Чапаев урамы, 5 йорт ишегалдында узачак.
+1	Аның	ул	PRON	_	Case=Gen|Number=Sing|Person=3	3	nmod	_	_
+2	белән	белән	ADP	_	_	1	case	_	_
+3	хушлашу	хушлашу	NOUN	_	Case=Nom	10	nsubj	_	_
+4	шимбә	шимбә	NOUN	_	Case=Nom	5	obl	_	_
+5	көнне	көн	NOUN	_	Case=Acc	10	obl	_	_
+6	сәгать	сәгать	NOUN	_	Case=Nom	7	obl	_	_
+7	көндезге	көндезге	ADJ	_	_	8	amod	_	_
+8	12дә	12	NUM	_	Case=Loc	5	obl	_	_
+9	Чапаев	Чапаев	PROPN	_	Case=Nom	11	nmod	_	_
+10	урамы	урам	NOUN	_	Case=Gen|Number=Sing|Person=3	13	obl	_	_
+11	5	5	NUM	_	_	12	nummod	_	_
+12	йорт	йорт	NOUN	_	Case=Nom	13	nmod	_	_
+13	ишегалдында	ишегалды	NOUN	_	Case=Loc	15	obl	_	_
+14	узачак	уз	VERB	_	Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+# text = Антон шат күңелле дус һәм иптәш, ышанычлы көрәштәш, намуслы хезмәттәш, гадел һәм яхшы кеше буларак истә калыр.
+1	Антон	Антон	PROPN	_	Case=Nom|Number=Sing	10	nsubj	_	_
+2	шат	шат	ADJ	_	Degree=Pos	3	amod	_	_
+3	күңелле	күңелле	ADJ	_	Degree=Pos	4	amod	_	_
+4	дус	дус	NOUN	_	Case=Nom|Number=Sing	10	appos	_	_
+5	һәм	һәм	CCONJ	_	_	6	cc	_	_
+6	иптәш	иптәш	NOUN	_	Case=Nom|Number=Sing	4	conj	_	_
+7	,	,	PUNCT	_	_	4	punct	_	_
+8	ышанычлы	ышанычлы	ADJ	_	Degree=Pos	9	amod	_	_
+9	көрәштәш	көрәштәш	NOUN	_	Case=Nom|Number=Sing	4	conj	_	_
+10	,	,	PUNCT	_	_	4	punct	_	_
+11	намуслы	намуслы	ADJ	_	Degree=Pos	12	amod	_	_
+12	хезмәттәш	хезмәттәш	NOUN	_	Case=Nom|Number=Sing	4	conj	_	_
+13	,	,	PUNCT	_	_	4	punct	_	_
+14	гадел	гадел	ADJ	_	Degree=Pos	16	amod	_	_
+15	һәм	һәм	CCONJ	_	_	16	cc	_	_
+16	яхшы	яхшы	ADJ	_	Degree=Pos	17	conj	_	_
+17	кеше	кеше	NOUN	_	Case=Nom|Number=Sing	4	conj	_	_
+18	буларак	буларак	ADP	_	_	17	case	_	_
+19	истә	истә	NOUN	_	Case=Loc|Number=Sing	20	obl	_	_
+20	калыр	кал	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+21	.	.	PUNCT	_	_	20	punct	_	_
+
+# text = Бүген «Татар кызчыгы һәм татар малае – 2022» мәктәпкәчә яшьтәге балалар бәйгесенең җиңүчеләре билгеле булды.
+1	Бүген	бүген	ADV	_	_	10	advmod	_	_
+2	«	«	PUNCT	_	_	4	punct	_	_
+3	Татар	татар	ADJ	_	Case=Nom	4	amod	_	_
+4	кызчыгы	кызчык	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+5	һәм	һәм	CCONJ	_	_	6	cc	_	_
+6	татар	татар	ADJ	_	Case=Nom	4	conj	_	_
+7	малае	малай	NOUN	_	Case=Nom|Number=Sing	6	flat	_	_
+8	–	–	PUNCT	_	_	4	punct	_	_
+9	2022	2022	NUM	_	_	4	nmod	_	_
+10	мәктәпкәчә	мәктәпкәчә	ADJ	_	_	12	amod	_	_
+11	яшьтәге	яшьтәге	ADJ	_	_	12	amod	_	_
+12	балалар	бала	NOUN	_	Case=Gen|Number=Plur	13	nmod	_	_
+13	бәйгесенең	бәйге	NOUN	_	Case=Gen|Number=Sing	14	nmod	_	_
+14	җиңүчеләре	җиңүче	NOUN	_	Case=Nom|Number=Plur	16	nsubj	_	_
+15	билгеле	билгеле	ADJ	_	_	16	xcomp	_	_
+16	булды	бул	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+17	.	.	PUNCT	_	_	16	punct	_	_
+
+# text = Бәйгегә йомгак Кариев театрында ясалды.
+1	Бәйгегә	бәйге	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+2	йомгак	йомгак	NOUN	_	Case=Nom|Number=Sing	4	obj	_	_
+3	Кариев	Кариев	PROPN	_	Case=Loc|Number=Sing	4	obl	_	_
+4	театрында	театр	NOUN	_	Case=Loc|Number=Sing|Poss=3	5	obl	_	_
+5	ясалды	ясал	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# text = Бәйге гыйнвар аенда башланган иде, Казанның балалар бакчаларында тәрбияләнүче 6 - 7 яшьлек балалар өчен үткәрелде.
+1	Бәйге	бәйге	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	гыйнвар	гыйнвар	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
+3	аенда	ай	NOUN	_	Case=Loc|Number=Sing	4	obl	_	_
+4	башланган	башла	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	_
+5	иде	иде	AUX	_	Tense=Past|VerbForm=Fin	13	advcl	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	Казанның	Казан	PROPN	_	Case=Gen|Number=Sing	9	nmod:poss	_	_
+8	балалар	бала	NOUN	_	Case=Gen|Number=Plur	9	nmod	_	_
+9	бакчаларында	бакча	NOUN	_	Case=Loc|Number=Plur|Number[psor]=Plur|Person[psor]=3	12	obl	_	_
+10	тәрбияләнүче	тәрбиялән	VERB	_	VerbForm=Part|Voice=Pass	8	acl	_	_
+11	6	6	NUM	_	_	12	nummod	_	_
+12	7	7	NUM	_	_	13	nummod	_	_
+13	яшьлек	яшьлек	ADJ	_	Case=Nom|Number=Sing	16	amod	_	_
+14	балалар	бала	NOUN	_	Case=Nom|Number=Plur	16	nmod	_	_
+15	өчен	өчен	ADP	_	_	14	case	_	_
+16	үткәрелде	үткәр	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+17	.	.	PUNCT	_	_	16	punct	_	_
+
+# text = Татарстанның Гидрометеорология үзәге якындагы берничә көнгә һава торышын фаразлады.
+1	Татарстанның	Татарстан	PROPN	_	Case=Gen|Number=Sing	4	nmod:poss	_	_
+2	Гидрометеорология	гидрометеорология	NOUN	_	Case=Nom|Number=Sing	3	compound	_	_
+3	үзәге	үзәк	NOUN	_	Case=Gen|Number=Sing|Person=3|Poss=Sing	1	nmod	_	_
+4	якындагы	якын	ADJ	_	Case=Loc|Degree=Pos|Number=Sing|VerbForm=Part	7	amod	_	_
+5	берничә	берничә	DET	_	_	6	det	_	_
+6	көнгә	көн	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+7	һава	һава	NOUN	_	Case=Acc|Number=Sing	8	obj	_	_
+8	торышын	торыш	NOUN	_	Case=Acc|Number=Sing|Person=3|Poss=Sing	9	obj	_	_
+9	фаразлады	фаразла	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# text = Синоптиклар сишәмбе һәм чәршәмбе көннәрендә республикада +23°С җылы булуын, ә ял көннәрендә салкыннар көтелүе турында хәбәр итә.
+1	Синоптиклар	синоптик	NOUN	_	Number=Plur	13	nsubj	_	_
+2	сишәмбе	сишәмбе	NOUN	_	Case=Loc	5	obl	_	_
+3	һәм	һәм	CCONJ	_	_	4	cc	_	_
+4	чәршәмбе	чәршәмбе	NOUN	_	Case=Loc	2	conj	_	_
+5	көннәрендә	көн	NOUN	_	Case=Loc|Number=Plur	1	obl	_	_
+6	республикада	республика	NOUN	_	Case=Loc	13	obl	_	_
+7	+23°С	+23°С	NUM	_	_	8	nummod	_	_
+8	җылы	җылы	NOUN	_	_	13	obj	_	_
+9	булуын	булу	NOUN	_	Case=Acc|VerbForm=Conv	8	acl	_	_
+10	ә	ә	CCONJ	_	_	13	cc	_	_
+11	ял	ял	NOUN	_	_	12	nmod	_	_
+12	көннәрендә	көн	NOUN	_	Case=Loc|Number=Plur	13	obl	_	_
+13	салкыннар	салкын	NOUN	_	Number=Plur	18	nsubj	_	_
+14	көтелүе	көтелү	NOUN	_	Case=Nom|VerbForm=Conv	13	acl	_	_
+15	турында	турында	ADP	_	_	14	case	_	_
+16	хәбәр	хәбәр	NOUN	_	_	18	obj	_	_
+17	итә	итү	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	aux	_	_
+18	.	.	PUNCT	_	_	0	root	_	_
+
+# text = Чәршәмбе, 27 апрельдә, җылы тотрыксыз һава торышы сакланачак.
+1	Чәршәмбе	чәршәмбе	NOUN	_	Case=Nom	7	obl	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	27	27	NUM	_	_	4	nummod	_	_
+4	апрельдә	апрель	NOUN	_	Case=Loc	1	nmod	_	_
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	җылы	җылы	ADJ	_	_	7	amod	_	_
+7	тотрыксыз	тотрыксыз	ADJ	_	_	10	amod	_	_
+8	һава	һава	NOUN	_	Case=Nom	9	nmod	_	_
+9	торышы	торыш	NOUN	_	Case=Nom|Number=Sing|Person=3|Poss=Yes	7	nmod	_	_
+10	сакланачак	саклан	VERB	_	Aspect=Imp|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# text = Шулай ук кыска вакытлы яңгырлар да булырга мөмкин.
+1	Шулай	шулай	ADV	_	_	6	advmod	_	_
+2	ук	ук	PART	_	_	1	advmod:emph	_	_
+3	кыска	кыска	ADJ	_	Degree=Pos	4	amod	_	_
+4	вакытлы	вакытлы	ADJ	_	Degree=Pos	5	amod	_	_
+5	яңгырлар	яңгыр	NOUN	_	Number=Plur	6	nsubj	_	_
+6	да	да	PART	_	_	7	advmod:emph	_	_
+7	булырга	бул	VERB	_	VerbForm=Inf	0	root	_	_
+8	мөмкин	мөмкин	ADJ	_	_	7	xcomp	_	_
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+# text = Көчле җил саклана, аның тизлеге секундына 15 - 20 метрга кадәр җитәчәк.
+1	Көчле	көчле	ADJ	_	_	2	amod	_	_
+2	җил	җил	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+3	саклана	саклан	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	аның	ул	PRON	_	Case=Gen|Number=Sing|Person=3	6	nmod:poss	_	_
+6	тизлеге	тизлек	NOUN	_	Case=Nom|Number=Sing|Person=3|Poss=Yes	7	nsubj	_	_
+7	секундына	секунд	NOUN	_	Case=Dat|Number=Sing	10	obl	_	_
+8	15	15	NUM	_	_	10	nummod	_	_
+9	-	-	PUNCT	_	_	10	punct	_	_
+10	20	20	NUM	_	_	13	obl	_	_
+11	метрга	метр	NOUN	_	Case=Dat|Number=Sing	10	nmod	_	_
+12	кадәр	кадәр	ADP	_	_	11	case	_	_
+13	җитәчәк	җит	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	3	conj	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+# text = Төньяк һава агымнары республика өстеннән пәнҗешәмбе көнне – 28 апрельдә узачак.
+1	Төньяк	төньяк	ADJ	_	_	2	amod	_	_
+2	һава	һава	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
+3	агымнары	агым	NOUN	_	Case=Nom|Number=Plur|Poss=3	8	nsubj	_	_
+4	республика	республика	NOUN	_	Case=Gen|Number=Sing	6	nmod	_	_
+5	өстеннән	өст	NOUN	_	Case=Abl	4	case	_	_
+6	пәнҗешәмбе	пәнҗешәмбе	NOUN	_	Case=Loc|Number=Sing	8	obl	_	_
+7	көнне	көн	NOUN	_	Case=Acc|Number=Sing	6	nmod	_	_
+8	узачак	уз	VERB	_	Tense=Fut|VerbForm=Fin	0	root	_	_
+9	–	–	PUNCT	_	_	8	punct	_	_
+10	28	28	NUM	_	_	11	nummod	_	_
+11	апрельдә	апрель	NOUN	_	Case=Loc|Number=Sing	8	obl	_	_
+12	.	.	PUNCT	_	_	8	punct	_	_
+
+# text = Яңгыр яву һәм яшен булу ихтималы саклана.
+1	Яңгыр	яңгыр	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	яву	яву	NOUN	_	Case=Nom|Number=Sing	1	conj	_	_
+3	һәм	һәм	CCONJ	_	_	1	cc	_	_
+4	яшен	яшен	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+5	булу	булу	NOUN	_	Case=Nom|Number=Sing	4	conj	_	_
+6	ихтималы	ихтимал	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	7	nsubj	_	_
+7	саклана	саклану	VERB	_	Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# text = Фаразлар буенча, җомга һәм шимбә көннәрендә республикада һава торышы югары атмосфера басымы йогынтысында булачак.
+1	Фаразлар	фараз	NOUN	_	Case=Nom|Number=Plur	2	obl	_	_
+2	буенча	буенча	ADP	_	_	1	case	_	_
+3	,	,	PUNCT	_	_	8	punct	_	_
+4	җомга	җомга	NOUN	_	Case=Nom	6	conj	_	_
+5	һәм	һәм	CCONJ	_	_	4	cc	_	_
+6	шимбә	шимбә	NOUN	_	Case=Nom	8	obl	_	_
+7	көннәрендә	көн	NOUN	_	Case=Loc|Number=Plur	6	obl	_	_
+8	республикада	республика	NOUN	_	Case=Loc	13	obl	_	_
+9	һава	һава	NOUN	_	Case=Nom	13	nsubj	_	_
+10	торышы	торыш	NOUN	_	Case=Gen	9	nmod	_	_
+11	югары	югары	ADJ	_	_	12	amod	_	_
+12	атмосфера	атмосфера	NOUN	_	Case=Gen	13	nmod	_	_
+13	басымы	басым	NOUN	_	Case=Gen	15	obl	_	_
+14	йогынтысында	йогынты	NOUN	_	Case=Loc	15	obl	_	_
+15	булачак	бул	AUX	_	Tense=Fut|VerbForm=Fin	0	root	_	_
+16	.	.	PUNCT	_	_	15	punct	_	_
+
+# text = Һава торышын өйрәнүче белгечләр сүзләренчә, сишәмбе, 26 апрельдә, Татарстан циклонның җылы секторында тотрыксыз һава массасында булачак.
+1	Һава	һава	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
+2	торышын	торыш	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	1	nmod	_	_
+3	өйрәнүче	өйрәнүче	VERB	_	Tense=Pres|VerbForm=Part	4	acl	_	_
+4	белгечләр	белгеч	NOUN	_	Case=Nom|Number=Plur	5	nmod	_	_
+5	сүзләренчә	сүз	NOUN	_	Case=Ins|Number=Plur|Person[psor]=3	8	obl	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	сишәмбе	сишәмбе	NOUN	_	Case=Nom|Number=Sing	8	obl	_	_
+8	26	26	NUM	_	_	9	nummod	_	_
+9	апрельдә	апрель	NOUN	_	Case=Loc|Number=Sing	13	obl	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	Татарстан	Татарстан	PROPN	_	Case=Nom|Number=Sing	13	nsubj	_	_
+12	циклонның	циклон	NOUN	_	Case=Gen|Number=Sing	14	nmod	_	_
+13	җылы	җылы	ADJ	_	_	18	amod	_	_
+14	секторында	сектор	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	13	obl	_	_
+15	тотрыксыз	тотрыксыз	ADJ	_	_	16	amod	_	_
+16	һава	һава	NOUN	_	Case=Loc|Number=Sing	18	obl	_	_
+17	массасында	масса	NOUN	_	Case=Loc|Number=Sing|Person[psor]=3	16	nmod	_	_
+18	булачак	бул	AUX	_	Tense=Fut|VerbForm=Fin	0	root	_	_
+19	.	.	PUNCT	_	_	18	punct	_	_
+
+# text = Явым-төшем көтелми.
+1	Явым-төшем	явым-төшем	NOUN	_	Case=Nom|Number=Sing|Person=1	2	nsubj	_	_
+2	көтелми	көтел	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# text = Моңа кадәр республиканың Гидрометеоүзәге Татарстан халкын яшенләр көтелүе һәм көчле җил турында кисәткән иде.
+1	Моңа	моңа	PRON	_	Case=Dat|Number=Sing|Person=3	2	obl	_	_
+2	кадәр	кадәр	ADP	_	_	7	advmod	_	_
+3	республиканың	республика	NOUN	_	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	Гидрометеоүзәге	Гидрометеоүзәк	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+5	Татарстан	Татарстан	PROPN	_	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	халкын	халык	NOUN	_	Case=Acc|Number=Sing	7	obj	_	_
+7	яшенләр	яшен	NOUN	_	Case=Nom|Number=Plur	13	obj	_	_
+8	көтелүе	көтелү	NOUN	_	Case=Gen|Number=Sing|Poss=3	7	nmod	_	_
+9	һәм	һәм	CCONJ	_	_	10	cc	_	_
+10	көчле	көчле	ADJ	_	_	11	amod	_	_
+11	җил	җил	NOUN	_	Case=Nom|Number=Sing	7	conj	_	_
+12	турында	турында	ADP	_	_	11	case	_	_
+13	кисәткән	кисәт	VERB	_	Tense=Past|VerbForm=Part|Voice=Act	14	acl:relcl	_	_
+14	иде	иде	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+# text = Төнлә бераз яңгыр яварга мөмкин, ләкин көндез һәм кичен яшенле яңгыр көтелә.
+1	Төнлә	төн	ADV	_	Case=Loc	7	obl	_	_
+2	бераз	бераз	ADV	_	_	7	advmod	_	_
+3	яңгыр	яңгыр	NOUN	_	Case=Nom	7	nsubj	_	_
+4	яварга	ява	VERB	_	VerbForm=Inf	7	xcomp	_	_
+5	мөмкин	мөмкин	ADJ	_	_	7	cop	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	ләкин	ләкин	CCONJ	_	_	12	cc	_	_
+8	көндез	көндез	ADV	_	_	12	obl	_	_
+9	һәм	һәм	CCONJ	_	_	10	cc	_	_
+10	кичен	кич	ADV	_	Case=Loc	8	conj	_	_
+11	яшенле	яшенле	ADJ	_	_	12	amod	_	_
+12	яңгыр	яңгыр	NOUN	_	Case=Nom	13	nsubj	_	_
+13	көтелә	көтә	VERB	_	Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+14	.	.	PUNCT	_	_	13	punct	_	_
+
+# text = Җилнең көче секундына 15 - 20 метр булыр дип фаразлана.
+1	Җилнең	җил	NOUN	_	Case=Gen|Number=Sing	3	nmod:poss	_	_
+2	көче	көч	NOUN	_	Case=Nom|Number=Sing|Person=3	6	nsubj	_	_
+3	секундына	секунд	NOUN	_	Case=Dat|Number=Sing	2	obl	_	_
+4	15	15	NUM	_	_	6	nummod	_	_
+5	-	-	PUNCT	_	_	4	punct	_	_
+6	20	20	NUM	_	_	7	nummod	_	_
+7	метр	метр	NOUN	_	Case=Nom|Number=Sing	8	obl	_	_
+8	булыр	бул	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	11	ccomp	_	_
+9	дип	дип	SCONJ	_	_	8	mark	_	_
+10	фаразлана	фаразла	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# text = Азнакайның Яңа юл бистәсендәге күп функцияле үзәктә биредә туып-үскән Рамил Фәттаховның фотокүргәзмәсе тәкъдим ителгән.
+1	Азнакайның	Азнакай	PROPN	_	Case=Gen|Number=Sing	7	nmod:poss	_	_
+2	Яңа	яңа	ADJ	_	_	3	amod	_	_
+3	юл	юл	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	_
+4	бистәсендәге	бистә	NOUN	_	Case=Loc|Number=Sing|Person=3|Poss=Sing	1	nmod	_	_
+5	күп	күп	DET	_	_	6	det	_	_
+6	функцияле	функцияле	ADJ	_	_	7	amod	_	_
+7	үзәктә	үзәк	NOUN	_	Case=Loc|Number=Sing	13	obl	_	_
+8	биредә	биредә	ADV	_	_	13	advmod	_	_
+9	туып-үскән	туып-үскән	VERB	_	Tense=Past|VerbForm=Part	11	acl	_	_
+10	Рамил	Рамил	PROPN	_	_	11	flat:name	_	_
+11	Фәттаховның	Фәттахов	PROPN	_	Case=Gen|Number=Sing	12	nmod:poss	_	_
+12	фотокүргәзмәсе	фотокүргәзмә	NOUN	_	Case=Nom|Number=Sing|Person=3|Poss=Sing	13	nsubj:pass	_	_
+13	тәкъдим	тәкъдим итү	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+14	ителгән	ителгән	AUX	_	Tense=Past|VerbForm=Part|Voice=Pass	13	aux:pass	_	_
+15	.	.	PUNCT	_	_	13	punct	_	_
+
+# text = Рамил Фәттахов үзенең фотоларында һәр мизгелне чагылдырган.
+1	Рамил	Рамил	PROPN	_	Case=Nom	2	flat	_	_
+2	Фәттахов	Фәттахов	PROPN	_	Case=Nom	8	nsubj	_	_
+3	үзенең	үз	PRON	_	Case=Gen|Number=Sing|Person=3|Reflex=Yes	4	nmod:poss	_	_
+4	фотоларында	фото	NOUN	_	Case=Loc|Number=Plur|Number[psor]=Sing|Person=3	8	obl	_	_
+5	һәр	һәр	DET	_	_	6	det	_	_
+6	мизгелне	мизгел	NOUN	_	Case=Acc	8	obj	_	_
+7	чагылдырган	чагылдыр	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part|Voice=Act	8	acl	_	_
+8	.	.	PUNCT	_	_	0	root	_	_
+
+# text = Үзебезнең тәбигать, кешеләр, аларның эчке кичерешләре, тарихыбыз, йолаларыбыз - барысы да фотода.
+1	Үзебезнең	үзебезнең	DET	_	Case=Gen|Number=Plur|Person=1|Poss=Yes	2	det	_	_
+2	тәбигать	тәбигать	NOUN	_	Case=Nom	13	nsubj	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	кешеләр	кеше	NOUN	_	Case=Nom|Number=Plur	2	conj	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	аларның	аларның	PRON	_	Case=Gen|Number=Plur|Person=3	7	nmod:poss	_	_
+7	эчке	эчке	ADJ	_	_	8	amod	_	_
+8	кичерешләре	кичереш	NOUN	_	Case=Nom|Number=Plur|Person=3|Poss=Yes	2	conj	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	тарихыбыз	тарих	NOUN	_	Case=Nom|Number=Sing|Person=1|Poss=Yes	2	conj	_	_
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	йолаларыбыз	йола	NOUN	_	Case=Nom|Number=Plur|Person=1|Poss=Yes	2	conj	_	_
+13	-	-	PUNCT	_	_	2	punct	_	_
+14	барысы	барысы	PRON	_	Case=Nom|Number=Sing	16	nsubj	_	_
+15	да	да	PART	_	_	14	advmod	_	_
+16	фотода	фото	NOUN	_	Case=Loc	0	root	_	_
+17	.	.	PUNCT	_	_	16	punct	_	_
+
+# text = Бу турыда «Маяк» газетасы хәбәр итә.
+1	Бу	бу	DET	_	PronType=Dem	2	det	_	_
+2	турада	тура	NOUN	_	Case=Loc	6	obl	_	_
+3	«	«	PUNCT	_	_	5	punct	_	_
+4	Маяк	Маяк	PROPN	_	_	5	flat	_	_
+5	»	»	PUNCT	_	_	6	punct	_	_
+6	газетасы	газета	NOUN	_	Case=Gen|Number=Sing|Person=3|Poss=Yes	7	nsubj	_	_
+7	хәбәр	хәбәр	NOUN	_	_	8	obj	_	_
+8	итә	ит	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# text = Күргәзмә 10 майга хәтле эшләвен дәвам итәчәк.
+1	Күргәзмә	күргәзмә	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+2	10	10	NUM	_	_	3	nummod	_	_
+3	майга	май	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+4	хәтле	хәтле	ADP	_	_	6	obl	_	_
+5	эшләвен	эшләү	NOUN	_	Case=Acc|Number=Sing|VerbForm=Vnoun	6	obj	_	_
+6	дәвам	дәвам	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+7	итәчәк	ит	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# text = Согуд Гарәбстаны рәсми рәвештә игълан итүенчә, быел бөтен дөньядан 1 млн кеше хаҗ кыла алачак.
+1	Согуд	Согуд	PROPN	_	_	2	compound	_	_
+2	Гарәбстаны	Гарәбстан	PROPN	_	Case=Gen	8	nmod	_	_
+3	рәсми	рәсми	ADJ	_	_	8	amod	_	_
+4	рәвештә	рәвеш	NOUN	_	Case=Loc	3	obl	_	_
+5	игълан	игълан	NOUN	_	_	8	obl	_	_
+6	итүенчә	итү	NOUN	_	Case=Abl	5	nmod	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	быел	быел	ADV	_	_	13	advmod	_	_
+9	бөтен	бөтен	DET	_	_	10	det	_	_
+10	дөньядан	дөнья	NOUN	_	Case=Abl	13	obl	_	_
+11	1	1	NUM	_	_	12	nummod	_	_
+12	млн	миллион	NUM	_	_	13	nummod	_	_
+13	кеше	кеше	NOUN	_	_	14	nsubj	_	_
+14	хаҗ	хаҗ	NOUN	_	_	15	obj	_	_
+15	кыла	кыл	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+16	алачак	ал	AUX	_	Tense=Fut|VerbForm=Part	15	aux	_	_
+17	.	.	PUNCT	_	_	15	punct	_	_
+
+# text = Россиядән 11318 кеше Хаҗга бара алачак.
+1	Россиядән	Россия	PROPN	_	Case=Abl|Number=Sing	4	obl	_	_
+2	11318	11318	NUM	_	_	3	nummod	_	_
+3	кеше	кеше	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+4	Хаҗга	Хаҗ	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
+5	бара	бар	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	алачак	ал	VERB	_	Tense=Fut|VerbForm=Part|Voice=Act	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# text = Быел Хаҗга бару өчен алдан түләү 2500 $ тәшкил итә.
+1	Быел	быел	ADV	_	_	6	advmod	_	_
+2	Хаҗга	хаҗ	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
+3	бару	бару	NOUN	_	Case=Nom|Number=Sing	6	obl	_	_
+4	өчен	өчен	ADP	_	_	3	case	_	_
+5	алдан	алдан	ADV	_	_	6	advmod	_	_
+6	түләү	түләү	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
+7	2500	2500	NUM	_	_	8	nummod	_	_
+8	$	$	SYM	_	_	9	nmod	_	_
+9	тәшкил	тәшкил итү	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	итә	итү	AUX	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+11	.	.	PUNCT	_	_	9	punct	_	_
+
+# text = Юлламаларның төгәл бәясе соңрак мәгълүм булачак, дип хәбәр итә Россия мөселманнары шурасы матбугат хезмәте.
+1	Юлламаларның	юллама	NOUN	_	Case=Gen|Number=Plur	4	nmod:poss	_	_
+2	төгәл	төгәл	ADJ	_	_	3	amod	_	_
+3	бәясе	бәя	NOUN	_	Case=Nom|Number=Sing|Person=3|Poss=Sing	4	nsubj	_	_
+4	соңрак	соңрак	ADV	_	_	5	advmod	_	_
+5	мәгълүм	мәгълүм	ADJ	_	_	6	xcomp	_	_
+6	булачак	бул	AUX	_	Tense=Fut|VerbForm=Fin	13	ccomp	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	дип	дип	SCONJ	_	_	6	mark	_	_
+9	хәбәр	хәбәр	NOUN	_	Case=Acc|Number=Sing	10	obj	_	_
+10	итә	ит	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
+11	Россия	Россия	PROPN	_	Case=Gen	12	nmod	_	_
+12	мөселманнары	мөселман	NOUN	_	Case=Gen|Number=Plur|Person=3|Poss=Plur	13	nmod:poss	_	_
+13	шурасы	шура	NOUN	_	Case=Nom|Number=Sing|Person=3|Poss=Sing	0	root	_	_
+14	матбугат	матбугат	NOUN	_	Case=Gen|Number=Sing	15	nmod:poss	_	_
+15	хезмәте	хезмәт	NOUN	_	Case=Nom|Number=Sing|Person=3|Poss=Sing	13	nmod	_	_
+16	.	.	PUNCT	_	_	13	punct	_	_
+
+# text = Быел хаҗга яше 65тән артмаган кешеләр бара алачак.
+1	Быел	быел	ADV	_	_	6	advmod	_	_
+2	хаҗга	хаҗ	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+3	яше	яшь	NOUN	_	Case=Gen|Number=Sing|Person=3	4	nmod:poss	_	_
+4	65тән	65	NUM	_	Case=Abl	5	obl	_	_
+5	артмаган	артма	VERB	_	Aspect=Perf|Polarity=Neg|Tense=Past|VerbForm=Part	6	acl	_	_
+6	кешеләр	кеше	NOUN	_	Case=Nom|Number=Plur	8	nsubj	_	_
+7	бара	бар	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres	8	aux	_	_
+8	алачак	ал	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# text = Шулай ук үзең белән коронавируска каршы прививка ясатылган сертификат һәм ПЦР-тест булырга тиеш.
+1	Шулай	шулай	ADV	_	_	3	advmod	_	_
+2	ук	ук	PART	_	_	1	advmod:emph	_	_
+3	үзең	үз	PRON	_	Case=Ins|Number=Sing|Person=2	8	obl	_	_
+4	белән	белән	ADP	_	_	3	case	_	_
+5	коронавируска	коронавирус	NOUN	_	Case=Dat|Number=Sing	7	obl	_	_
+6	каршы	каршы	ADP	_	_	5	case	_	_
+7	прививка	прививка	NOUN	_	Case=Gen|Number=Sing	8	nmod	_	_
+8	ясатылган	ясатыл	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	9	acl	_	_
+9	сертификат	сертификат	NOUN	_	Case=Nom|Number=Sing	15	conj	_	_
+10	һәм	һәм	CCONJ	_	_	9	cc	_	_
+11	ПЦР-тест	ПЦР-тест	NOUN	_	Case=Nom|Number=Sing	9	conj	_	_
+12	булырга	бул	VERB	_	VerbForm=Inf	15	xcomp	_	_
+13	тиеш	тиеш	ADJ	_	_	12	cop	_	_
+14	.	.	PUNCT	_	_	15	punct	_	_
+15	.	.	PUNCT	_	_	0	root	_	_
+
+# text = Монда үз милләтләренең асыл егетләре җыелган.
+1	Монда	монда	ADV	_	_	6	advmod	_	_
+2	үз	үз	DET	_	_	3	det	_	_
+3	милләтләренең	милләт	NOUN	_	Case=Gen|Number=Plur|Number[psor]=Plur|Person[psor]=3	4	nmod:poss	_	_
+4	асыл	асыл	ADJ	_	_	5	amod	_	_
+5	егетләре	егет	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=3	6	nsubj:pass	_	_
+6	җыелган	җыел	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# text = «Казан утлары» ның йөз еллыгы белән төрки дөньяның дуслыгын исбатладык.
+1	«	«	PUNCT	_	_	2	punct	_	_
+2	Казан	Казан	PROPN	_	_	4	nmod	_	_
+3	утлары	ут	NOUN	_	Case=Gen|Number=Plur|Person=3	2	flat	_	_
+4	»	»	PUNCT	_	_	2	punct	_	_
+5	ның	ның	ADP	_	Case=Gen	2	case	_	_
+6	йөз	йөз	NUM	_	_	7	nummod	_	_
+7	еллыгы	еллык	NOUN	_	Case=Ins|Number=Sing|Person=3	10	obl	_	_
+8	белән	белән	ADP	_	_	7	case	_	_
+9	төрки	төрки	ADJ	_	_	10	amod	_	_
+10	дөньяның	дөнья	NOUN	_	Case=Gen|Number=Sing	13	obl	_	_
+11	дуслыгын	дуслык	NOUN	_	Case=Acc|Number=Sing|Person=3	13	obj	_	_
+12	исбатладык	исбатла	VERB	_	Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+# text = Язучылар - милләтнең йөзек кашы.
+1	Язучылар	язучы	NOUN	_	Number=Plur	5	nsubj	_	_
+2	-	-	PUNCT	_	_	5	punct	_	_
+3	милләтнең	милләт	NOUN	_	Case=Gen|Number=Sing	4	nmod:poss	_	_
+4	йөзек	йөзек	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	_
+5	кашы	каш	NOUN	_	Case=Gen|Number=Sing|Person=3	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# text = Искә алып, чын күңелдән котлыйбыз.
+1	Искә	искә	NOUN	_	Case=Dat|Number=Sing	2	obl	_	_
+2	алып	ал	VERB	_	VerbForm=Conv	5	advcl	_	_
+3	чын	чын	ADJ	_	_	4	amod	_	_
+4	күңелдән	күңел	NOUN	_	Case=Abl|Number=Sing	5	obl	_	_
+5	котлыйбыз	котла	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# text = Моннан 22 ел элек «Әбекәемнең күргәннәре» дип аталган язмадан башланган иҗат юлыма сезнең белән аяк бастым.
+1	Моннан	моннан	ADV	_	_	8	advmod	_	_
+2	22	22	NUM	_	_	3	nummod	_	_
+3	ел	ел	NOUN	_	Case=Abl|Number=Sing	1	obl	_	_
+4	элек	элек	ADV	_	_	1	advmod	_	_
+5	«	«	PUNCT	_	_	8	punct	_	_
+6	Әбекәемнең	әбекәй	NOUN	_	Case=Gen|Number=Sing|Person=1	7	nmod:poss	_	_
+7	күргәннәре	күргән	NOUN	_	Case=Nom|Number=Plur|Person=3	8	obj	_	_
+8	дип	дип	SCONJ	_	_	9	mark	_	_
+9	аталган	атал	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	10	acl	_	_
+10	язмадан	язма	NOUN	_	Case=Abl|Number=Sing	11	obl	_	_
+11	башланган	башла	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	13	acl	_	_
+12	иҗат	иҗат	NOUN	_	Case=Nom|Number=Sing	13	nmod	_	_
+13	юлыма	юл	NOUN	_	Case=Dat|Number=Sing|Person=1	14	obl	_	_
+14	сезнең	сез	PRON	_	Case=Ins|Number=Plur|Person=2	15	obl	_	_
+15	белән	белән	ADP	_	_	16	case	_	_
+16	аяк	аяк	NOUN	_	Case=Acc|Number=Sing	17	obj	_	_
+17	бастым	бас	VERB	_	Number=Sing|Person=1|Tense=Past	0	root	_	_
+18	.	.	PUNCT	_	_	17	punct	_	_
+
+# text = Рәфгать абый (урыны җәннәттә булсын!): «Язмаң бигрәк ошады, тагын яз», — дигәч, газетага язгалый башладым.
+1	Рәфгать	Рәфгать	PROPN	_	_	2	flat	_	_
+2	абый	абый	NOUN	_	Case=Nom|Number=Sing	14	nsubj	_	_
+3	(	(	PUNCT	_	_	2	punct	_	_
+4	урыны	урын	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+5	җәннәттә	җәннәт	NOUN	_	Case=Loc|Number=Sing	4	obl	_	_
+6	булсын	бул	VERB	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres	2	parataxis	_	_
+7	!	!	PUNCT	_	_	6	punct	_	_
+8	)	)	PUNCT	_	_	2	punct	_	_
+9	:	:	PUNCT	_	_	2	punct	_	_
+10	«	«	PUNCT	_	_	14	punct	_	_
+11	Язмаң	язма	NOUN	_	Case=Nom|Number=Sing|Person=2|Poss=Yes	13	nsubj	_	_
+12	бигрәк	бигрәк	ADV	_	_	13	advmod	_	_
+13	ошады	оша	VERB	_	Number=Sing|Person=3|Tense=Past	14	ccomp	_	_
+14	тагын	тагын	ADV	_	_	16	advmod	_	_
+15	яз	яз	VERB	_	Mood=Imp|Number=Sing|Person=2	13	conj	_	_
+16	»	»	PUNCT	_	_	14	punct	_	_
+17	,	,	PUNCT	_	_	14	punct	_	_
+18	—	—	PUNCT	_	_	14	punct	_	_
+19	дигәч	дигәч	SCONJ	_	_	22	mark	_	_
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	газетага	газета	NOUN	_	Case=Dat|Number=Sing	22	obl	_	_
+22	язгалый	язгала	VERB	_	Aspect=Iter|Number=Sing|Person=1|Tense=Pres	23	advcl	_	_
+23	башладым	башла	VERB	_	Number=Sing|Person=1|Tense=Past	0	root	_	_
+24	.	.	PUNCT	_	_	23	punct	_	_
+
+# text = Аннан туктап булмады.
+1	Аннан	аннан	ADV	_	_	3	advmod	_	_
+2	туктап	тукта	VERB	_	VerbForm=Conv	3	advcl	_	_
+3	булмады	булма	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# text = Барлык язмаларымны да бастырып килдегез.
+1	Барлык	барлык	DET	_	_	2	det	_	_
+2	язмаларымны	язма	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=1	4	obj	_	_
+3	да	да	PART	_	_	2	discourse	_	_
+4	бастырып	бастыр	VERB	_	VerbForm=Conv	5	advcl	_	_
+5	килдегез	кил	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# text = Бик зур рәхмәт сезгә!
+1	Бик	бик	ADV	_	_	2	advmod	_	_
+2	зур	зур	ADJ	_	_	3	amod	_	_
+3	рәхмәт	рәхмәт	NOUN	_	Case=Nom	0	root	_	_
+4	сезгә	сез	PRON	_	Case=Dat|Number=Plur|Person=2	3	obl	_	_
+5	!	!	PUNCT	_	_	3	punct	_	_
+
+# text = Хәл итү җиңел бирелә.
+1	Хәл	хәл	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	итү	итү	NOUN	_	Case=Nom|Number=Sing	1	nmod	_	_
+3	җиңел	җиңел	ADJ	_	_	4	xcomp	_	_
+4	бирелә	бирел	VERB	_	Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# text = Ул журналның туган телебез сагында торуын ассызыклады.
+1	Ул	ул	PRON	_	Case=Nom|Number=Sing|Person=3	6	nsubj	_	_
+2	журналның	журнал	NOUN	_	Case=Gen|Number=Sing	4	nmod:poss	_	_
+3	туган	туган	ADJ	_	_	4	amod	_	_
+4	телебез	тел	NOUN	_	Case=Gen|Number=Sing|Person=1|Poss=Yes	5	nmod	_	_
+5	сагында	сагы	NOUN	_	Case=Loc|Number=Sing	6	obl	_	_
+6	торуын	тору	NOUN	_	Case=Acc|Number=Sing|VerbForm=Vnoun	7	obj	_	_
+7	ассызыклады	ассызыклау	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# text = Кичәне «Татар-информ» агентлыгы онлайн күрсәтә.
+1	Кичәне	кичә	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
+2	«	«	PUNCT	_	_	5	punct	_	_
+3	Татар-информ	Татар-информ	PROPN	_	_	4	nmod	_	_
+4	агентлыгы	агентлык	NOUN	_	Case=Nom|Number=Sing|Person=3|Poss=Yes	5	nsubj	_	_
+5	онлайн	онлайн	ADV	_	_	6	advmod	_	_
+6	күрсәтә	күрсәт	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# text = «Казан утлары» журналының алга таба да әдәби мирасны халыкка җиткерүен, әдәбият, журнал һәм укучы чылбырының өзелмәвен теләде.
+1	«	«	PUNCT	_	_	3	punct	_	_
+2	Казан	Казан	PROPN	_	_	3	compound	_	_
+3	утлары	ут	NOUN	_	Case=Gen|Number=Plur	4	nmod	_	_
+4	журналының	журнал	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	9	nmod:poss	_	_
+5	»	»	PUNCT	_	_	3	punct	_	_
+6	алга	алга	ADV	_	_	7	advmod	_	_
+7	таба	таба	ADV	_	_	9	advmod	_	_
+8	да	да	PART	_	_	9	discourse	_	_
+9	әдәби	әдәби	ADJ	_	_	12	amod	_	_
+10	мирасны	мирас	NOUN	_	Case=Acc|Number=Sing	12	obj	_	_
+11	халыкка	халык	NOUN	_	Case=Dat|Number=Sing	12	obl	_	_
+12	җиткерүен	җиткерү	NOUN	_	Case=Acc|Number=Sing|Poss=Yes|VerbForm=Vnoun	22	obj	_	_
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	әдәбият	әдәбият	NOUN	_	Case=Nom|Number=Sing	16	conj	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	журнал	журнал	NOUN	_	Case=Nom|Number=Sing	18	conj	_	_
+17	һәм	һәм	CCONJ	_	_	18	cc	_	_
+18	укучы	укучы	NOUN	_	Case=Nom|Number=Sing	20	nmod:poss	_	_
+19	чылбырының	чылбыр	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	20	nmod:poss	_	_
+20	өзелмәвен	өзелмәү	NOUN	_	Case=Acc|Number=Sing|Poss=Yes|VerbForm=Vnoun	22	conj	_	_
+21	.	.	PUNCT	_	_	22	punct	_	_
+22	теләде	телә	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+
+# text = Марат Əхмәтов «Казан утлары» журналына Татарстан Президенты Рөстәм Миңнехановның һәм Татарстан Республикасы Дәүләт Советының Рәхмәт хатларын тапшырды.
+1	Марат	Марат	PROPN	_	Case=Nom	2	flat	_	_
+2	Əхмәтов	Əхмәтов	PROPN	_	Case=Nom	15	nsubj	_	_
+3	«	«	PUNCT	_	_	6	punct	_	_
+4	Казан	Казан	PROPN	_	Case=Gen	6	nmod	_	_
+5	утлары	утлар	NOUN	_	Case=Gen|Number=Plur	4	flat	_	_
+6	»	»	PUNCT	_	_	7	punct	_	_
+7	журналына	журнал	NOUN	_	Case=Dat	15	obl	_	_
+8	Татарстан	Татарстан	PROPN	_	Case=Gen	9	nmod	_	_
+9	Президенты	президент	NOUN	_	Case=Gen	7	nmod	_	_
+10	Рөстәм	Рөстәм	PROPN	_	Case=Gen	11	flat	_	_
+11	Миңнехановның	Миңнеханов	PROPN	_	Case=Gen	13	nmod	_	_
+12	һәм	һәм	CCONJ	_	_	13	cc	_	_
+13	Татарстан	Татарстан	PROPN	_	Case=Gen	15	conj	_	_
+14	Республикасы	республика	NOUN	_	Case=Gen	13	nmod	_	_
+15	Дәүләт	дәүләт	NOUN	_	Case=Gen	16	nmod	_	_
+16	Советының	совет	NOUN	_	Case=Gen	18	nmod	_	_
+17	Рәхмәт	рәхмәт	NOUN	_	Case=Acc	18	nmod	_	_
+18	хатларын	хат	NOUN	_	Case=Acc|Number=Plur	15	obj	_	_
+19	тапшырды	тапшыр	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	_
+20	.	.	PUNCT	_	_	19	punct	_	_
+
+# text = Котлауларны журналның баш мөхәррире Рөстәм Галиуллин кабул итеп алды.
+1	Котлауларны	котлау	NOUN	_	Case=Acc|Number=Plur	7	obj	_	_
+2	журналның	журнал	NOUN	_	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	баш	баш	ADJ	_	_	4	amod	_	_
+4	мөхәррире	мөхәррир	NOUN	_	Case=Gen|Number=Sing|Person=3	2	nmod:poss	_	_
+5	Рөстәм	Рөстәм	PROPN	_	_	6	flat:name	_	_
+6	Галиуллин	Галиуллин	PROPN	_	_	4	appos	_	_
+7	кабул	кабул	VERB	_	VerbForm=Conv	8	advcl	_	_
+8	итеп	ит	AUX	_	VerbForm=Conv	9	advcl	_	_
+9	алды	ал	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# text = Кичә «Казан утлары» журналы тарихы аша татар әдәбияты тарихын күз алдыннан үткәрә.
+1	Кичә	кичә	NOUN	_	Case=Nom	9	obl	_	_
+2	«	«	PUNCT	_	_	4	punct	_	_
+3	Казан	Казан	PROPN	_	_	4	compound	_	_
+4	утлары	утлар	NOUN	_	Case=Gen|Number=Plur	5	nmod	_	_
+5	журналы	журнал	NOUN	_	Case=Gen	6	nmod	_	_
+6	тарихы	тарих	NOUN	_	Case=Gen	9	obl	_	_
+7	аша	аша	ADP	_	_	6	case	_	_
+8	татар	татар	ADJ	_	_	10	amod	_	_
+9	әдәбияты	әдәбият	NOUN	_	Case=Gen	10	nmod	_	_
+10	тарихын	тарих	NOUN	_	Case=Acc	12	obj	_	_
+11	күз	күз	NOUN	_	Case=Abl	12	obl	_	_
+12	алдыннан	алдыннан	ADP	_	_	13	obl	_	_
+13	үткәрә	үткәрү	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+14	.	.	PUNCT	_	_	13	punct	_	_
+
+# text = Быел Түбән Кама шәһәре һәм район җирлегендә юлларны төзекләндерүгә 1 млрд 955 млн сум акча сарыф итәргә ниятлиләр.
+1	Быел	быел	ADV	_	_	13	advmod	_	_
+2	Түбән	түбән	ADJ	_	_	3	amod	_	_
+3	Кама	Кама	PROPN	_	_	4	nmod	_	_
+4	шәһәре	шәһәр	NOUN	_	Case=Gen|Number=Sing	6	conj	_	_
+5	һәм	һәм	CCONJ	_	_	4	cc	_	_
+6	район	район	NOUN	_	Case=Gen|Number=Sing	8	nmod	_	_
+7	җирлегендә	җирлек	NOUN	_	Case=Loc|Number=Sing	8	obl	_	_
+8	юлларны	юл	NOUN	_	Case=Acc|Number=Plur	13	obj	_	_
+9	төзекләндерүгә	төзекләндерү	NOUN	_	Case=Dat|Number=Sing	13	obl	_	_
+10	1	1	NUM	_	_	13	nummod	_	_
+11	млрд	млрд	NOUN	_	_	10	flat	_	_
+12	955	955	NUM	_	_	13	nummod	_	_
+13	млн	млн	NOUN	_	_	16	obl	_	_
+14	сум	сум	NOUN	_	_	13	nmod	_	_
+15	акча	акча	NOUN	_	_	13	nmod	_	_
+16	сарыф	сарыф итү	VERB	_	VerbForm=Inf	17	xcomp	_	_
+17	итәргә	итү	VERB	_	VerbForm=Inf	18	xcomp	_	_
+18	ниятлиләр	ниятләү	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+19	.	.	PUNCT	_	_	18	punct	_	_
+
+# text = Бу хакта бүген «эшлекле дүшәмбе» дә Түбән Кама муниципаль районы Башкарма комитеты җитәкчесе урынбасары Радик Хаҗиев сөйләде.
+1	Бу	бу	DET	_	PronType=Dem	2	det	_	_
+2	хакта	хак	NOUN	_	Case=Loc|Number=Sing	13	obl	_	_
+3	бүген	бүген	ADV	_	_	13	advmod	_	_
+4	«	«	PUNCT	_	_	6	punct	_	_
+5	эшлекле	эшлекле	ADJ	_	_	6	amod	_	_
+6	дүшәмбе	дүшәмбе	NOUN	_	Case=Nom|Number=Sing	13	obl	_	_
+7	»	»	PUNCT	_	_	6	punct	_	_
+8	дә	дә	PART	_	_	6	discourse	_	_
+9	Түбән	Түбән	PROPN	_	_	10	compound	_	_
+10	Кама	Кама	PROPN	_	_	11	compound	_	_
+11	муниципаль	муниципаль	ADJ	_	_	12	amod	_	_
+12	районы	район	NOUN	_	Case=Gen|Number=Sing	13	nmod	_	_
+13	Башкарма	Башкарма	ADJ	_	_	18	nmod	_	_
+14	комитеты	комитет	NOUN	_	Case=Gen|Number=Sing	13	flat	_	_
+15	җитәкчесе	җитәкче	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	13	appos	_	_
+16	урынбасары	урынбасар	NOUN	_	Case=Gen|Number=Sing|Poss=Yes	13	appos	_	_
+17	Радик	Радик	PROPN	_	_	18	flat	_	_
+18	Хаҗиев	Хаҗиев	PROPN	_	_	19	nsubj	_	_
+19	сөйләде	сөйлә	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+20	.	.	PUNCT	_	_	19	punct	_	_
+
+# text = Бу турыда Түбән Кама муниципаль районы рәсми сайтында хәбәр ителә.
+1	Бу	бу	DET	_	PronType=Dem	2	det	_	_
+2	турыда	туры	NOUN	_	Case=Loc	7	obl	_	_
+3	Түбән	Түбән	PROPN	_	_	4	compound	_	_
+4	Кама	Кама	PROPN	_	_	5	compound	_	_
+5	муниципаль	муниципаль	ADJ	_	_	6	amod	_	_
+6	районы	район	NOUN	_	Case=Gen	7	nmod	_	_
+7	рәсми	рәсми	ADJ	_	_	8	amod	_	_
+8	сайтында	сайт	NOUN	_	Case=Loc|Number=Sing|Poss=3	11	obl	_	_
+9	хәбәр	хәбәр	NOUN	_	_	11	obj	_	_
+10	ителә	ит	AUX	_	Tense=Pres|VerbForm=Fin|Voice=Pass	11	aux:pass	_	_
+11	.	.	PUNCT	_	_	0	root	_	_
+
+# text = «Безнең бурыч - планлаштырылган эшләрне нәтиҗәле башкару.
+1	«	«	PUNCT	_	_	6	punct	_	_
+2	Безнең	безнең	PRON	_	Case=Gen|Number=Plur|Person=1	3	nmod:poss	_	_
+3	бурыч	бурыч	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+4	-	-	PUNCT	_	_	6	punct	_	_
+5	планлаштырылган	планлаштыр	ADJ	_	Tense=Past|VerbForm=Part|Voice=Pass	6	amod	_	_
+6	эшләрне	эш	NOUN	_	Case=Acc|Number=Plur	8	obj	_	_
+7	нәтиҗәле	нәтиҗәле	ADV	_	_	8	advmod	_	_
+8	башкару	башкару	VERB	_	VerbForm=Inf	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# text = Халыкның бу эшне аңлап кабул итүләрен сорыйм.
+1	Халыкның	халык	NOUN	_	Case=Gen|Number=Sing	4	nmod:poss	_	_
+2	бу	бу	DET	_	_	3	det	_	_
+3	эшне	эш	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	аңлап	аңла	VERB	_	VerbForm=Conv	5	advcl	_	_
+5	кабул	кабул ит	VERB	_	VerbForm=Inf	6	ccomp	_	_
+6	итүләрен	итү	NOUN	_	Case=Acc|Number=Plur|Person=3	7	obj	_	_
+7	сорыйм	сорый	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# text = Без проект якынча 2 миллиард сум тәшкил итә.
+1	Без	без	PRON	_	Case=Nom|Number=Sing|Person=1	2	nsubj	_	_
+2	проект	проект	NOUN	_	Case=Nom|Number=Sing	6	obl	_	_
+3	якынча	якынча	ADV	_	_	5	advmod	_	_
+4	2	2	NUM	_	_	5	nummod	_	_
+5	миллиард	миллиард	NOUN	_	Case=Acc|Number=Sing	6	obj	_	_
+6	сум	сум	NOUN	_	Case=Acc|Number=Sing	7	obl	_	_
+7	тәшкил	тәшкил итү	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	итә	итү	AUX	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+# text = Шуңа да карамастан, шәһәр һәм районда ремонт таләп итә торган автоюллар күләме бик зур кала бирә һәм шикаятьләр күп килә.
+1	Шуңа	шу	PRON	_	Case=Dat|PronType=Dem	4	obl	_	_
+2	да	да	PART	_	_	1	advmod	_	_
+3	карамастан	кара	VERB	_	Polarity=Neg|VerbForm=Conv	1	advcl	_	_
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	шәһәр	шәһәр	NOUN	_	Case=Loc	8	nmod	_	_
+6	һәм	һәм	CCONJ	_	_	7	cc	_	_
+7	районда	район	NOUN	_	Case=Loc	5	conj	_	_
+8	ремонт	ремонт	NOUN	_	_	13	nsubj	_	_
+9	таләп	таләп	NOUN	_	_	10	obj	_	_
+10	итә	ит	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl	_	_
+11	торган	тор	VERB	_	Tense=Pres|VerbForm=Part	10	acl	_	_
+12	автоюллар	автоюл	NOUN	_	Number=Plur	8	nmod	_	_
+13	күләме	күләм	NOUN	_	Case=Nom|Number=Sing|Poss=3	16	nsubj	_	_
+14	бик	бик	ADV	_	_	15	advmod	_	_
+15	зур	зур	ADJ	_	_	13	amod	_	_
+16	кала	кал	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+17	бирә	бир	PART	_	_	16	aux	_	_
+18	һәм	һәм	CCONJ	_	_	21	cc	_	_
+19	шикаятьләр	шикаять	NOUN	_	Number=Plur	21	nsubj	_	_
+20	күп	күп	ADV	_	_	21	advmod	_	_
+21	килә	кил	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	conj	_	_
+22	.	.	PUNCT	_	_	16	punct	_	_
+
+# text = Әлбәттә, бер ел эчендә барысын да эшләп бетерү мөмкин түгел.
+1	Әлбәттә	әлбәттә	ADV	_	_	7	advmod	_	_
+2	,	,	PUNCT	_	_	7	punct	_	_
+3	бер	бер	DET	_	_	4	det	_	_
+4	ел	ел	NOUN	_	Case=Loc	6	obl	_	_
+5	эчендә	эч	NOUN	_	Case=Loc	4	case	_	_
+6	барысын	бар	PRON	_	Case=Acc	7	obj	_	_
+7	да	да	PART	_	_	10	advmod	_	_
+8	эшләп	эшлә	VERB	_	VerbForm=Conv	10	advcl	_	_
+9	бетерү	бетер	VERB	_	VerbForm=Inf	10	xcomp	_	_
+10	мөмкин	мөмкин	ADJ	_	_	0	root	_	_
+11	түгел	түгел	AUX	_	_	10	cop	_	_
+12	.	.	PUNCT	_	_	10	punct	_	_
+
+# text = Шәһәр җирлегенә генә дә 15 миллиард тирәсе акча кирәк», - диде Рамил Муллин.
+1	Шәһәр	шәһәр	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
+2	җирлегенә	җирлек	NOUN	_	Case=Dat|Number=Sing	1	nmod	_	_
+3	генә	генә	PART	_	_	7	advmod	_	_
+4	дә	дә	PART	_	_	3	advmod	_	_
+5	15	15	NUM	_	_	6	nummod	_	_
+6	миллиард	миллиард	NUM	_	_	7	nummod	_	_
+7	тирәсе	тирә	NOUN	_	Case=Gen|Number=Sing	8	obl	_	_
+8	акча	акча	NOUN	_	Case=Nom|Number=Sing	9	obj	_	_
+9	кирәк	кирәк	VERB	_	VerbForm=Fin	13	ccomp	_	_
+10	»	»	PUNCT	_	_	9	punct	_	_
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	-	-	PUNCT	_	_	13	punct	_	_
+13	диде	ди	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+14	Рамил	Рамил	PROPN	_	_	15	flat	_	_
+15	Муллин	Муллин	PROPN	_	_	13	nsubj	_	_
+
+# text = Түбән Кама муниципаль районы Башкарма комитеты җитәкчесе Рамил Муллинның ТР Президентына шәхси мөрәҗәгате нәтиҗәсендә, Түбән Камага бер миллиард сум күләмендә өстәмә акча бүлеп бирү турында карар кабул ителде.
+1	Түбән	түбән	ADJ	_	_	2	amod	_	_
+2	Кама	Кама	PROPN	_	_	4	nmod	_	_
+3	муниципаль	муниципаль	ADJ	_	_	4	amod	_	_
+4	районы	район	NOUN	_	Case=Gen|Number=Sing	6	nmod	_	_
+5	Башкарма	башкарма	ADJ	_	_	6	amod	_	_
+6	комитеты	комитет	NOUN	_	Case=Gen|Number=Sing	7	nmod	_	_
+7	җитәкчесе	җитәкче	NOUN	_	Case=Gen|Number=Sing|Person=3	8	nmod	_	_
+8	Рамил	Рамил	PROPN	_	_	9	flat:name	_	_
+9	Муллинның	Муллин	PROPN	_	Case=Gen|Number=Sing	13	nmod	_	_
+10	ТР	ТР	PROPN	_	_	11	nmod	_	_
+11	Президентына	президент	NOUN	_	Case=Dat|Number=Sing	12	obl	_	_
+12	шәхси	шәхси	ADJ	_	_	13	amod	_	_
+13	мөрәҗәгате	мөрәҗәгать	NOUN	_	Case=Gen|Number=Sing|Person=3	15	obl	_	_
+14	нәтиҗәсендә	нәтиҗә	NOUN	_	Case=Loc|Number=Sing	15	case	_	_
+15	,	,	PUNCT	_	_	22	punct	_	_
+16	Түбән	түбән	ADJ	_	_	17	amod	_	_
+17	Камага	Кама	PROPN	_	Case=Dat	22	obl	_	_
+18	бер	бер	NUM	_	_	19	nummod	_	_
+19	миллиард	миллиард	NUM	_	_	20	nummod	_	_
+20	сум	сум	NOUN	_	Case=Acc|Number=Sing	22	obl	_	_
+21	күләмендә	күләм	NOUN	_	Case=Loc|Number=Sing	20	nmod	_	_
+22	өстәмә	өстәмә	ADJ	_	_	23	amod	_	_
+23	акча	акча	NOUN	_	Case=Acc|Number=Sing	24	obj	_	_
+24	бүлеп	бүлеп	VERB	_	VerbForm=Conv	25	advcl	_	_
+25	бирү	бирү	VERB	_	VerbForm=Inf	26	acl	_	_
+26	турында	турында	ADP	_	_	27	case	_	_
+27	карар	карар	NOUN	_	Case=Acc|Number=Sing	28	obj	_	_
+28	кабул	кабул	VERB	_	VerbForm=Conv	29	acl	_	_
+29	ителде	ител	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
+30	.	.	PUNCT	_	_	29	punct	_	_
+
+# text = Автомобиль юлларының асфальт - бетон катламын ремонтлау 100 миллион сумга башкарылачак.
+1	Автомобиль	автомобиль	NOUN	_	Case=Gen|Number=Plur	2	nmod	_	_
+2	юлларының	юл	NOUN	_	Case=Gen|Number=Plur|Number[psor]=Plur|Person[psor]=3	6	nmod	_	_
+3	асфальт	асфальт	NOUN	_	_	6	compound	_	_
+4	-	-	PUNCT	_	_	3	punct	_	_
+5	бетон	бетон	NOUN	_	_	3	flat	_	_
+6	катламын	катлам	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obj	_	_
+7	ремонтлау	ремонтлау	NOUN	_	_	8	nmod	_	_
+8	100	100	NUM	_	_	9	nummod	_	_
+9	миллион	миллион	NUM	_	_	10	nummod	_	_
+10	сумга	сум	NOUN	_	Case=Dat|Number=Sing	11	obl	_	_
+11	башкарылачак	башкару	VERB	_	Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# text = Түбән Кама районының торак пунктларында «Юл - урам челтәрен норматив хәлгә китерү» программасы буенча 50 миллион сумлык эшләр планлаштырылган, моңа Борок, Югары Чаллы, Актүбә, Сухрау, Каенлы, Олы Афанас авыллары керә.
+1	Түбән	Түбән	PROPN	_	_	2	compound	_	_
+2	Кама	Кама	PROPN	_	_	3	nmod:poss	_	_
+3	районының	район	NOUN	_	Case=Gen|Number=Sing|Person=3	4	nmod:poss	_	_
+4	торак	торак	ADJ	_	_	5	amod	_	_
+5	пунктларында	пункт	NOUN	_	Case=Loc|Number=Plur|Person=3	13	obl	_	_
+6	«	«	PUNCT	_	_	13	punct	_	_
+7	Юл	юл	NOUN	_	_	9	nmod	_	_
+8	-	-	PUNCT	_	_	9	punct	_	_
+9	урам	урам	NOUN	_	_	10	nmod	_	_
+10	челтәрен	челтәр	NOUN	_	Case=Acc|Number=Sing|Person=3	11	obj	_	_
+11	норматив	норматив	ADJ	_	_	12	amod	_	_
+12	хәлгә	хәл	NOUN	_	Case=Dat|Number=Sing	13	obl	_	_
+13	китерү	китерү	VERB	_	VerbForm=Inf	14	acl	_	_
+14	программасы	программа	NOUN	_	Case=Gen|Number=Sing|Person=3	15	obl	_	_
+15	буенча	буенча	ADP	_	_	14	case	_	_
+16	50	50	NUM	_	_	17	nummod	_	_
+17	миллион	миллион	NUM	_	_	18	nummod	_	_
+18	сумлык	сумлык	ADJ	_	_	19	amod	_	_
+19	эшләр	эш	NOUN	_	Case=Nom|Number=Plur	20	nsubj:pass	_	_
+20	планлаштырылган	планлаштыр	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	моңа	моңа	PRON	_	Case=Dat|Number=Sing	23	obl	_	_
+23	Борок	Борок	PROPN	_	_	29	nsubj	_	_
+24	,	,	PUNCT	_	_	23	punct	_	_
+25	Югары	Югары	PROPN	_	_	26	compound	_	_
+26	Чаллы	Чаллы	PROPN	_	_	23	conj	_	_
+27	,	,	PUNCT	_	_	26	punct	_	_
+28	Актүбә	Актүбә	PROPN	_	_	23	conj	_	_
+29	,	,	PUNCT	_	_	28	punct	_	_
+30	Сухрау	Сухрау	PROPN	_	_	23	conj	_	_
+31	,	,	PUNCT	_	_	30	punct	_	_
+32	Каенлы	Каенлы	PROPN	_	_	23	conj	_	_
+33	,	,	PUNCT	_	_	32	punct	_	_
+34	Олы	Олы	PROPN	_	_	35	compound	_	_
+35	Афанас	Афанас	PROPN	_	_	23	conj	_	_
+36	авыллары	авыл	NOUN	_	Case=Nom|Number=Plur|Person=3	23	flat	_	_
+37	керә	кер	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	20	conj	_	_
+38	.	.	PUNCT	_	_	20	punct	_	_
+
+# text = Чистай - Түбән Кама автоюлының Ширәмәт авылы янындагы өлешен 120 миллион сумга ремонтлау планлаштырылган.
+1	Чистай	Чистай	PROPN	_	Case=Nom	3	nsubj	_	_
+2	-	-	PUNCT	_	_	1	punct	_	_
+3	Түбән	түбән	ADJ	_	_	4	amod	_	_
+4	Кама	Кама	PROPN	_	Case=Gen	6	nmod	_	_
+5	автоюлының	автоюл	NOUN	_	Case=Gen|Number=Sing|Person=3|Poss=Yes	6	nmod:poss	_	_
+6	Ширәмәт	Ширәмәт	PROPN	_	Case=Gen	7	nmod	_	_
+7	авылы	авыл	NOUN	_	Case=Gen|Number=Sing|Person=3|Poss=Yes	8	nmod:poss	_	_
+8	янындагы	янындагы	ADJ	_	_	9	amod	_	_
+9	өлешен	өлеш	NOUN	_	Case=Acc|Number=Sing|Person=3|Poss=Yes	13	obj	_	_
+10	120	120	NUM	_	_	11	nummod	_	_
+11	миллион	миллион	NUM	_	_	12	nummod	_	_
+12	сумга	сум	NOUN	_	Case=Dat	13	obl	_	_
+13	ремонтлау	ремонтлау	VERB	_	VerbForm=Inf	14	xcomp	_	_
+14	планлаштырылган	планлаштыр	VERB	_	Mood=Ind|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+
+# text = Чокырларны ямау, бордюрлар кую, Кама Аланында җәяүлеләр юлларын төзү өчен, 57 миллион сумлык чыгым тотыла.
+1	Чокырларны	чокыр	NOUN	_	Case=Acc|Number=Plur	3	obj	_	_
+2	ямау	ямау	VERB	_	VerbForm=Inf	9	conj	_	_
+3	бордюрлар	бордюр	NOUN	_	Case=Acc|Number=Plur	4	obj	_	_
+4	кую	кую	VERB	_	VerbForm=Inf	9	conj	_	_
+5	Кама	Кама	PROPN	_	_	6	nmod	_	_
+6	Аланында	алан	NOUN	_	Case=Loc|Number=Sing	9	obl	_	_
+7	җәяүлеләр	җәяүле	NOUN	_	Case=Gen|Number=Plur	8	nmod	_	_
+8	юлларын	юл	NOUN	_	Case=Acc|Number=Plur	9	obj	_	_
+9	төзү	төзү	VERB	_	VerbForm=Inf	13	advcl	_	_
+10	өчен	өчен	ADP	_	_	9	case	_	_
+11	,	,	PUNCT	_	_	9	punct	_	_
+12	57	57	NUM	_	_	13	nummod	_	_
+13	миллион	миллион	NUM	_	_	14	nummod	_	_
+14	сумлык	сумлык	NOUN	_	Case=Gen|Number=Sing	15	obl	_	_
+15	чыгым	чыгым	NOUN	_	Case=Nom|Number=Sing	16	nsubj	_	_
+16	тотыла	тотылу	VERB	_	Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+17	.	.	PUNCT	_	_	16	punct	_	_
+
+# text = Автомобиль юлларына агымдагы ремонт һәм шәһәрнең магистраль автомобиль юлларын төзекләндерү 17 миллион сумга төшәчәк.
+1	Автомобиль	автомобиль	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	_
+2	юлларына	юл	NOUN	_	Case=Dat|Number=Plur	3	obl	_	_
+3	агымдагы	агымдагы	ADJ	_	Case=Nom	4	amod	_	_
+4	ремонт	ремонт	NOUN	_	Case=Nom|Number=Sing	14	nsubj	_	_
+5	һәм	һәм	CCONJ	_	_	4	cc	_	_
+6	шәһәрнең	шәһәр	NOUN	_	Case=Gen|Number=Sing	8	nmod:poss	_	_
+7	магистраль	магистраль	ADJ	_	Case=Nom	8	amod	_	_
+8	автомобиль	автомобиль	NOUN	_	Case=Nom|Number=Sing	9	nmod	_	_
+9	юлларын	юл	NOUN	_	Case=Acc|Number=Plur	10	obj	_	_
+10	төзекләндерү	төзекләндерү	NOUN	_	Case=Nom|Number=Sing	4	conj	_	_
+11	17	17	NUM	_	_	12	nummod	_	_
+12	миллион	миллион	NOUN	_	Case=Nom|Number=Sing	13	nmod	_	_
+13	сумга	сум	NOUN	_	Case=Dat|Number=Sing	14	obl	_	_
+14	төшәчәк	төш	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+# text = Шәһәр һәм авыл территорияләрен чистартуга 10 мең тирәсе кеше чыкты.
+1	Шәһәр	шәһәр	NOUN	_	Case=Nom|Number=Sing	3	conj	_	_
+2	һәм	һәм	CCONJ	_	_	1	cc	_	_
+3	авыл	авыл	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	_
+4	территорияләрен	территория	NOUN	_	Case=Acc|Number=Plur|Person[psor]=3	6	obj	_	_
+5	чистартуга	чистарту	NOUN	_	Case=Dat|Number=Sing	4	nmod	_	_
+6	10	10	NUM	_	_	8	nummod	_	_
+7	мең	мең	NUM	_	_	6	flat	_	_
+8	тирәсе	тирә	NOUN	_	Case=Gen|Number=Sing	10	nmod	_	_
+9	кеше	кеше	NOUN	_	Case=Nom|Number=Sing	10	nsubj	_	_
+10	чыкты	чык	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# text = Бу хакта Әлмәт районы башлыгы телеграм - каналда хәбәр итте.
+1	Бу	бу	DET	_	PronType=Dem	3	det	_	_
+2	хакта	хак	NOUN	_	Case=Loc	3	nmod	_	_
+3	Әлмәт	Әлмәт	PROPN	_	Case=Gen	5	nmod	_	_
+4	районы	район	NOUN	_	Case=Gen	3	flat	_	_
+5	башлыгы	башлык	NOUN	_	Case=Nom	8	nsubj	_	_
+6	телеграм	телеграм	NOUN	_	Case=Loc	8	obl	_	_
+7	-	-	PUNCT	_	_	6	punct	_	_
+8	каналда	канал	NOUN	_	Case=Loc	9	obl	_	_
+9	хәбәр	хәбәр	NOUN	_	Case=Acc	10	obj	_	_
+10	итте	ит	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# text = Җыештыруда муниципаль учреждениеләр хезмәткәрләре, волонтерлар, мәктәп укучылары, идарәче компанияләр, эшмәкәрләр һәм шәһәр предприятиеләре катнашты.
+1	Җыештыруда	җыештыру	NOUN	_	Case=Loc|Number=Sing	10	obl	_	_
+2	муниципаль	муниципаль	ADJ	_	_	3	amod	_	_
+3	учреждениеләр	учреждение	NOUN	_	Case=Gen|Number=Plur	1	nmod	_	_
+4	хезмәткәрләре	хезмәткәр	NOUN	_	Case=Gen|Number=Plur|Person=3|Poss=Yes	3	nmod	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	волонтерлар	волонтер	NOUN	_	Case=Gen|Number=Plur	1	conj	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	мәктәп	мәктәп	NOUN	_	Case=Gen|Number=Sing	9	nmod	_	_
+9	укучылары	укучы	NOUN	_	Case=Gen|Number=Plur|Person=3|Poss=Yes	1	conj	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	идарәче	идарәче	ADJ	_	_	12	amod	_	_
+12	компанияләр	компания	NOUN	_	Case=Gen|Number=Plur	1	conj	_	_
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	эшмәкәрләр	эшмәкәр	NOUN	_	Case=Gen|Number=Plur	1	conj	_	_
+15	һәм	һәм	CCONJ	_	_	16	cc	_	_
+16	шәһәр	шәһәр	NOUN	_	Case=Gen|Number=Sing	17	nmod	_	_
+17	предприятиеләре	предприятие	NOUN	_	Case=Gen|Number=Plur|Person=3|Poss=Yes	1	conj	_	_
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	катнашты	катнаш	VERB	_	Number=Plur|Person=3|Tense=Past	0	root	_	_
+
+# text = Бу турыда «Әлмәт таңнары» сайтында хәбәр ителә.
+1	Бу	бу	DET	_	PronType=Dem	2	det	_	_
+2	турыда	туры	NOUN	_	Case=Loc	6	obl	_	_
+3	«	«	PUNCT	_	_	5	punct	_	_
+4	Әлмәт таңнары	Әлмәт таңнары	PROPN	_	_	5	nmod	_	_
+5	»	»	PUNCT	_	_	4	punct	_	_
+6	сайтында	сайт	NOUN	_	Case=Loc|Number=Sing|Person=3|Poss=Yes	8	obl	_	_
+7	хәбәр	хәбәр	NOUN	_	_	8	obj	_	_
+8	ителә	ит	VERB	_	Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# text = Барлык территорияләрдә дә эш кайнады, музыка яңгырады, кыр кухнясы кайнар аш белән тәэмин итте.
+1	Барлык	барлык	DET	_	_	2	det	_	_
+2	территорияләрдә	территория	NOUN	_	Case=Loc|Number=Plur	7	obl	_	_
+3	дә	дә	PART	_	_	2	discourse	_	_
+4	эш	эш	NOUN	_	_	5	nsubj	_	_
+5	кайнады	кайна	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	conj	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	музыка	музыка	NOUN	_	_	0	root	_	_
+8	яңгырады	яңгыра	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	acl:relcl	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	кыр	кыр	NOUN	_	_	11	compound	_	_
+11	кухнясы	кухня	NOUN	_	Case=Nom|Number=Sing|Poss=3	13	nsubj	_	_
+12	кайнар	кайнар	ADJ	_	_	13	amod	_	_
+13	аш	аш	NOUN	_	_	14	obj	_	_
+14	белән	белән	ADP	_	_	13	case	_	_
+15	тәэмин	тәэмин	VERB	_	_	16	compound:svc	_	_
+16	итте	ит	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	conj	_	_
+17	.	.	PUNCT	_	_	7	punct	_	_
+
+# text = Өмә барышында үзбушаткычлар һәм төягечләр җәлеп ителде, чүп-чар җыю һәм чыгару оештырылды, юл буйлары тәртипкә китерелде, чүп үләннәре бетерелде, коры ботаклар киселде.
+1	Өмә	өмә	NOUN	_	Case=Nom|Number=Sing	2	obl	_	_
+2	барышында	барыш	NOUN	_	Case=Loc|Number=Sing	8	obl	_	_
+3	үзбушаткычлар	үзбушаткыч	NOUN	_	Case=Nom|Number=Plur	8	nsubj:pass	_	_
+4	һәм	һәм	CCONJ	_	_	5	cc	_	_
+5	төягечләр	төягеч	NOUN	_	Case=Nom|Number=Plur	3	conj	_	_
+6	җәлеп	җәлеп	VERB	_	VerbForm=Conv	8	advcl	_	_
+7	ителде	ит	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	8	aux:pass	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	чүп-чар	чүп-чар	NOUN	_	Case=Nom|Number=Sing	15	nsubj:pass	_	_
+10	җыю	җый	VERB	_	VerbForm=Inf	9	acl	_	_
+11	һәм	һәм	CCONJ	_	_	12	cc	_	_
+12	чыгару	чыгар	VERB	_	VerbForm=Inf	10	conj	_	_
+13	оештырылды	оештыр	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	15	acl:relcl	_	_
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	юл	юл	NOUN	_	Case=Nom|Number=Sing	23	nsubj:pass	_	_
+16	буйлары	буй	NOUN	_	Case=Gen|Number=Plur|Person=3	15	nmod:poss	_	_
+17	тәртипкә	тәртип	NOUN	_	Case=Dat|Number=Sing	18	obl	_	_
+18	китерелде	китер	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	15	acl:relcl	_	_
+19	,	,	PUNCT	_	_	23	punct	_	_
+20	чүп	чүп	NOUN	_	Case=Nom|Number=Sing	21	compound	_	_
+21	үләннәре	үлән	NOUN	_	Case=Nom|Number=Plur|Person=3	23	nsubj:pass	_	_
+22	бетерелде	бетер	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	23	acl:relcl	_	_
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	коры	коры	ADJ	_	_	25	amod	_	_
+25	ботаклар	ботак	NOUN	_	Case=Nom|Number=Plur	27	nsubj:pass	_	_
+26	киселде	кис	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	27	acl:relcl	_	_
+27	.	.	PUNCT	_	_	0	root	_	_
+
+# text = Административ характердагы барлык гамәлләрне кулланырга кирәк.
+1	Административ	административ	ADJ	_	_	2	amod	_	_
+2	характердагы	характер	NOUN	_	Case=Loc|Number=Sing	4	nmod	_	_
+3	барлык	барлык	DET	_	_	4	det	_	_
+4	гамәлләрне	гамәл	NOUN	_	Case=Acc|Number=Plur	6	obj	_	_
+5	кулланырга	куллан	VERB	_	VerbForm=Inf	6	xcomp	_	_
+6	кирәк	кирәк	AUX	_	_	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# text = Сыйфатсыз су өчен кире исәпләүләр үткәрергә кирәк дисәгез, ясагыз.
+1	Сыйфатсыз	сыйфатсыз	ADJ	_	Degree=Pos	2	amod	_	_
+2	су	су	NOUN	_	Case=Nom|Number=Sing	4	obl	_	_
+3	өчен	өчен	ADP	_	_	2	case	_	_
+4	кире	кире	ADJ	_	Degree=Pos	5	amod	_	_
+5	исәпләүләр	исәпләү	NOUN	_	Case=Nom|Number=Plur	6	obj	_	_
+6	үткәрергә	үткәрергә	VERB	_	VerbForm=Inf	7	xcomp	_	_
+7	кирәк	кирәк	AUX	_	_	0	root	_	_
+8	дисәгез	дисәгез	VERB	_	Mood=Cnd|Number=Plur|Person=2|VerbForm=Fin	7	advcl	_	_
+9	ясагыз	ясагыз	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	7	parataxis	_	_
+10	.	.	PUNCT	_	_	7	punct	_	_
+
+# text = Беркем дә каршы килми.
+1	Беркем	беркем	PRON	_	Case=Nom|PronType=Ind	4	nsubj	_	_
+2	дә	дә	PART	_	Polarity=Neg	1	advmod	_	_
+3	каршы	каршы	ADV	_	_	4	advmod	_	_
+4	килми	кил	VERB	_	Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# text = Халыкка күрсәтелә торган хезмәтләр сыйфатлы, билгеләнгән таләпләргә җавап бирергә тиеш», – диде шәһәр башлыгы Наил Мәһдиев.
+1	Халыкка	халык	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
+2	күрсәтелә	күрсәтел	VERB	_	Tense=Pres|VerbForm=Part|Voice=Pass	3	acl	_	_
+3	торган	тор	AUX	_	Tense=Pres|VerbForm=Part	4	acl	_	_
+4	хезмәтләр	хезмәт	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	_
+5	сыйфатлы	сыйфатлы	ADJ	_	_	13	advcl	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	билгеләнгән	билгелән	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	8	acl	_	_
+8	таләпләргә	таләп	NOUN	_	Case=Dat|Number=Plur	9	obl	_	_
+9	җавап	җавап	NOUN	_	Case=Nom|Number=Sing	10	obj	_	_
+10	бирергә	бир	VERB	_	VerbForm=Inf	11	xcomp	_	_
+11	тиеш	тиеш	AUX	_	_	5	conj	_	_
+12	»	»	PUNCT	_	_	13	punct	_	_
+13	диде	дие	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+14	шәһәр	шәһәр	NOUN	_	Case=Nom|Number=Sing	15	nmod	_	_
+15	башлыгы	башлык	NOUN	_	Case=Nom|Number=Sing|Person=3|Poss=Sing	13	nsubj	_	_
+16	Наил	Наил	PROPN	_	_	17	flat	_	_
+17	Мәһдиев	Мәһдиев	PROPN	_	_	15	flat	_	_
+
+# text = Гади сүз белән әйткәндә суда тутык бар.
+1	Гади	гади	ADJ	_	Degree=Pos	2	amod	_	_
+2	сүз	сүз	NOUN	_	Case=Ins|Number=Sing	6	obl	_	_
+3	белән	белән	ADP	_	_	2	case	_	_
+4	әйткәндә	әйт	VERB	_	VerbForm=Conv	6	advcl	_	_
+5	суда	су	NOUN	_	Case=Loc|Number=Sing	6	obl	_	_
+6	тутык	тутык	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+7	бар	бар	AUX	_	_	6	cop	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+# text = Без вазифаи затларны чакыртып сөйләшүләр үткәрдек.
+1	Без	без	PRON	_	Case=Nom|Number=Plur|Person=1	6	nsubj	_	_
+2	вазифаи	вазифа	NOUN	_	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	затларны	зат	NOUN	_	Case=Acc|Number=Plur	5	obj	_	_
+4	чакыртып	чакырт	VERB	_	VerbForm=Conv	5	advcl	_	_
+5	сөйләшүләр	сөйләшү	NOUN	_	Case=Acc|Number=Plur	6	obl	_	_
+6	үткәрдек	үткәр	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# text = Соңыннан прокуратурага Чаллы су каналы һәм идарә итүче компанияләренә планнан тыш тикшерүләр белән чыгуларын сорадык», – диде Илгизәр Бариев.
+1	Соңыннан	соңыннан	ADV	_	_	13	advmod	_	_
+2	прокуратурага	прокуратура	NOUN	_	Case=Dat|Number=Sing	13	obl	_	_
+3	Чаллы	Чаллы	PROPN	_	Case=Gen|Number=Sing	4	nmod	_	_
+4	су	су	NOUN	_	Case=Nom|Number=Sing	5	nmod	_	_
+5	каналы	канал	NOUN	_	Case=Gen|Number=Sing	7	conj	_	_
+6	һәм	һәм	CCONJ	_	_	5	cc	_	_
+7	идарә	идарә	NOUN	_	Case=Nom|Number=Sing	2	conj	_	_
+8	итүче	итүче	ADJ	_	_	7	amod	_	_
+9	компанияләренә	компания	NOUN	_	Case=Dat|Number=Plur	7	nmod	_	_
+10	планнан	план	NOUN	_	Case=Abl|Number=Sing	11	nmod	_	_
+11	тыш	тыш	ADP	_	_	12	case	_	_
+12	тикшерүләр	тикшерү	NOUN	_	Case=Nom|Number=Plur	13	obl	_	_
+13	белән	белән	ADP	_	_	14	case	_	_
+14	чыгуларын	чыгу	NOUN	_	Case=Acc|Number=Plur|Poss=3	15	obj	_	_
+15	сорадык	сорa	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	_
+16	»	»	PUNCT	_	_	15	punct	_	_
+17	–	–	PUNCT	_	_	19	punct	_	_
+18	диде	де	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	19	acl:relcl	_	_
+19	Илгизәр	Илгизәр	PROPN	_	_	15	parataxis	_	_
+20	Бариев	Бариев	PROPN	_	_	19	flat	_	_
+
+# text = «Сез күзәтчелек органы, бары үз вәкаләтләрегезне куллануыгызны үтенәм.
+1	«	«	PUNCT	_	_	7	punct	_	_
+2	Сез	сез	PRON	_	Case=Nom|Number=Plur|Person=2	7	nsubj	_	_
+3	күзәтчелек	күзәтчелек	NOUN	_	Case=Nom	4	compound	_	_
+4	органы	орган	NOUN	_	Case=Nom	2	appos	_	_
+5	бары	бары	ADV	_	_	7	advmod	_	_
+6	үз	үз	PRON	_	Reflex=Yes	7	obj	_	_
+7	вәкаләтләрегезне	вәкаләт	NOUN	_	Case=Acc|Number=Plur|Person=2|Poss=Yes	10	obj	_	_
+8	куллануыгызны	куллану	NOUN	_	Case=Acc|Number=Plur|Person=2|Poss=Yes|VerbForm=Trans	10	obj	_	_
+9	үтенәм	үтен	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# text = Чаллы су каналы һәм йортларны кайнар су белән тәэмин итүче оешмалар үз хезмәтләре өчен шәһәрдә яшәүчеләрдән акча ала.
+1	Чаллы	Чаллы	PROPN	_	Case=Nom	3	nmod	_	_
+2	су	су	NOUN	_	Case=Nom	3	nmod	_	_
+3	каналы	канал	NOUN	_	Case=Nom|Number=Plur	8	nsubj	_	_
+4	һәм	һәм	CCONJ	_	_	5	cc	_	_
+5	йортларны	йорт	NOUN	_	Case=Acc|Number=Plur	3	conj	_	_
+6	кайнар	кайнар	ADJ	_	_	7	amod	_	_
+7	су	су	NOUN	_	Case=Ins	8	obl	_	_
+8	белән	белән	ADP	_	_	7	case	_	_
+9	тәэмин	тәэмин	VERB	_	Tense=Pres|VerbForm=Part	10	acl	_	_
+10	итүче	итү	VERB	_	Tense=Pres|VerbForm=Part	11	acl	_	_
+11	оешмалар	оешма	NOUN	_	Case=Nom|Number=Plur	13	nsubj	_	_
+12	үз	үз	DET	_	_	13	det	_	_
+13	хезмәтләре	хезмәт	NOUN	_	Case=Gen|Number=Plur|Person=3	15	obl	_	_
+14	өчен	өчен	ADP	_	_	13	case	_	_
+15	шәһәрдә	шәһәр	NOUN	_	Case=Loc	16	obl	_	_
+16	яшәүчеләрдән	яшәүче	NOUN	_	Case=Abl|Number=Plur	18	obl	_	_
+17	акча	акча	NOUN	_	Case=Acc	18	obj	_	_
+18	ала	ал	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+19	.	.	PUNCT	_	_	18	punct	_	_
+
+# text = Бәлки, ике төрлесен дә күрсәтеп, комбинация ясау кирәктер.
+1	Бәлки	бәлки	ADV	_	_	7	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	ике	ике	NUM	_	_	4	nummod	_	_
+4	төрлесен	төрле	ADJ	_	Case=Acc|Number=Sing|Person=3|Poss=Yes	7	obj	_	_
+5	дә	дә	PART	_	_	4	discourse	_	_
+6	күрсәтеп	күрсәт	VERB	_	VerbForm=Conv	7	advcl	_	_
+7	комбинация	комбинация	NOUN	_	Case=Acc|Number=Sing	8	obj	_	_
+8	ясау	яса	VERB	_	VerbForm=Inf	0	root	_	_
+9	кирәктер	кирәк	AUX	_	Mood=Nec|Number=Sing|Person=3|Tense=Pres	8	aux	_	_
+10	.	.	PUNCT	_	_	8	punct	_	_
+
+# text = Очрашуда татар яшьләре бердәм продюсерлык үзәген булдыру, күп кенә шрифтларга татар хәрефләрен кертү, яңа опера кую һәм башка мәсьәләләрне күтәрә.
+1	Очрашуда	очрашу	NOUN	_	Case=Loc|Number=Sing	9	obl	_	_
+2	татар	татар	ADJ	_	_	3	amod	_	_
+3	яшьләре	яшь	NOUN	_	Case=Gen|Number=Plur|Person=3	1	nmod	_	_
+4	бердәм	бердәм	ADJ	_	_	5	amod	_	_
+5	продюсерлык	продюсерлык	ADJ	_	_	6	amod	_	_
+6	үзәген	үзәк	NOUN	_	Case=Acc|Number=Sing|Person=3	7	obj	_	_
+7	булдыру	булдыр	VERB	_	VerbForm=Inf	9	xcomp	_	_
+8	күп	күп	DET	_	_	10	det	_	_
+9	кенә	кенә	PART	_	_	8	advmod	_	_
+10	шрифтларга	шрифт	NOUN	_	Case=Dat|Number=Plur	12	obl	_	_
+11	татар	татар	ADJ	_	_	12	amod	_	_
+12	хәрефләрен	хәреф	NOUN	_	Case=Acc|Number=Plur|Person=3	13	obj	_	_
+13	кертү	керт	VERB	_	VerbForm=Inf	7	conj	_	_
+14	яңа	яңа	ADJ	_	_	15	amod	_	_
+15	опера	опера	NOUN	_	Case=Acc|Number=Sing	16	obj	_	_
+16	кую	куй	VERB	_	VerbForm=Inf	7	conj	_	_
+17	һәм	һәм	CCONJ	_	_	18	cc	_	_
+18	башка	башка	ADJ	_	_	19	amod	_	_
+19	мәсьәләләрне	мәсьәлә	NOUN	_	Case=Acc|Number=Plur	20	obj	_	_
+20	күтәрә	күтәр	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	conj	_	_
+21	.	.	PUNCT	_	_	9	punct	_	_
+
+# text = Очрашуда Татарстан Президент Аппараты җитәкчесе Әсгать Сәфәров, ТР Дәүләт Советы Рәисе урынбасары, Татар телен саклау һәм үстерү комиссиясе рәисе Марат Әхмәтов, Татарстанның мәгариф һәм фән министры Илсур Һадиуллин, Татарстанның мәдәният министры Ирада Әюпова, Татарстанның яшьләр эшләре министры Тимур Сөләйманов катнаша.
+1	Очрашуда	очрашу	NOUN	_	Case=Loc|Number=Sing	15	obl	_	_
+2	Татарстан	Татарстан	PROPN	_	Case=Gen|Number=Sing	4	nmod	_	_
+3	Президент	президент	NOUN	_	Case=Nom|Number=Sing	2	flat	_	_
+4	Аппараты	аппарат	NOUN	_	Case=Gen|Number=Sing	6	nmod	_	_
+5	җитәкчесе	җитәкче	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	6	nmod	_	_
+6	Әсгать	Әсгать	PROPN	_	Case=Nom|Number=Sing	15	nsubj	_	_
+7	Сәфәров	Сәфәров	PROPN	_	Case=Nom|Number=Sing	6	flat	_	_
+8	,	,	PUNCT	_	_	6	punct	_	_
+9	ТР	ТР	PROPN	_	Case=Gen|Number=Sing	11	nmod	_	_
+10	Дәүләт	дәүләт	NOUN	_	Case=Nom|Number=Sing	11	compound	_	_
+11	Советы	совет	NOUN	_	Case=Gen|Number=Sing	13	nmod	_	_
+12	Рәисе	рәис	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	13	nmod	_	_
+13	урынбасары	урынбасар	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	15	nsubj	_	_
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	Татар	татар	ADJ	_	_	0	root	_	_
+16	телен	тел	NOUN	_	Case=Acc|Definite=Def|Number=Sing	17	obj	_	_
+17	саклау	саклау	VERB	_	VerbForm=Inf	19	conj	_	_
+18	һәм	һәм	CCONJ	_	_	17	cc	_	_
+19	үстерү	үстерү	VERB	_	VerbForm=Inf	15	acl	_	_
+20	комиссиясе	комиссия	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	21	nmod	_	_
+21	рәисе	рәис	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	23	nmod	_	_
+22	Марат	Марат	PROPN	_	Case=Nom|Number=Sing	23	flat	_	_
+23	Әхмәтов	Әхмәтов	PROPN	_	Case=Nom|Number=Sing	15	nsubj	_	_
+24	,	,	PUNCT	_	_	23	punct	_	_
+25	Татарстанның	Татарстан	PROPN	_	Case=Gen|Number=Sing	27	nmod	_	_
+26	мәгариф	мәгариф	NOUN	_	Case=Nom|Number=Sing	27	compound	_	_
+27	һәм	һәм	CCONJ	_	_	29	cc	_	_
+28	фән	фән	NOUN	_	Case=Nom|Number=Sing	29	conj	_	_
+29	министры	министр	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	31	nmod	_	_
+30	Илсур	Илсур	PROPN	_	Case=Nom|Number=Sing	31	flat	_	_
+31	Һадиуллин	Һадиуллин	PROPN	_	Case=Nom|Number=Sing	15	nsubj	_	_
+32	,	,	PUNCT	_	_	31	punct	_	_
+33	Татарстанның	Татарстан	PROPN	_	Case=Gen|Number=Sing	35	nmod	_	_
+34	мәдәният	мәдәният	NOUN	_	Case=Nom|Number=Sing	35	compound	_	_
+35	министры	министр	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	37	nmod	_	_
+36	Ирада	Ирада	PROPN	_	Case=Nom|Number=Sing	37	flat	_	_
+37	Әюпова	Әюпова	PROPN	_	Case=Nom|Number=Sing	15	nsubj	_	_
+38	,	,	PUNCT	_	_	37	punct	_	_
+39	Татарстанның	Татарстан	PROPN	_	Case=Gen|Number=Sing	41	nmod	_	_
+40	яшьләр	яшьләр	NOUN	_	Case=Nom|Number=Plur	41	compound	_	_
+41	эшләре	эш	NOUN	_	Case=Nom|Number=Plur|Poss=Yes	43	nmod	_	_
+42	министры	министр	NOUN	_	Case=Nom|Number=Sing|Poss=Yes	43	nmod	_	_
+43	Тимур	Тимур	PROPN	_	Case=Nom|Number=Sing	44	flat	_	_
+44	Сөләйманов	Сөләйманов	PROPN	_	Case=Nom|Number=Sing	15	nsubj	_	_
+45	катнаша	катнаш	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	15	conj	_	_
+46	.	.	PUNCT	_	_	15	punct	_	_
+
+# text = Аның сүзләренчә, заманча яшьләргә шәһәр тормышының әхлагына күнегү җиңел бирелми, әмма оптимизм һәм милли кыйммәтләр өстен чыга.
+1	Аның	ул	PRON	_	Case=Gen|Number=Sing|Person=3	3	nmod	_	_
+2	сүзләренчә	сүз	NOUN	_	Case=Equ|Number=Plur	3	obl	_	_
+3	,	,	PUNCT	_	_	9	punct	_	_
+4	заманча	заманча	ADJ	_	_	5	amod	_	_
+5	яшьләргә	яшь	NOUN	_	Case=Dat|Number=Plur	9	obl	_	_
+6	шәһәр	шәһәр	NOUN	_	Case=Gen|Number=Sing	7	nmod	_	_
+7	тормышының	тормыш	NOUN	_	Case=Gen|Number=Sing	8	nmod	_	_
+8	әхлагына	әхлак	NOUN	_	Case=Dat|Number=Sing	9	obl	_	_
+9	күнегү	күнегү	NOUN	_	Case=Nom|Number=Sing	18	nsubj	_	_
+10	җиңел	җиңел	ADJ	_	_	11	advmod	_	_
+11	бирелми	бирел	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	9	acl	_	_
+12	,	,	PUNCT	_	_	18	punct	_	_
+13	әмма	әмма	CCONJ	_	_	18	cc	_	_
+14	оптимизм	оптимизм	NOUN	_	Case=Nom|Number=Sing	18	nsubj	_	_
+15	һәм	һәм	CCONJ	_	_	16	cc	_	_
+16	милли	милли	ADJ	_	_	17	amod	_	_
+17	кыйммәтләр	кыйммәт	NOUN	_	Case=Nom|Number=Plur	14	conj	_	_
+18	өстен	өстен	ADJ	_	_	0	root	_	_
+19	чыга	чык	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+20	.	.	PUNCT	_	_	18	punct	_	_
+
+# text = Ул мюзиклны төшерү турында килешү төзелгәнен, хәзер матди яктан ярдәм кирәклеген әйтте.
+1	Ул	ул	PRON	_	Case=Nom|Number=Sing|Person=3	13	nsubj	_	_
+2	мюзиклны	мюзикл	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
+3	төшерү	төшерү	VERB	_	VerbForm=Inf	5	nmod	_	_
+4	турында	турында	ADP	_	_	3	case	_	_
+5	килешү	килешү	NOUN	_	Case=Acc|Number=Sing	6	obj	_	_
+6	төзелгәнен	төзел	VERB	_	Case=Acc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	13	obj	_	_
+7	,	,	PUNCT	_	_	13	punct	_	_
+8	хәзер	хәзер	ADV	_	_	13	advmod	_	_
+9	матди	матди	ADJ	_	_	10	amod	_	_
+10	яктан	яктан	NOUN	_	Case=Abl|Number=Sing	12	obl	_	_
+11	ярдәм	ярдәм	NOUN	_	Case=Nom|Number=Sing	12	nsubj	_	_
+12	кирәклеген	кирәклек	NOUN	_	Case=Acc|Number=Sing	13	ccomp	_	_
+13	әйтте	әйт	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+14	.	.	PUNCT	_	_	13	punct	_	_
+
+# text = Альберт Ризванов сүзләренә караганда, аларны башка илләргә сәяхәт итүчеләр алып кайтырга мөмкин.
+1	Альберт	Альберт	PROPN	_	Case=Nom	2	flat	_	_
+2	Ризванов	Ризванов	PROPN	_	Case=Gen	4	nmod:poss	_	_
+3	сүзләренә	сүз	NOUN	_	Case=Dat|Number=Plur|Person=3|Poss=Yes	4	obl	_	_
+4	карагында	караганда	ADV	_	_	13	advmod	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	аларны	алар	PRON	_	Case=Acc|Number=Plur	8	obj	_	_
+7	башка	башка	ADJ	_	_	8	amod	_	_
+8	илләргә	ил	NOUN	_	Case=Dat|Number=Plur	10	obl	_	_
+9	сәяхәт	сәяхәт	NOUN	_	_	10	nmod	_	_
+10	итүчеләр	итүче	NOUN	_	Number=Plur|VerbForm=Part	13	nsubj	_	_
+11	алып	алып	VERB	_	VerbForm=Conv	13	advcl	_	_
+12	кайтырга	кайтырга	VERB	_	VerbForm=Inf	11	xcomp	_	_
+13	мөмкин	мөмкин	ADJ	_	_	0	root	_	_
+14	.	.	PUNCT	_	_	13	punct	_	_
+
+# text = 20 медаль һәм бер орденны Татарстан мөфтие Камил хәзрәт Сәмигуллин тапшырды.
+1	20	20	NUM	_	_	2	nummod	_	_
+2	медаль	медаль	NOUN	_	Case=Acc|Number=Sing	7	obj	_	_
+3	һәм	һәм	CCONJ	_	_	4	cc	_	_
+4	бер	бер	NUM	_	_	5	nummod	_	_
+5	орденны	орден	NOUN	_	Case=Acc|Number=Sing	2	conj	_	_
+6	Татарстан	Татарстан	PROPN	_	Case=Gen|Number=Sing	7	nmod	_	_
+7	мөфтие	мөфти	NOUN	_	Case=Nom|Number=Sing|Person[psor]=3|Poss=Yes	12	nsubj	_	_
+8	Камил	Камил	PROPN	_	_	9	flat	_	_
+9	хәзрәт	хәзрәт	NOUN	_	Case=Nom|Number=Sing	7	appos	_	_
+10	Сәмигуллин	Сәмигуллин	PROPN	_	_	9	flat	_	_
+11	тапшырды	тапшыр	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# text = III дәрәҗәдәге Мәрҗани ордены белән республиканың сәламәтлек саклау министры Марат Садыйков бүләкләнде.
+1	III	III	NUM	_	_	2	nummod	_	_
+2	дәрәҗәдәге	дәрәҗәдәге	ADJ	_	_	4	amod	_	_
+3	Мәрҗани	Мәрҗани	PROPN	_	_	4	nmod	_	_
+4	ордены	орден	NOUN	_	Case=Gen|Number=Sing	7	obl	_	_
+5	белән	белән	ADP	_	_	4	case	_	_
+6	республиканың	республика	NOUN	_	Case=Gen|Number=Sing	8	nmod:poss	_	_
+7	сәламәтлек	сәламәтлек	NOUN	_	_	8	compound	_	_
+8	саклау	саклау	NOUN	_	_	9	compound	_	_
+9	министры	министр	NOUN	_	Case=Nom|Number=Sing	12	nsubj:pass	_	_
+10	Марат	Марат	PROPN	_	_	12	flat:name	_	_
+11	Садыйков	Садыйков	PROPN	_	_	10	flat:name	_	_
+12	бүләкләнде	бүләклән	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+# text = «Бердәмлек» медален Татарстан Республикасының сәламәтлек саклау министры урынбасары Фәридә Яркаевага, Казанның 7нче сырхауханәсенең бүлек мөдире, табиб - неврологы Гөлназ Гайнетдиновага тапшырдылар.
+1	«	«	PUNCT	_	_	2	punct	_	_
+2	Бердәмлек	Бердәмлек	PROPN	_	Case=Acc	4	obj	_	_
+3	»	»	PUNCT	_	_	2	punct	_	_
+4	медален	медаль	NOUN	_	Case=Acc	23	obj	_	_
+5	Татарстан	Татарстан	PROPN	_	Case=Gen	6	nmod	_	_
+6	Республикасының	республика	NOUN	_	Case=Gen|Number=Sing|Person=3|Poss=Yes	7	nmod	_	_
+7	сәламәтлек	сәламәтлек	NOUN	_	Case=Gen	8	nmod	_	_
+8	саклау	саклау	NOUN	_	Case=Gen	9	nmod	_	_
+9	министры	министр	NOUN	_	Case=Gen|Number=Sing|Person=3|Poss=Yes	10	nmod	_	_
+10	урынбасары	урынбасар	NOUN	_	Case=Dat|Number=Sing|Person=3|Poss=Yes	11	nmod	_	_
+11	Фәридә	Фәридә	PROPN	_	_	12	flat	_	_
+12	Яркаевага	Яркаева	PROPN	_	Case=Dat	23	obl	_	_
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	Казанның	Казан	PROPN	_	Case=Gen	15	nmod	_	_
+15	7нче	7нче	ADJ	_	_	16	amod	_	_
+16	сирхауханәсенең	сирхауханә	NOUN	_	Case=Gen|Number=Sing|Person=3|Poss=Yes	17	nmod	_	_
+17	бүлек	бүлек	NOUN	_	Case=Gen	18	nmod	_	_
+18	мөдире	мөдир	NOUN	_	Case=Dat|Number=Sing|Person=3|Poss=Yes	19	nmod	_	_
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	табиб	табиб	NOUN	_	Case=Nom	22	nmod	_	_
+21	-	-	PUNCT	_	_	22	punct	_	_
+22	неврологы	невролог	NOUN	_	Case=Gen|Number=Sing|Person=3|Poss=Yes	23	appos	_	_
+23	Гөлназ	Гөлназ	PROPN	_	_	24	flat	_	_
+24	Гайнетдиновага	Гайнетдинова	PROPN	_	Case=Dat	23	conj	_	_
+25	,	,	PUNCT	_	_	24	punct	_	_
+26	тапшырдылар	тапшыр	VERB	_	Number=Plur|Person=3|Tense=Past	0	root	_	_
+27	.	.	PUNCT	_	_	26	punct	_	_
+
