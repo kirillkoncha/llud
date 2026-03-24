@@ -2,8 +2,9 @@
 #!/usr/bin/env python3
 
 import sys
-from typing import List, Dict
-from conllu import parse_incr, Token
+from typing import Dict, List
+
+from conllu import Token, parse_incr
 
 Sentence = List[Token]
 
@@ -19,10 +20,7 @@ def read_conllu(path: str) -> List[Sentence]:
 
 
 def accuracy(
-    gold: List[Sentence],
-    pred: List[Sentence],
-    field: str,
-    skip_punct: bool = False
+    gold: List[Sentence], pred: List[Sentence], field: str, skip_punct: bool = False
 ) -> float:
     correct = 0
     total = 0
@@ -37,9 +35,7 @@ def accuracy(
 
 
 def feats_accuracy(
-    gold: List[Sentence],
-    pred: List[Sentence],
-    skip_punct: bool = False
+    gold: List[Sentence], pred: List[Sentence], skip_punct: bool = False
 ) -> float:
     correct = 0
     total = 0
@@ -59,7 +55,7 @@ def head_accuracy(
     gold: List[Sentence],
     pred: List[Sentence],
     skip_punct: bool = False,
-    labeled: bool = False
+    labeled: bool = False,
 ) -> float:
     correct = 0
     total = 0
