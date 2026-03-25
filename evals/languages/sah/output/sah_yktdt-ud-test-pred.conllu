@@ -1,0 +1,2074 @@
+# text = Кинилэр кэллилэр
+1	Кинилэр	кини	PRON	_	Case=Nom|Number=Plur	2	nsubj	_	_
+2	кэллилэр	кэл	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
+
+# text = Кинигэлэри күн аайы ааҕабын
+1	Кинигэлэри	кинигэлэри	PRON	_	Case=Nom|Number=Plur	4	nsubj	_	_
+2	күн	күн	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+3	аайы	аай	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	ааҕабын	ааҕа	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+
+# text = Илиибин сууннум
+1	Илиибин	илии	NOUN	_	Case=Gen|Number=Sing|Person=3	2	nmod:poss	_	_
+2	сууннум	суун	NOUN	_	Case=Nom|Number=Sing|Person=1	0	root	_	_
+
+# text = Биһиги манна баарбыт
+1	Биһиги	биһиги	PRON	_	Case=Nom|Number=Plur|Person=1	3	nsubj	_	_
+2	манна	манна	ADV	_	_	3	advmod	_	_
+3	баарбыт	баар	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	_
+
+# text = Эн профессор буолуоҥ
+1	Эн	эн	PRON	_	Case=Nom|Number=Sing|Person=2	3	nsubj	_	_
+2	профессор	профессор	NOUN	_	Case=Nom|Number=Sing	3	xcomp	_	_
+3	буолуоҥ	буолу	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+
+# text = Манна остуол, олоппос, ыскамыайка баар
+1	Манна	манна	ADV	_	_	4	advmod	_	_
+2	остуол	остуол	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	олоппос	олоппос	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	ыскамыайка	ыскамыайка	NOUN	_	Case=Nom|Number=Sing	4	conj	_	_
+7	баар	баар	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	_
+
+# text = Кылааска элбэх паарта турар
+1	Кылааска	кылаас	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+2	элбэх	элбэх	ADJ	_	_	3	amod	_	_
+3	паарта	паарта	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+4	турар	турар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Биир паартаҕа икки киһи олорор
+1	Биир	биир	NUM	_	NumType=Card	2	nummod	_	_
+2	паартаҕа	паарт	NOUN	_	Case=Dat|Number=Sing	6	obl	_	_
+3	икки	икки	NUM	_	NumType=Card	4	nummod	_	_
+4	киһи	киһи	NOUN	_	Case=Nom|Number=Plur	6	nsubj	_	_
+5	олорор	олор	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+
+# text = Биир уол турар уонна ааҕар
+1	Биир	биир	NUM	_	NumType=Card	2	nummod	_	_
+2	уол	уол	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+3	турар	турар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	уонна	уонна	CCONJ	_	_	5	cc	_	_
+5	ааҕар	ааҕар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+
+# text = Бу оскуолаҕа элбэх киһи үөрэнэр
+1	Бу	бу	DET	_	PronType=Dem	3	det	_	_
+2	оскуолаҕа	оскуола	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
+3	элбэх	элбэх	ADJ	_	_	5	amod	_	_
+4	киһи	киһи	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+5	үөрэнэр	үөрэн	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# text = Айаана уонна Сайаана, манна кэлиҥ, дуоска аттыгар туруҥ
+1	Айаана	Айаана	PROPN	_	Case=Nom	3	nsubj	_	_
+2	уонна	уонна	CCONJ	_	_	3	cc	_	_
+3	Сайаана	Сайаана	PROPN	_	Case=Nom	7	conj	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	манна	манна	ADV	_	_	7	advmod	_	_
+6	кэлиҥ	кэлиҥ	ADV	_	_	7	advmod	_	_
+7	дуоска	дуоска	NOUN	_	Case=Dat	0	root	_	_
+8	аттыгар	ат	NOUN	_	Case=Dat	7	obl	_	_
+9	туруҥ	туру	VERB	_	VerbForm=Conv	7	acl	_	_
+
+# text = Кыра оҕолор начальнай оскуолаҕа үөрэнэллэр
+1	Кыра	кыра	ADJ	_	Degree=Pos	2	amod	_	_
+2	оҕолор	оҕо	NOUN	_	Case=Nom|Number=Plur	6	nsubj	_	_
+3	начальнай	начальнай	ADJ	_	Degree=Pos	4	amod	_	_
+4	оскуолаҕа	оскуола	NOUN	_	Case=Dat|Number=Sing	6	obl	_	_
+5	үөрэнэллэр	үөрэн	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	conj	_	_
+6	үөрэнэллэр	үөрэн	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+
+# text = Кыра оҕо ханна үөрэнэрий?
+1	Кыра	кыра	ADJ	_	Case=Nom|Number=Sing	2	amod	_	_
+2	оҕо	оҕо	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+3	ханна	ханна	ADV	_	_	5	advmod	_	_
+4	үөрэнэрий	үөрэн	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Кырдьык, миэхэ күөгүрээпийэ олус туһалаабыта
+1	Кырдьык	кырдьык	INTJ	_	_	6	discourse	_	_
+2	миэхэ	миэхэ	PRON	_	Case=Nom|Number=Sing|Person=1	6	nsubj	_	_
+3	күөгүрээпийэ	күөгүрээпийэ	NOUN	_	Case=Acc|Number=Sing	6	obj	_	_
+4	олус	олус	ADV	_	_	6	advmod	_	_
+5	туһалаабыта	туһалаа	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	6	conj	_	_
+6	туһалаабыта	туһалаа	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+
+# text = Баһаалыста, бары туруҥ
+1	Баһаалыста	баһаалыста	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	бары	бары	PRON	_	Case=Nom|Number=Sing	0	root	_	_
+4	туруҥ	туру	VERB	_	Mood=Imp|Number=Sing|Person=2	3	conj	_	_
+
+# text = Миша кинигэни атыыласта
+1	Миша	Миша	PROPN	_	Case=Nom	4	nsubj	_	_
+2	кинигэни	кинигэ	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+3	атыыласта	атыыла	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	aux	_	_
+4	атыыласта	атыыла	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+
+# text = Саша аҕатыгар суругу ыытта
+1	Саша	Саша	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+2	аҕатыгар	аҕас	NOUN	_	Case=Dat|Number=Sing	1	obl	_	_
+3	суругу	суругу	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
+4	ыытта	ыыт	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+5	ыытта	ыыт	VERB	_	VerbForm=Conv	4	xcomp	_	_
+
+# text = Ийэм баһаартан эт атыыласта
+1	Ийэм	ийэ	NOUN	_	Case=Nom|Number=Sing|Person=1	4	nsubj	_	_
+2	баһаартан	баһаар	NOUN	_	Case=Abl|Number=Sing	4	obl	_	_
+3	эт	эт	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	атыыласта	атыыла	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
+
+# text = Мин кэллим
+1	Мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1	2	nsubj	_	_
+2	кэллим	кэл	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+
+# text = Манна оҕолор олороллор
+1	Манна	манна	ADV	_	_	4	advmod	_	_
+2	оҕолор	оҕо	NOUN	_	Case=Nom|Number=Plur	4	nsubj	_	_
+3	олороллор	олор	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	4	conj	_	_
+4	олороллор	олор	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+
+# text = Түргэнник аһаама, бытааннык аһаа
+1	Түргэнник	түргэн	ADV	_	_	3	advmod	_	_
+2	аһаама	аһаа	VERB	_	Number=Sing|Person=1|Polarity=Neg|VerbForm=Conv	3	advcl	_	_
+3	бытааннык	бытаан	ADV	_	_	4	advmod	_	_
+4	аһаа	аһаа	VERB	_	Polarity=Pos|VerbForm=Conv	0	root	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+
+# text = Илии тарбаҕа уһун уонна синньигэс, атах тарбаҕа кылгас уонна суон
+1	Илии	Илии	PROPN	_	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	тарбаҕа	тарбаҕа	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
+3	уһун	уһун	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+4	уонна	уонна	CCONJ	_	_	5	cc	_	_
+5	синньигэс	синньигэс	NOUN	_	Case=Nom|Number=Sing	11	conj	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	атах	атах	ADJ	_	_	8	amod	_	_
+8	тарбаҕа	тарбаҕа	NOUN	_	Case=Dat|Number=Sing	9	obl	_	_
+9	кылгас	кылгас	NOUN	_	Case=Nom|Number=Sing	11	nsubj	_	_
+10	уонна	уонна	CCONJ	_	_	11	cc	_	_
+11	суон	суон	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+
+# text = Мин илиим ыраас
+1	Мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1	3	nsubj	_	_
+2	илиим	илии	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
+3	ыраас	ыраа	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+
+# text = Ийэм кыра оҕоҕо кинигэ ааҕар
+1	Ийэм	ийэ	NOUN	_	Case=Nom|Number=Sing|Person=1	4	nsubj	_	_
+2	кыра	кыра	ADJ	_	Degree=Pos	3	amod	_	_
+3	оҕоҕо	оҕо	NOUN	_	Case=Gen|Number=Sing	1	nmod	_	_
+4	кинигэ	кинигэ	NOUN	_	Case=Dat|Number=Sing	0	root	_	_
+5	ааҕар	ааҕа	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	acl	_	_
+
+# text = Аҕам хаһыат ааҕар уонна кэпсиир, улахан дьон истэллэр
+1	Аҕам	аҕа	NOUN	_	Case=Nom|Number=Sing|Person=1|Poss=Yes	3	nsubj	_	_
+2	хаһыат	хаһыат	ADV	_	_	3	advmod	_	_
+3	ааҕар	ааҕа	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	уонна	уонна	CCONJ	_	_	3	cc	_	_
+5	кэпсиир	кэпсиир	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	улахан	улахан	ADJ	_	Degree=Pos	8	amod	_	_
+8	дьон	дьон	NOUN	_	Case=Nom|Number=Plur	9	nsubj	_	_
+9	истэллэр	истээ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+
+# text = Хойут бары аһыыллар уонна утуйаллар
+1	Хойут	хойут	NOUN	_	Case=Nom|Number=Plur	3	nsubj	_	_
+2	бары	бары	ADV	_	_	3	advmod	_	_
+3	аһыыллар	аһыы	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+4	уонна	уонна	CCONJ	_	_	5	cc	_	_
+5	утуйаллар	утуйа	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	conj	_	_
+
+# text = Мин аатым Кэскил
+1	Мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1	3	nsubj	_	_
+2	аатым	аат	NOUN	_	Case=Nom|Number=Sing|Person=1|Poss=Yes	3	obj	_	_
+3	Кэскил	Кэскил	PROPN	_	_	0	root	_	_
+
+# text = Ити уол эбэтэ ыалдьар
+1	Ити	ити	DET	_	Case=Nom|Number=Sing	2	det	_	_
+2	уол	уол	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	эбэтэ	эбэт	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	_
+4	ыалдьар	ыалдьар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Аҕаҥ кэллэ
+1	Аҕаҥ	аҕа	NOUN	_	Case=Nom|Number=Sing|Person=2	2	nsubj	_	_
+2	кэллэ	кэл	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+
+# text = Быраатым уонна балтым үөрэнэллэр
+1	Быраатым	быраат	NOUN	_	Case=Nom|Number=Sing|Person=1	4	nsubj	_	_
+2	уонна	уонна	CCONJ	_	_	3	cc	_	_
+3	балтым	балыы	NOUN	_	Case=Nom|Number=Sing|Person=1	1	conj	_	_
+4	үөрэнэллэр	үөрэн	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+
+# text = Килиэптэ аҕалыахха наада
+1	Килиэптэ	килиэп	NOUN	_	Case=Loc|Number=Sing	4	obl	_	_
+2	аҕалыахха	аҕалыах	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+3	наада	наада	ADV	_	_	4	advmod	_	_
+4	наада	наада	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Петровка ыыттым
+1	Петровка	Петровка	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+2	ыыттым	ыыт	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
+
+# text = Кини Дьокуускайга барда
+1	Кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
+2	Дьокуускайга	Дьокуускай	PROPN	_	Case=Dat|Number=Sing	4	obl	_	_
+3	барда	бар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+
+# text = Дьокуускайга хаар түһэр
+1	Дьокуускайга	Дьокуускай	PROPN	_	Case=Dat|Number=Sing	3	obl	_	_
+2	хаар	хаар	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+3	түһэр	түһэр	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Кини Москваҕа олорор
+1	Кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
+2	Москваҕа	Москва	PROPN	_	Case=Dat|Number=Sing	3	obl	_	_
+3	олорор	олор	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Балык ууга үөскүүр
+1	Балык	балык	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
+2	ууга	уу	VERB	_	VerbForm=Conv	3	advcl	_	_
+3	үөскүүр	үөс	VERB	_	VerbForm=Fin	0	root	_	_
+
+# text = Ууга түспүтүм
+1	Ууга	уус	NOUN	_	Case=Acc|Number=Sing	2	obj	_	_
+2	түспүтүм	түс	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
+
+# text = Кини дьиэҕэ киирбитэ
+1	Кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
+2	дьиэҕэ	дьиэ	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
+3	киирбитэ	киир	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+
+# text = Оскуолаттан кэллэ
+1	Оскуолаттан	оскуола	NOUN	_	Case=Abl|Number=Sing	2	obl	_	_
+2	кэллэ	кэл	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+
+# text = Үс километры бардыбыт
+1	Үс	үс	NUM	_	_	2	nummod	_	_
+2	километры	километр	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
+3	бардыбыт	бар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+
+# text = Хахай эһэтээҕэр күүстээх
+1	Хахай	хахай	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	эһэтээҕэр	эһэтээх	ADJ	_	Case=Equ|Number=Sing	1	amod	_	_
+3	күүстээх	күүстээх	ADJ	_	Case=Equ|Number=Sing	1	amod	_	_
+4	күүстээх	күүстээх	ADJ	_	Case=Equ|Number=Sing	0	root	_	_
+
+# text = Үүтү биһиги ынахтан ылабыт
+1	Үүтү	үүтү	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+2	биһиги	биһиги	PRON	_	Case=Gen|Number=Plur|Person=1	1	nmod:poss	_	_
+3	ынахтан	ынах	NOUN	_	Case=Abl|Number=Sing	5	obl	_	_
+4	ылабыт	ыла	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	aux	_	_
+5	ылабыт	ыла	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+
+# text = Кини яблоко аһыыр
+1	Кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
+2	яблоко	яблоко	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
+3	аһыыр	аһыыр	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Кини яблоконы аһыыр
+1	Кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
+2	яблоконы	яблоко	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
+3	аһыыр	аһыы	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Эн убайыҥ ханна үөрэнэрий?
+1	Эн	эн	PRON	_	Case=Nom|Number=Sing|Person=2	2	nsubj	_	_
+2	убайыҥ	убай	NOUN	_	Case=Nom|Number=Sing|Person=2|Poss=Yes	5	nsubj	_	_
+3	ханна	ханна	ADV	_	_	5	advmod	_	_
+4	үөрэнэрий	үөрэн	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	5	conj	_	_
+5	?	?	PUNCT	_	_	0	root	_	_
+
+# text = Кини доҕотторо нууччалар
+1	Кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
+2	доҕотторо	доҕо	NOUN	_	Case=Gen|Number=Plur	1	nmod	_	_
+3	нууччалар	нуучча	NOUN	_	Case=Nom|Number=Plur	0	root	_	_
+
+# text = Мин кулгааҕым ыалдьыбат, баһым ыалдьар
+1	Мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1	3	nsubj	_	_
+2	кулгааҕым	кулгаах	NOUN	_	Case=Acc|Number=Sing|Person=1|Poss=Yes	3	obj	_	_
+3	ыалдьыбат	ыалдьы	VERB	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	баһым	баһы	NOUN	_	Case=Acc|Number=Sing|Person=1|Poss=Yes	6	obj	_	_
+6	ыалдьар	ыалдьы	VERB	_	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Fut	3	conj	_	_
+
+# text = Ханнык дьиэҕэ киирдэ?
+1	Ханнык	ханнык	PRON	_	PronType=Int	4	advmod	_	_
+2	дьиэҕэ	дьиэ	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+3	киирдэ	киир	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+4	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Мин биир атаһым убайа куоракка үөрэнэр
+1	Мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1	6	nsubj	_	_
+2	биир	биир	NUM	_	NumType=Card	4	nummod	_	_
+3	атаһым	ата	NOUN	_	Case=Gen|Number=Sing|Person=1	4	nmod:poss	_	_
+4	убайа	убайа	NOUN	_	Case=Dat|Number=Sing	6	obl	_	_
+5	куоракка	куорак	NOUN	_	Case=Dat|Number=Sing	6	obl	_	_
+6	үөрэнэр	үөрэн	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+
+# text = Бастаан ыалдьар киһини карточкаҕа суруйаллар
+1	Бастаан	бастаан	ADV	_	_	4	advmod	_	_
+2	ыалдьар	ыалдьар	VERB	_	Tense=Pres|VerbForm=Part	4	acl	_	_
+3	киһини	киһи	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	карточкаҕа	карточка	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
+5	суруйаллар	суруй	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# text = Онтон карточканы бырааска биэрэллэр
+1	Онтон	онтон	ADV	_	_	5	advmod	_	_
+2	карточканы	карточка	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
+3	бырааска	быраас	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
+4	биэрэллэр	биэр	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+5	биэрэллэр	биэр	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	4	parataxis	_	_
+
+# text = Быраас ыалдьар дьону уочаратынан ыҥырар
+1	Быраас	быраас	ADV	_	_	5	advmod	_	_
+2	ыалдьар	ыалдьар	NOUN	_	Case=Nom|Number=Sing	5	obj	_	_
+3	дьону	дьон	NOUN	_	Case=Acc|Number=Sing	5	obl	_	_
+4	уочаратынан	уочара	NOUN	_	Case=Abl|Number=Sing	5	obl	_	_
+5	ыҥырар	ыҥыра	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Кини ыалдьар киһини көрөр, истэр уонна киниэхэ эми суруйар
+1	Кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
+2	ыалдьар	ыалдьар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+3	киһини	киһи	NOUN	_	Case=Acc|Number=Sing	2	obj	_	_
+4	көрөр	көр	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	acl:relcl	_	_
+5	истэр	истэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	_
+6	уонна	уонна	CCONJ	_	_	5	cc	_	_
+7	киниэхэ	киниэ	PRON	_	Case=Dat|Number=Sing|Person=3	8	nsubj	_	_
+8	эми	эми	NOUN	_	Case=Nom|Number=Sing	5	obj	_	_
+9	суруйар	суруй	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	acl:relcl	_	_
+
+# text = Олоппосторго дьоннор олороллор
+1	Олоппосторго	олоппостор	NOUN	_	Case=Dat|Number=Plur	3	obl	_	_
+2	дьоннор	дьон	NOUN	_	Case=Nom|Number=Plur	3	nsubj	_	_
+3	олороллор	олор	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+
+# text = Саахары, арыыны аҕалла уонна килиэп быста
+1	Саахары	Саахар	PROPN	_	Case=Voc|Number=Sing	3	vocative	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	арыыны	арыы	NOUN	_	Case=Acc|Number=Sing	0	root	_	_
+4	аҕалла	аҕал	VERB	_	VerbForm=Conv	3	acl	_	_
+5	уонна	уонна	CCONJ	_	_	6	cc	_	_
+6	килиэп	килиэ	VERB	_	VerbForm=Conv	4	conj	_	_
+7	быста	быста	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	3	conj	_	_
+
+# text = Сардана, буулката аҕал, өссө килиэптэ быс
+1	Сардана	Сардана	PROPN	_	_	3	vocative	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	буулката	буулка	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+4	аҕал	аҕал	VERB	_	VerbForm=Conv	3	acl	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	өссө	өссө	ADV	_	_	7	advmod	_	_
+7	килиэптэ	килиэп	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+8	быс	быс	ADV	_	_	7	advmod	_	_
+
+# text = Кэскилга чэйдэ кут!
+1	Кэскилга	кэскил	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
+2	чэйдэ	чэй	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
+3	кут	кут	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+4	!	!	PUNCT	_	_	3	punct	_	_
+
+# text = Кэскил элбэхтик аһаата, улаханнык тотто
+1	Кэскил	кэскил	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+2	элбэхтик	элбэх	ADJ	_	Case=Ins|Number=Sing	5	amod	_	_
+3	аһаата	аһаа	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	улаханнык	улахан	ADJ	_	Case=Ins|Number=Sing	0	root	_	_
+6	тотто	тот	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	conj	_	_
+
+# text = Кэл , сүөгэйдэ ис , күөрчэхтэ сиэ !
+1	Кэл	кэл	VERB	_	Mood=Imp|Number=Sing	0	root	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	сүөгэйдэ	сүөгэй	NOUN	_	Case=Loc|Number=Sing	5	obl	_	_
+4	ис	ис	VERB	_	Mood=Imp|Number=Sing	1	conj	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	күөрчэхтэ	күөрчэх	NOUN	_	Case=Loc|Number=Sing	8	obl	_	_
+7	сиэ	сиэ	VERB	_	Mood=Imp|Number=Sing	1	conj	_	_
+8	!	!	PUNCT	_	_	1	punct	_	_
+
+# text = Үрүҥ килиэби быһыма , хара килиэптэ быс
+1	Үрүҥ	үрүҥ	ADJ	_	Case=Nom|Number=Sing	2	amod	_	_
+2	килиэби	килиэ	NOUN	_	Case=Nom|Number=Sing|Person=1	5	nsubj	_	_
+3	быһыма	быһы	VERB	_	Mood=Imp|Number=Sing|Person=2	5	advcl	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	хара	хара	ADJ	_	Case=Nom|Number=Sing	0	root	_	_
+6	килиэптэ	килиэ	NOUN	_	Case=Nom|Number=Sing|Person=2	5	conj	_	_
+7	быс	быс	VERB	_	Mood=Imp|Number=Sing|Person=2	6	acl	_	_
+
+# text = Ити уолга харандааста биэр
+1	Ити	ити	DET	_	Case=Nom|Number=Sing	2	det	_	_
+2	уолга	уол	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+3	харандааста	харандаас	NOUN	_	Case=Ins|Number=Sing	4	obj	_	_
+4	биэр	биэр	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+
+# text = Сорохтор муостаны сууйуҥ , сорохтор паартата , остуолла сотуҥ , сорохтор ааннары , ыскааптары сууйуҥ
+1	Сорохтор	сорох	NOUN	_	Case=Nom|Number=Plur	3	nsubj	_	_
+2	муостаны	муоста	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
+3	сууйуҥ	сууй	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	сорохтор	сорох	NOUN	_	Case=Nom|Number=Plur	6	nsubj	_	_
+6	паартата	паартата	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	остуолла	остуол	NOUN	_	Case=Ins|Number=Sing	9	obl	_	_
+9	сотуҥ	сот	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	3	conj	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	сорохтор	сорох	NOUN	_	Case=Nom|Number=Plur	12	nsubj	_	_
+12	ааннары	аанна	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	conj	_	_
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	ыскааптары	ыскаап	NOUN	_	Case=Acc|Number=Plur	15	obj	_	_
+15	сууйуҥ	сууй	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	3	conj	_	_
+
+# text = Уҥуоҕа суох уонна эмис эт бу баар
+1	Уҥуоҕа	уҥуо	NOUN	_	Case=Dat|Number=Sing	6	obl	_	_
+2	суох	суох	ADV	_	_	6	advmod	_	_
+3	уонна	уонна	CCONJ	_	_	6	cc	_	_
+4	эмис	эмис	ADV	_	_	5	advmod	_	_
+5	эт	эт	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+6	бу	бу	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+7	баар	баар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	conj	_	_
+
+# text = Биһиги иһиппит элбэх
+1	Биһиги	биһиги	PRON	_	Case=Nom|Number=Plur|Person=1	3	nsubj	_	_
+2	иһиппит	иһи	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	3	acl	_	_
+3	элбэх	элбэх	ADJ	_	_	0	root	_	_
+
+# text = Сорох иһити чэйгэ туруораллар , сорох иһити эбиэккэ туруораллар
+1	Сорох	сорох	PRON	_	Case=Nom|Number=Sing	2	nsubj	_	_
+2	иһити	иһи	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+3	чэйгэ	чэй	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
+4	туруораллар	туруор	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	сорох	сорох	PRON	_	Case=Nom|Number=Sing	7	nsubj	_	_
+7	иһити	иһи	NOUN	_	Case=Nom|Number=Sing	10	nsubj	_	_
+8	эбиэккэ	эбиэк	NOUN	_	Case=Dat|Number=Sing	10	obl	_	_
+9	туруораллар	туруор	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	4	conj	_	_
+
+# text = Биһиэхэ биир улахан алтан сылабаар баар
+1	Биһиэхэ	биһиэ	PRON	_	Case=Gen|Number=Sing|Person=3	5	nmod	_	_
+2	биир	биир	NUM	_	NumType=Card	5	nummod	_	_
+3	улахан	улахан	ADJ	_	_	5	amod	_	_
+4	алтан	алтан	ADJ	_	_	5	amod	_	_
+5	сылабаар	сылабаар	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+6	баар	баар	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# text = Кини түргэнник оргуйар , үчүгэй сылабаар
+1	Кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
+2	түргэнник	түргэн	ADV	_	_	4	advmod	_	_
+3	оргуйар	оргуй	VERB	_	VerbForm=Conv	4	advcl	_	_
+4	үчүгэй	үчүгэй	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	сылабаар	сылаба	VERB	_	VerbForm=Conv	4	conj	_	_
+6	,	,	PUNCT	_	_	4	punct	_	_
+
+# text = Кыра үрүҥ чаанньыгы сылабаарга туруораллар
+1	Кыра	кыра	ADJ	_	Case=Nom|Number=Sing	2	amod	_	_
+2	үрүҥ	үрүҥ	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+3	чаанньыгы	чаан	NOUN	_	Case=Acc|Number=Sing|Person[psor]=3	6	obj	_	_
+4	сылабаарга	сылаба	VERB	_	Case=Dat|VerbForm=Inf	6	advcl	_	_
+5	туруораллар	туруор	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	conj	_	_
+6	туруораллар	туруор	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+
+# text = Кини куукунаҕа бастаан билиидэни отунна
+1	Кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
+2	куукунаҕа	куукун	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
+3	бастаан	бастаа	VERB	_	Tense=Past|VerbForm=Conv	0	root	_	_
+4	билиидэни	билии	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
+5	отунна	оту	ADV	_	_	3	advmod	_	_
+
+# text = Онтон хомуоһу ылла уонна муннукка турар буочукаттан биэдэрэҕэ уу кутта
+1	Онтон	онтон	ADV	_	_	10	advmod	_	_
+2	хомуоһу	хомуоһу	NOUN	_	Case=Gen|Number=Sing	3	nmod	_	_
+3	ылла	ылла	NOUN	_	Case=Abl|Number=Sing	10	obl	_	_
+4	уонна	уонна	CCONJ	_	_	3	cc	_	_
+5	муннукка	муннук	NOUN	_	Case=Dat|Number=Sing	3	conj	_	_
+6	турар	турар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	acl:relcl	_	_
+7	буочукаттан	буочук	NOUN	_	Case=Abl|Number=Sing	6	obl	_	_
+8	биэдэрэҕэ	биэдэр	NOUN	_	Case=Dat|Number=Sing	6	obl	_	_
+9	уу	уу	NOUN	_	Case=Nom|Number=Sing	10	nsubj	_	_
+10	кутта	ку	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Дьонум миигин утарбыттара
+1	Дьонум	дьон	NOUN	_	Case=Gen|Number=Sing	3	nsubj	_	_
+2	миигин	миигин	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
+3	утарбыттара	утар	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
+
+# text = Ол солуону ыйыстыбыт моҕой
+1	Ол	ол	PRON	_	Case=Nom|Number=Sing|Person=3	2	nsubj	_	_
+2	солуону	солуон	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+3	ыйыстыбыт	ыйыста	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+4	моҕой	моҕо	NOUN	_	Case=Ins|Number=Sing	3	obl	_	_
+
+# text = Күн сирин барытын кэриэтэ тилийэ көппүтүм
+1	Күн	күн	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	сирин	сирин	ADJ	_	_	3	amod	_	_
+3	барытын	бар	NOUN	_	Case=Acc|Number=Sing|Poss=3Sg	6	obj	_	_
+4	кэриэтэ	кэриэт	ADV	_	_	6	advmod	_	_
+5	тилийэ	тили	VERB	_	VerbForm=Conv	6	advcl	_	_
+6	көппүтүм	көп	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
+
+# text = Маша саламаатта сиэтин
+1	Маша	Маша	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	саламаатта	саламаат	ADJ	_	Case=Nom|Number=Sing	3	amod	_	_
+3	сиэтин	сиэт	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Өр улахан дьон ортотугар олорбутум
+1	Өр	өр	ADV	_	_	4	advmod	_	_
+2	улахан	улахан	ADJ	_	_	4	amod	_	_
+3	дьон	дьон	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+4	ортотугар	ортотугар	ADP	_	_	5	case	_	_
+5	олорбутум	олор	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
+
+# text = Кинилэри үчүгэйдик көрбүтүм билбитим
+1	Кинилэри	кини	PRON	_	Case=Nom|Number=Plur	4	nsubj	_	_
+2	үчүгэйдик	үчүгэй	ADV	_	_	4	advmod	_	_
+3	көрбүтүм	көр	VERB	_	Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	conj	_	_
+4	билбитим	бил	VERB	_	Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+
+# text = Мин онус кылааска үөрэнэбин
+1	Мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1	4	nsubj	_	_
+2	онус	онус	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+3	кылааска	кылаас	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+4	үөрэнэбин	үөрэн	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+
+# text = Оскуола дьиэтэ ханна баарый ?
+1	Оскуола	оскуола	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	дьиэтэ	дьиэтэ	NOUN	_	Case=Loc|Number=Sing	4	obl	_	_
+3	ханна	ханна	ADV	_	_	4	advmod	_	_
+4	баарый	баар	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Эн тыс этэрбэһи кэтэҕин дуо ?
+1	Эн	эн	PRON	_	Case=Nom|Number=Sing|Person=2	3	nsubj	_	_
+2	тыс	тыы	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	3	aux	_	_
+3	этэрбэһи	этэр	VERB	_	Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres	0	root	_	_
+4	кэтэҕин	кэтэҕин	ADV	_	_	3	advmod	_	_
+5	дуо	дуо	PART	_	_	3	discourse	_	_
+6	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Онно мин буруйум суох
+1	Онно	онно	ADV	_	_	4	advmod	_	_
+2	мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1	4	nsubj	_	_
+3	буруйум	буруй	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+4	суох	суох	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# text = Аҕата төһө хамнаһы өлөрөр ?
+1	Аҕата	аҕа	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	төһө	төһө	ADV	_	_	3	advmod	_	_
+3	хамнаһы	хамна	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	өлөрөр	өлөр	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Онуоха кини симиктик эрээри , оттомноохтук хат көрдөстө
+1	Онуоха	онуоха	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
+2	кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3	5	nsubj	_	_
+3	симиктик	симик	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	5	amod	_	_
+4	эрээри	эрээ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	advcl	_	_
+5	оттомноохтук	оттомноохтук	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
+6	хат	хат	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+7	көрдөстө	көрдө	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	conj	_	_
+8	,	,	PUNCT	_	_	5	punct	_	_
+
+# text = Син биир хойчоонно уруһуйдаа
+1	Син	син	PRON	_	Case=Nom|Number=Sing|Person=2	2	nsubj	_	_
+2	биир	биир	NUM	_	NumType=Card	4	nummod	_	_
+3	хойчоонно	хойчоон	NOUN	_	Case=Ins|Number=Sing	4	obl	_	_
+4	уруһуйдаа	уруһуй	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+
+# text = Оччоҕо эн халлаантан сууллубутуҥ дуо ?
+1	Оччоҕо	оччоҕо	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+2	эн	эн	PRON	_	Case=Nom|Number=Sing|Person=2	4	nsubj	_	_
+3	халлаантан	халлаан	NOUN	_	Case=Abl|Number=Sing	4	obl	_	_
+4	сууллубутуҥ	сууллубут	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	_
+5	дуо	дуо	PART	_	_	4	discourse	_	_
+6	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Коперник сүрүн уонна соҕотох кэриэтэ айымньыта - Халлаан эргимтэлэрин хамсааһына
+1	Коперник	Коперник	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+2	сүрүн	сүрүн	ADJ	_	Case=Nom|Number=Sing	7	amod	_	_
+3	уонна	уонна	CCONJ	_	_	2	cc	_	_
+4	соҕотох	соҕотох	ADJ	_	Case=Nom|Number=Sing	2	conj	_	_
+5	кэриэтэ	кэриэт	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+6	айымньыта	айымньы	NOUN	_	Case=Gen|Number=Sing	7	nmod	_	_
+7	-	-	PUNCT	_	_	0	root	_	_
+8	Халлаан	Халлаан	PROPN	_	Case=Gen|Number=Sing	9	nmod	_	_
+9	эргимтэлэрин	эргимтэл	NOUN	_	Case=Gen|Number=Plur	11	nmod	_	_
+10	хамсааһына	хамсааһы	NOUN	_	Case=Dat|Number=Sing	11	obl	_	_
+11	-	-	PUNCT	_	_	7	parataxis	_	_
+
+# text = Улахан дьон бары үлэлииллэр
+1	Улахан	улахан	ADJ	_	Degree=Pos	2	amod	_	_
+2	дьон	дьон	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	_
+3	бары	бары	PRON	_	PronType=Tot	2	det	_	_
+4	үлэлииллэр	үлэлии	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	дьон бары	дьон бары	NOUN	_	_	4	nsubj	_	_
+
+# text = Олоҥхо — саха уус-уран айымньыта
+1	Олоҥхо	Олоҥхо	PROPN	_	_	3	nsubj	_	_
+2	—	—	PUNCT	_	_	3	punct	_	_
+3	саха	саха	ADJ	_	_	0	root	_	_
+4	уус-уран	уус-уран	ADJ	_	_	5	amod	_	_
+5	айымньыта	айымньы	NOUN	_	Case=Gen|Number=Sing	3	nmod	_	_
+
+# text = Мэ , маны ыл
+1	Мэ	мэ	PRON	_	Case=Nom|Number=Sing|Person=1	3	nsubj	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	маны	маны	PRON	_	Case=Acc|Number=Sing|Person=1	0	root	_	_
+4	ыл	ыы	VERB	_	Mood=Imp|Number=Sing|Person=2	3	conj	_	_
+
+# text = Бар , көр эрэ
+1	Бар	бар	VERB	_	Mood=Imp|Number=Sing	0	root	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	көр	көр	VERB	_	Mood=Imp|Number=Sing	1	conj	_	_
+4	эрэ	эрэ	PART	_	_	3	discourse	_	_
+
+# text = Мэ , бу үүтү ис !
+1	Мэ	мэ	PRON	_	Case=Nom|Number=Sing|Person=1	4	nsubj	_	_
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	бу	бу	DET	_	PronType=Dem	4	det	_	_
+4	үүтү	үүтү	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
+5	ис	иһи	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+6	!	!	PUNCT	_	_	5	punct	_	_
+
+# text = Эмис эт бу баар
+1	Эмис	эмис	PRON	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	эт	эт	DET	_	_	3	det	_	_
+3	бу	бу	DET	_	_	4	det	_	_
+4	баар	баар	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# text = Айаана , эн аах
+1	Айаана	Айаана	PROPN	_	_	3	vocative	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	эн	эн	PRON	_	Number=Sing|Person=2|PronType=Prs	0	root	_	_
+4	аах	аах	VERB	_	VerbForm=Inf	3	xcomp	_	_
+
+# text = Бу бэрт бөҕө быа
+1	Бу	бу	PRON	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
+2	бэрт	бэрт	ADV	_	_	3	advmod	_	_
+3	бөҕө	бөҕө	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	быа	быа	ADV	_	_	3	advmod	_	_
+
+# text = Эһээ , эн кэпсээ !
+1	Эһээ	эһээ	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	эн	эн	PRON	_	Case=Nom|Number=Sing|PronType=Dem	4	det	_	_
+4	кэпсээ	кэпсээ	NOUN	_	Case=Nom|Number=Sing	1	vocative	_	_
+5	!	!	PUNCT	_	_	1	punct	_	_
+
+# text = Кэл , манна олор !
+1	Кэл	кэл	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	манна	манна	ADV	_	_	4	advmod	_	_
+4	олор	олор	VERB	_	Mood=Imp|Number=Sing|Person=2	1	conj	_	_
+5	!	!	PUNCT	_	_	1	punct	_	_
+
+# text = Ити ыт тугу үрэр ?
+1	Ити	ити	DET	_	Case=Nom|Number=Sing	3	det	_	_
+2	ыт	ыт	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
+3	тугу	тугу	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+4	үрэр	үр	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Атын эт баар дуо ?
+1	Атын	атын	PRON	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	эт	эт	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
+3	баар	баар	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	дуо	дуо	PART	_	_	3	discourse	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Аа , Кэскил кэллэ !
+1	Аа	аа	INTJ	_	_	3	discourse	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	Кэскил	Кэскил	PROPN	_	_	0	root	_	_
+4	кэллэ	кэл	VERB	_	Mood=Imp|Number=Sing|Person=2	3	parataxis	_	_
+5	!	!	PUNCT	_	_	3	punct	_	_
+
+# text = Кэскил , онно тур
+1	Кэскил	кэскил	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	онно	онно	ADV	_	_	0	root	_	_
+4	тур	тур	VERB	_	Mood=Imp|Number=Sing|Person=2	3	conj	_	_
+
+# text = Бу саа үчүгэй дуо ?
+1	Бу	бу	PRON	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
+2	саа	саа	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
+3	үчүгэй	үчүгэй	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	дуо	дуо	PART	_	_	3	discourse	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Эн илииҥ тоҥор дуо ?
+1	Эн	эн	PRON	_	Case=Nom|Number=Sing|Person=2	3	nsubj	_	_
+2	илииҥ	илии	NOUN	_	Case=Acc|Number=Sing|Person[psor]=2|Poss=Yes	3	obj	_	_
+3	тоҥор	тоҥо	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+4	дуо	дуо	PART	_	_	3	discourse	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Бу эт уҥуоҕа элбэх
+1	Бу	бу	DET	_	PronType=Dem	3	det	_	_
+2	эт	эт	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
+3	уҥуоҕа	уҥуоҕа	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
+4	элбэх	элбэх	ADJ	_	_	3	amod	_	_
+
+# text = Эн ити хаҥкыны кэт
+1	Эн	эн	PRON	_	Case=Nom|Number=Sing|Person=2	3	nsubj	_	_
+2	ити	ити	DET	_	PronType=Dem	3	det	_	_
+3	хаҥкыны	хаҥкы	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	кэт	кэт	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+
+# text = Ити суораты эн сиэ
+1	Ити	ити	DET	_	PronType=Dem	2	det	_	_
+2	суораты	суорат	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+3	эн	эн	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+4	сиэ	сиэ	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# text = Кини хас ынаҕы ыыр ?
+1	Кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
+2	хас	хас	ADV	_	_	3	advmod	_	_
+3	ынаҕы	ынаҕы	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ыыр	ыыр	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Эн ынаҕы ыыгын дуо ?
+1	Эн	эн	PRON	_	Case=Nom|Number=Sing|Person=2	3	nsubj	_	_
+2	ынаҕы	ынаҕы	DET	_	PronType=Dem	3	det	_	_
+3	ыыгын	ыыгын	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	дуо	дуо	PART	_	Polarity=Q	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Түүн кус кэлэр дуо ?
+1	Түүн	туун	PRON	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
+2	кус	кус	DET	_	Number=Sing|PronType=Ind	3	det	_	_
+3	кэлэр	кэл	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	дуо	дуо	PART	_	_	3	discourse	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Кымыс эмиэ үрүҥ ас
+1	Кымыс	кымыс	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	эмиэ	эмиэ	ADV	_	_	4	advmod	_	_
+3	үрүҥ	үрүҥ	ADJ	_	Degree=Pos	4	amod	_	_
+4	ас	ас	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# text = Ити ыт киһини үрэр
+1	Ити	ити	DET	_	Case=Nom|Number=Sing	3	det	_	_
+2	ыт	ыт	PRON	_	Case=Nom|Number=Sing	3	nmod	_	_
+3	киһини	киһи	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	үрэр	үр	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Бу сыаны туспа ыйаа
+1	Бу	бу	DET	_	PronType=Dem	2	det	_	_
+2	сыаны	сыан	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+3	туспа	тус	ADV	_	_	4	advmod	_	_
+4	ыйаа	ыйа	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+
+# text = Бу тоһоҕо олус кыра
+1	Бу	бу	DET	_	PronType=Dem	3	det	_	_
+2	тоһоҕо	тоһоҕо	NOUN	_	Case=Dat|Number=Sing	3	nmod	_	_
+3	олус	олус	ADV	_	_	4	advmod	_	_
+4	кыра	кыра	ADJ	_	Degree=Pos	0	root	_	_
+
+# text = Бу куоска ууну иһэр
+1	Бу	бу	DET	_	PronType=Dem	2	det	_	_
+2	куоска	куоска	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	ууна	уу	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	иһэр	иһэр	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Оҕолор , эмиэ аһааҥ !
+1	Оҕолор	оҕо	NOUN	_	Case=Nom|Number=Plur	4	vocative	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	эмиэ	эмиэ	ADV	_	_	4	advmod	_	_
+4	аһааҥ	аһаа	VERB	_	Mood=Imp|Number=Plur|Person=2	0	root	_	_
+5	!	!	PUNCT	_	_	4	punct	_	_
+
+# text = Ааны сабымаҥ , аһыҥ
+1	Ааны	аан	VERB	_	Mood=Imp|Number=Sing|VerbForm=Imp	0	root	_	_
+2	сабымаҥ	сабы	NOUN	_	Case=Dat|Number=Sing|Person=2	1	obj	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	аһыҥ	аһы	VERB	_	Mood=Imp|Number=Sing|VerbForm=Imp	1	conj	_	_
+
+# text = Эн эһэҥ үөрэнэр дуо ?
+1	Эн	эн	PRON	_	Case=Nom|Number=Sing|Person=2	3	nsubj	_	_
+2	эһэҥ	эһэ	NOUN	_	Case=Nom|Number=Sing|Person[psor]=2|Poss=Yes	1	nmod:poss	_	_
+3	үөрэнэр	үөрэн	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+4	дуо	дуо	PART	_	_	3	discourse	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Эһэм ити сону кэтэр
+1	Эһэм	эһэ	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	ити	ити	DET	_	_	3	det	_	_
+3	сону	сону	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	кэтэр	кэтэр	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Ити киһи эрдэ турар
+1	Ити	ити	DET	_	PronType=Dem	2	det	_	_
+2	киһи	киһи	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	эрдэ	эрдэ	ADV	_	_	4	advmod	_	_
+4	турар	турар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Кыра кыыс тугу эттэ ?
+1	Кыра	кыра	ADV	_	_	4	advmod	_	_
+2	кыыс	кыыс	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	тугу	тугу	PRON	_	PronType=Int	4	obj	_	_
+4	эттэ	эт	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Онно киһи тугу эттэ ?
+1	Онно	онно	ADV	_	_	4	advmod	_	_
+2	киһи	киһи	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	тугу	тугу	PRON	_	PronType=Int	4	obj	_	_
+4	эттэ	эт	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Бүгүн уу тымныы дуо ?
+1	Бүгүн	бүгүн	ADV	_	_	4	advmod	_	_
+2	уу	уу	DET	_	_	3	det	_	_
+3	тымныы	тымныы	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+4	дуо	дуо	AUX	_	Mood=Ind|Polarity=Neg|VerbForm=Fin	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Ити кыыс тугу гынар ?
+1	Ити	ити	DET	_	PronType=Dem	2	det	_	_
+2	кыыс	кыыс	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	тугу	тугу	PRON	_	PronType=Int	4	obj	_	_
+4	гынар	гын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Уонна өссө тугу ылла ?
+1	Уонна	уонна	CCONJ	_	_	3	cc	_	_
+2	өссө	өссө	ADV	_	_	3	advmod	_	_
+3	тугу	тугу	PRON	_	PronType=Int	4	nsubj	_	_
+4	ылла	ыл	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Эн баһыҥ ыалдьар дуо ?
+1	Эн	эн	PRON	_	Case=Nom|Number=Sing|Person=2	3	nsubj	_	_
+2	баһыҥ	баһы	ADV	_	_	3	advmod	_	_
+3	ыалдьар	ыал	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+4	дуо	дуо	PART	_	_	3	discourse	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Онон кини тугу гынар ?
+1	Онон	Онон	PROPN	_	_	4	nsubj	_	_
+2	кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3	1	appos	_	_
+3	тугу	тугу	PRON	_	PronType=Int	4	obj	_	_
+4	гынар	гынар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Миэхэ эмис эттэ аҕал
+1	Миэхэ	миэхэ	PRON	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
+2	эмис	эмис	ADV	_	_	3	advmod	_	_
+3	эттэ	эт	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	аҕал	аҕал	ADV	_	_	3	advmod	_	_
+
+# text = Ити дьиэ олус тымныы
+1	Ити	ити	DET	_	PronType=Dem	2	det	_	_
+2	дьиэ	дьиэ	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	олус	олус	ADV	_	_	4	advmod	_	_
+4	тымныы	тымныы	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Бу муҥхаҕыт саҥа дуо ?
+1	Бу	бу	PRON	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
+2	муҥхаҕыт	муҥхаҕ	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
+3	саҥа	саҥа	ADJ	_	_	0	root	_	_
+4	дуо	дуо	PART	_	_	3	discourse	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Кэскил сону ылла дуо ?
+1	Кэскил	кэскил	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	сону	сону	ADV	_	_	3	advmod	_	_
+3	ылла	ыл	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	дуо	дуо	PART	_	_	3	discourse	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Уол убайа тугу гынар ?
+1	Уол	уол	PRON	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	убайа	убай	ADV	_	_	4	advmod	_	_
+3	тугу	тугу	PRON	_	Case=Acc|Number=Sing	4	obj	_	_
+4	гынар	гын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Ийэҥ туохха уу кутта ?
+1	Ийэҥ	ийэ	NOUN	_	Case=Gen|Number=Sing	3	nsubj	_	_
+2	туохха	туох	PRON	_	Case=Dat|Number=Sing	3	obl	_	_
+3	уу	уу	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	кутта	кут	PART	_	_	3	discourse	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Ууга элбэх кус устар
+1	Ууга	ууга	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	элбэх	элбэ	VERB	_	VerbForm=Conv	4	advcl	_	_
+3	кус	кус	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	устар	уста	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Бу сир чиэрбэтэ суох
+1	Бу	бу	DET	_	PronType=Dem	2	det	_	_
+2	сир	сир	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	чиэрбэтэ	чиэрбэт	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	4	acl	_	_
+4	суох	суох	AUX	_	Polarity=Neg|VerbForm=Fin	0	root	_	_
+
+# text = Кыра балык үөнү сиир
+1	Кыра	кыра	ADJ	_	Case=Nom|Number=Sing	2	amod	_	_
+2	балык	балык	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	үөнү	үөн	ADV	_	_	4	advmod	_	_
+4	сиир	сиир	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Хаар маҥан , чох хара
+1	Хаар	хаар	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	маҥан	маҥан	ADV	_	_	4	advmod	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	чох	чох	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	хара	хара	ADV	_	_	4	advmod	_	_
+
+# text = Ол эмиэ үөрэммэт кыыс
+1	Ол	ол	PRON	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	эмиэ	эмиэ	ADV	_	_	4	advmod	_	_
+3	үөрэммэт	үөрэ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	4	acl	_	_
+4	кыыс	кыыс	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+
+# text = Бу дьахтар аата кимий ?
+1	Бу	бу	DET	_	PronType=Dem	3	det	_	_
+2	дьахтар	дьахтар	NOUN	_	Case=Nom|Number=Plur	3	nmod	_	_
+3	аата	аата	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+4	кимий	кимий	PRON	_	PronType=Int	5	cop	_	_
+5	?	?	PUNCT	_	_	0	root	_	_
+
+# text = Ити ууга мэлдьи аһыыр
+1	Ити	ити	DET	_	Case=Nom|Number=Sing	2	det	_	_
+2	ууга	ууга	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	мэлдьи	мэлдьи	ADV	_	_	4	advmod	_	_
+4	аһыыр	аһыыр	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Тыл биир , тиис элбэх
+1	Тыл	тыл	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+2	биир	биир	ADJ	_	Degree=Pos	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	тиис	тиис	ADJ	_	Degree=Pos	5	amod	_	_
+5	элбэх	элбэх	ADJ	_	Degree=Pos	2	conj	_	_
+
+# text = Ыраас уу эмиэ дьэҥкир
+1	Ыраас	ыраас	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	уу	уу	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+3	эмиэ	эмиэ	ADV	_	_	4	advmod	_	_
+4	дьэҥкир	дьэҥкир	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Ити оҕо тоҕо саҥарбат ?
+1	Ити	ити	DET	_	PronType=Dem	2	det	_	_
+2	оҕо	оҕо	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	тоҕо	тоҕо	ADV	_	_	4	advmod	_	_
+4	саҥарбат	саҥар	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Эн кыһын тугу гынаҕын ?
+1	Эн	эн	PRON	_	Case=Nom|Number=Sing|Person=2	4	nsubj	_	_
+2	кыһын	кыһы	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+3	тугу	тугу	ADV	_	_	4	advmod	_	_
+4	гынаҕын	гынаҕы	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Хоту элбэх хаар түһэр
+1	Хоту	хоту	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	элбэх	элбэх	ADJ	_	_	4	amod	_	_
+3	хаар	хаар	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	түһэр	түһэр	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Эн тииһиҥ ыалдьар дуо ?
+1	Эн	эн	PRON	_	Case=Nom|Number=Sing|Person=2	3	nsubj	_	_
+2	тииһиҥ	тии	VERB	_	Number=Sing|Person=2|Tense=Pres|VerbForm=Conv	3	acl	_	_
+3	ыалдьар	ыалдьар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	дуо	дуо	PART	_	_	3	discourse	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Эн бөрөнү көрөҕүн дуо ?
+1	Эн	эн	PRON	_	Case=Nom|Number=Sing|Person=2	3	nsubj	_	_
+2	бөрөнү	бөрө	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
+3	көрөҕүн	көр	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+4	дуо	дуо	PART	_	_	3	discourse	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Дьэҥкир арыы баар дуо ?
+1	Дьэҥкир	дьэҥкир	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	арыы	арыы	ADV	_	_	3	advmod	_	_
+3	баар	баар	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	дуо	дуо	PART	_	_	3	discourse	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Ууга кыра суол киирэр
+1	Ууга	ууга	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	кыра	кыра	ADJ	_	Degree=Pos	3	amod	_	_
+3	суол	суол	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	киирэр	киир	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Кэскил онно тугу эттэ ?
+1	Кэскил	кэскил	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	онно	онно	ADV	_	_	4	advmod	_	_
+3	тугу	тугу	PRON	_	Case=Acc|Number=Sing|PronType=Int	4	obj	_	_
+4	эттэ	эт	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Мин икки куһу өлөрдүм
+1	Мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1	4	nsubj	_	_
+2	икки	икки	NUM	_	NumType=Card	3	nummod	_	_
+3	куһу	куһу	NOUN	_	Case=Acc|Number=Sing	4	obl	_	_
+4	өлөрдүм	өлөр	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Past	0	root	_	_
+
+# text = Эн эмиэ билбэккин дуу ?
+1	Эн	эн	PRON	_	Case=Nom|Number=Sing|Person=2	3	nsubj	_	_
+2	эмиэ	эмиэ	ADV	_	_	3	advmod	_	_
+3	билбэккин	бил	VERB	_	Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres	0	root	_	_
+4	дуу	дуу	PART	_	_	3	discourse	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Бу дьиэҕэ үс хос баар
+1	Бу	бу	DET	_	PronType=Dem	3	det	_	_
+2	дьиэҕэ	дьиэ	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
+3	үс	үс	NUM	_	NumType=Card	5	nummod	_	_
+4	хос	хос	NOUN	_	Number=Plur	5	nsubj	_	_
+5	баар	баар	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# text = Ити аты бостуук ылыаҕа
+1	Ити	ити	DET	_	PronType=Dem	2	det	_	_
+2	аты	ат	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	бостуук	бостуук	ADJ	_	_	2	amod	_	_
+4	ылыаҕа	ылыа	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Бу үрэх уута бэрт ыраас
+1	Бу	бу	DET	_	PronType=Dem	3	det	_	_
+2	үрэх	үрэх	ADJ	_	_	3	amod	_	_
+3	уута	уута	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+4	бэрт	бэрт	ADV	_	_	5	advmod	_	_
+5	ыраас	ыраа	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Бу сыалыһар быара баар
+1	Бу	бу	DET	_	PronType=Dem	2	det	_	_
+2	сыалыһар	сыалыһар	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	быара	быара	ADV	_	_	4	advmod	_	_
+4	баар	баар	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# text = Чэ , олоруҥ , эбиэттэҥ !
+1	Чэ	чэ	INTJ	_	_	4	discourse	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	олоруҥ	олору	NOUN	_	Case=Voc|Number=Sing	4	vocative	_	_
+4	эбиэттэҥ	эбиэт	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+5	!	!	PUNCT	_	_	4	punct	_	_
+
+# text = Бу сыыр олус халтархай
+1	Бу	бу	DET	_	PronType=Dem	2	det	_	_
+2	сыыр	сыыр	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+3	олус	олус	ADV	_	_	4	advmod	_	_
+4	халтархай	халтархай	ADJ	_	_	2	amod	_	_
+
+# text = Манна биэс тарбах баар
+1	Манна	манна	PRON	_	Case=Loc|Number=Sing	4	obl	_	_
+2	биэс	биэс	PRON	_	Case=Nom|Number=Plur	4	nsubj	_	_
+3	тарбах	тарба	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	баар	баар	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# text = Ити ынах хотоҥҥо аһыыр
+1	Ити	ити	DET	_	PronType=Dem	2	det	_	_
+2	ынах	ынах	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	хотоҥҥо	хотоҥ	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+4	аһыыр	аһыыр	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# text = Ити оҕонньор ааҕар дуо ?
+1	Ити	ити	DET	_	Case=Nom|Number=Sing	2	det	_	_
+2	оҕонньор	оҕонньор	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	ааҕар	ааҕар	VERB	_	VerbForm=Conv	4	advcl	_	_
+4	дуо	дуо	ADV	_	_	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Харах икки , айах биир
+1	Харах	харах	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+2	икки	икки	NUM	_	NumType=Card	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	айах	айах	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+5	биир	биир	NUM	_	NumType=Card	2	conj	_	_
+
+# text = Уһук хотугу түүн ааһар
+1	Уһук	уһук	NOUN	_	Case=Nom|Number=Sing	4	obl	_	_
+2	хотугу	хоту	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	түүн	түү	VERB	_	VerbForm=Conv	4	advcl	_	_
+4	ааһар	ааһар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Ол ыт куосканы таптыыр
+1	Ол	ол	PRON	_	Case=Nom|Number=Sing|Person=3	2	nsubj	_	_
+2	ыт	ыт	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+3	куосканы	куоска	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	_
+4	таптыыр	тап	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+
+# text = Миннэ иһиҥ , эттэ сиэҥ
+1	Миннэ	мин	PRON	_	Case=Nom|Number=Sing|Person=1	2	nsubj	_	_
+2	иһиҥ	иһи	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	эттэ	этэ	PRON	_	Case=Nom|Number=Sing|Person=2	5	nsubj	_	_
+5	сиэҥ	сиэ	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	2	conj	_	_
+
+# text = Үрүҥ чаанньык баар дуо ?
+1	Үрүҥ	үрүҥ	ADJ	_	Case=Nom|Number=Sing	2	amod	_	_
+2	чаанньык	чаанньык	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+3	баар	баар	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	дуо	дуо	PART	_	_	3	discourse	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Ити эти быс уонна ыйаа !
+1	Ити	ити	DET	_	PronType=Dem	3	det	_	_
+2	эти	эт	PRON	_	PronType=Dem	3	nmod	_	_
+3	быс	быс	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+4	уонна	уонна	CCONJ	_	_	5	cc	_	_
+5	ыйаа	ыйаа	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	!	!	PUNCT	_	_	5	punct	_	_
+
+# text = Эн эмиэ онно үөрэнэҕин
+1	Эн	эн	PRON	_	Case=Nom|Number=Sing|Person=2	4	nsubj	_	_
+2	эмиэ	эмиэ	ADV	_	_	4	advmod	_	_
+3	онно	онно	ADV	_	_	4	advmod	_	_
+4	үөрэнэҕин	үөрэн	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+
+# text = Ити ынахха от биэрэҕит
+1	Ити	ити	DET	_	Case=Nom|Number=Sing	2	det	_	_
+2	ынахха	ынах	NOUN	_	Case=Dat|Number=Sing	5	nsubj	_	_
+3	от	от	NOUN	_	Case=Nom|Number=Sing	5	obj	_	_
+4	биэрэҕит	биэрэ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	aux	_	_
+5	биэрэҕит	биэрэ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+
+# text = Сылга уон икки ый баар
+1	Сылга	сыл	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
+2	уон	уон	CCONJ	_	_	3	cc	_	_
+3	икки	икки	NUM	_	_	4	nummod	_	_
+4	ый	ый	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+5	баар	баар	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# text = Ити киһи тугу атыылыыр ?
+1	Ити	ити	DET	_	Case=Nom|Number=Sing	2	det	_	_
+2	киһи	киһи	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+3	тугу	тугу	PRON	_	Case=Acc|Number=Sing	5	obj	_	_
+4	атыылыыр	атыыла	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Аҕам от охсор
+1	Аҕам	аҕа	NOUN	_	Case=Nom|Number=Sing|Person=1	3	nsubj	_	_
+2	от	от	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
+3	охсор	охсор	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Чааска алта уон мүнүүтэ
+1	Чааска	чаас	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+2	алта	алта	NUM	_	_	4	nummod	_	_
+3	уон	уон	CCONJ	_	_	4	cc	_	_
+4	мүнүүтэ	мүнүү	NOUN	_	Case=Dat|Number=Sing	0	root	_	_
+
+# text = Мичил Айталга тугу эттэ ?
+1	Мичил	Мичил	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	Айталга	айтал	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+3	тугу	тугу	PRON	_	PronType=Int	4	obj	_	_
+4	эттэ	эт	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Ити хотууру мин ылыаҕым
+1	Ити	ити	DET	_	PronType=Dem	2	det	_	_
+2	хотууру	хотуур	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	мин	мин	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	_
+4	ылыаҕым	ылыаҕ	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# text = Кини кыра оҕолору көрөр
+1	Кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
+2	кыра	кыра	ADV	_	_	4	advmod	_	_
+3	оҕолору	оҕо	NOUN	_	Case=Acc|Number=Plur	4	obj	_	_
+4	көрөр	көр	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Бу кыыс нууччалыы ааҕар
+1	Бу	бу	DET	_	PronType=Dem	3	det	_	_
+2	кыыс	кыыс	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+3	нууччалыы	нууччалаа	VERB	_	Aspect=Imp|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ааҕар	ааҕар	ADV	_	_	3	advmod	_	_
+
+# text = Уонна кини тугу гынарый ?
+1	Уонна	уонна	CCONJ	_	_	3	cc	_	_
+2	кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
+3	тугу	тугу	PRON	_	Case=Acc|Number=Sing	4	obj	_	_
+4	гынарый	гынар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Ити ууга ким сөтүөлээтэ ?
+1	Ити	ити	DET	_	Case=Nom|Number=Sing	3	det	_	_
+2	ууга	ууга	NOUN	_	Case=Gen|Number=Sing	3	nmod	_	_
+3	ким	ким	PRON	_	Case=Nom|Number=Sing	5	nsubj	_	_
+4	сөтүөлээтэ	сөтүөлээ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	5	acl	_	_
+5	?	?	PUNCT	_	_	0	root	_	_
+
+# text = Манна хас тарбах баарый ?
+1	Манна	манна	PRON	_	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
+2	хас	хас	ADV	_	_	4	advmod	_	_
+3	тарбах	тарба	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	баарый	баар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Бу оҕо илиитэ ыраас дуо ?
+1	Бу	бу	DET	_	PronType=Dem	3	det	_	_
+2	оҕо	оҕо	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+3	илиитэ	илии	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	ыраас	ыраас	ADV	_	_	3	advmod	_	_
+5	дуо	дуо	PART	_	_	3	discourse	_	_
+6	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Ол аты тоҕо көлүйбэккит ?
+1	Ол	ол	PRON	_	Case=Nom|Number=Sing|Person=3	2	nsubj	_	_
+2	аты	аты	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+3	тоҕо	тоҕо	ADV	_	_	5	advmod	_	_
+4	көлүйбэккит	көлүй	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past	5	conj	_	_
+5	?	?	PUNCT	_	_	0	root	_	_
+
+# text = Кыра оҕо ханна үөрэнэрий ?
+1	Кыра	кыра	ADJ	_	Case=Nom|Number=Sing	2	amod	_	_
+2	оҕо	оҕо	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+3	ханна	ханна	ADV	_	_	5	advmod	_	_
+4	үөрэнэрий	үөрэн	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	?	?	PUNCT	_	_	0	root	_	_
+
+# text = Уонна кини ханна барарый ?
+1	Уонна	уонна	PRON	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
+2	кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
+3	ханна	ханна	ADV	_	_	4	advmod	_	_
+4	барарый	барар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Сайаана хотоҥҥо ынах ыыр
+1	Сайаана	Сайаана	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+2	хотоҥҥо	хотон	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
+3	ынах	ынах	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
+4	ыыр	ыы	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	ыыр	ыы	VERB	_	VerbForm=Inf	4	ccomp	_	_
+
+# text = Бу оскуолаҕа ким үөрэнэр ?
+1	Бу	бу	DET	_	PronType=Dem	3	det	_	_
+2	оскуолаҕа	оскуола	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
+3	ким	ким	PRON	_	PronType=Int	5	nsubj	_	_
+4	үөрэнэр	үөрэн	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Киэһэ манна кэлбэккит дуо ?
+1	Киэһэ	киэһэ	PRON	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	манна	манна	ADV	_	_	4	advmod	_	_
+3	кэлбэккит	кэл	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	4	aux	_	_
+4	дуо	дуо	PART	_	PartType=Q	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Мин бүгүн биир куһу өлөрдүм
+1	Мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1	5	nsubj	_	_
+2	бүгүн	бүгүн	ADV	_	_	5	advmod	_	_
+3	биир	биир	NUM	_	NumType=Card	4	nummod	_	_
+4	куһу	куһу	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
+5	өлөрдүм	өл	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Past	0	root	_	_
+
+# text = Айаана , кэл , манна олор
+1	Айаана	Айаана	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	кэл	кэл	VERB	_	Mood=Imp|Number=Sing|Person=2	4	conj	_	_
+4	манна	манна	ADV	_	_	5	advmod	_	_
+5	олор	олор	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+
+# text = Улахан киһи ханна үөрэнэр ?
+1	Улахан	улахан	ADJ	_	Degree=Pos	2	amod	_	_
+2	киһи	киһи	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+3	ханна	ханна	ADV	_	_	5	advmod	_	_
+4	үөрэнэр	үөрэн	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	conj	_	_
+5	?	?	PUNCT	_	_	0	root	_	_
+
+# text = Ити дьон тугу атыылыыллар ?
+1	Ити	ити	DET	_	Case=Nom|Number=Sing	2	det	_	_
+2	дьон	дьон	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	_
+3	тугу	тугу	PRON	_	Case=Acc|Number=Sing	5	obj	_	_
+4	атыылыыллар	атыылыы	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Кэскил , эн тур уонна аах
+1	Кэскил	кэскил	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	эн	эн	PRON	_	Case=Nom|Number=Sing|Person=2	5	nsubj	_	_
+4	тур	тур	VERB	_	Mood=Imp|Number=Sing|Person=2	5	conj	_	_
+5	уонна	уонна	CCONJ	_	_	6	cc	_	_
+6	аах	аах	VERB	_	VerbForm=Inf	0	root	_	_
+
+# text = Эдэр киһи ханна үөрэнэрий ?
+1	Эдэр	эдэр	ADJ	_	Case=Nom|Number=Sing	2	amod	_	_
+2	киһи	киһи	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+3	ханна	ханна	ADV	_	_	5	advmod	_	_
+4	үөрэнэрий	үөрэн	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Муннукка икки ыскаап турар
+1	Муннукка	муннук	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+2	икки	икки	NUM	_	NumType=Card	3	nummod	_	_
+3	ыскаап	ыскаап	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	турар	турар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Ойуурга өссө тэллэй үүнэр
+1	Ойуурга	ойуур	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+2	өссө	өс	VERB	_	VerbForm=Conv	4	advcl	_	_
+3	тэллэй	тэл	VERB	_	VerbForm=Conv	4	advcl	_	_
+4	үүнэр	үү	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+
+# text = Ити уол түргэнник суруйар
+1	Ити	ити	DET	_	Case=Nom|Number=Sing	2	det	_	_
+2	уол	уол	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	түргэнник	түргэн	ADJ	_	Case=Acc|Number=Sing	4	amod	_	_
+4	суруйар	суруй	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Кини эмиэ сахалыы үөрэнэр
+1	Кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
+2	эмиэ	эмиэ	ADV	_	_	4	advmod	_	_
+3	сахалыы	саха	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	үөрэнэр	үөрэн	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Үчүгэй харандаас бу сытар
+1	Үчүгэй	үчүгэй	ADJ	_	_	2	amod	_	_
+2	харандаас	харанда	NOUN	_	Case=Abl|Number=Sing	4	nsubj	_	_
+3	бу	бу	DET	_	_	4	det	_	_
+4	сытар	сытар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Ыскаапка кинигэ элбэх дуо ?
+1	Ыскаапка	ыскаап	NOUN	_	Case=Loc|Number=Sing	2	obl	_	_
+2	кинигэ	кинигэ	NOUN	_	Case=Dat|Number=Sing	5	nsubj	_	_
+3	элбэх	элбэх	ADJ	_	_	2	amod	_	_
+4	дуо	дуо	PART	_	_	5	discourse	_	_
+5	?	?	PUNCT	_	_	0	root	_	_
+
+# text = Ити быраас кимий эмтиирий ?
+1	Ити	ити	DET	_	Case=Nom|Number=Sing	3	det	_	_
+2	быраас	быраас	NOUN	_	Case=Abl|Number=Sing	3	nmod	_	_
+3	кимий	кимий	PRON	_	Case=Nom|Number=Sing|PronType=Int	4	nsubj	_	_
+4	эмтиирий	эмтиир	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Бу бэргэһэни долбуурга уур
+1	Бу	бу	DET	_	PronType=Dem	2	det	_	_
+2	бэргэһэни	бэргэһэ	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
+3	долбуурга	долбуур	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
+4	уур	уур	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
+5	уур	уур	VERB	_	_	0	root	_	_
+
+# text = Дьонуҥ киэһэ тугу гыналлар ?
+1	Дьонуҥ	дьон	NOUN	_	Case=Gen|Number=Sing	2	nmod:poss	_	_
+2	киэһэ	киэһэ	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+3	тугу	тугу	PRON	_	PronType=Int	5	obj	_	_
+4	гыналлар	гына	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Ийэм ууну буочукаттан ылар
+1	Ийэм	ийэ	NOUN	_	Case=Nom|Number=Sing|Person=1	4	nsubj	_	_
+2	ууна	ууна	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+3	буочукаттан	буочук	NOUN	_	Case=Abl|Number=Sing	4	obl	_	_
+4	ылар	ылар	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+
+# text = Ити кинигэни аахпаппыт дуо ?
+1	Ити	ити	DET	_	Case=Nom|Number=Sing	2	det	_	_
+2	кинигэни	кинигэ	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+3	аахпаппыт	аах	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Past	4	aux	_	_
+4	дуо	дуо	PART	_	_	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Түннүгү аһымаҥ , ааны аһыҥ
+1	Түннүгү	түннүк	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	аһымаҥ	аһы	VERB	_	Mood=Imp|Number=Sing|Person=2	3	conj	_	_
+3	ааны	аан	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+4	аһыҥ	аһы	VERB	_	Mood=Imp|Number=Sing|Person=2	3	conj	_	_
+5	,	,	PUNCT	_	_	3	punct	_	_
+
+# text = Килиэптэ сиэ
+1	Килиэптэ	килиэп	NOUN	_	Case=Loc|Number=Sing	2	obl	_	_
+2	сиэ	сиэ	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+
+# text = Кинигэтэ атыылас
+1	Кинигэтэ	кинигэ	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	_
+2	атыылас	атыыла	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+
+# text = Килиэби сиэ
+1	Килиэби	килиэби	NOUN	_	Case=Nom|Number=Plur	2	nsubj	_	_
+2	сиэ	сиэ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+
+# text = Яблокаттан иккини сиэ
+1	Яблокаттан	яблоко	NOUN	_	Case=Abl|Number=Sing	3	obl	_	_
+2	иккини	икки	NUM	_	Case=Acc|Number=Sing	3	obj	_	_
+3	сиэ	сиэ	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+
+# text = Яблокаттан иккитэ сиэ
+1	Яблокаттан	яблоко	NOUN	_	Case=Abl|Number=Sing	4	obl	_	_
+2	иккитэ	икки	NUM	_	NumType=Card	4	nummod	_	_
+3	сиэ	сиэ	NOUN	_	Case=Nom|Number=Sing	4	obj	_	_
+4	—	—	PUNCT	_	_	0	root	_	_
+
+# text = Килиэптэ сиэмэ
+1	Килиэптэ	килиэт	NOUN	_	Case=Loc|Number=Sing	2	obl	_	_
+2	сиэмэ	сиэмэ	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+
+# text = Килиэби сиэмэ
+1	Килиэби	килиэ	NOUN	_	Case=Nom|Number=Plur	2	nsubj	_	_
+2	сиэмэ	сиэмэ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+
+# text = Кинигэтэ бул
+1	Кинигэтэ	кинигэ	NOUN	_	Case=Dat|Number=Sing	2	nsubj	_	_
+2	бул	буол	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+
+# text = Хотой , мохсоҕол , кыырт араас көтөрдөрү сииллэр
+1	Хотой	Хотой	PROPN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	мохсоҕол	мохсоҕол	PROPN	_	Case=Nom|Number=Sing	1	conj	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	кыырт	кыырт	PROPN	_	Case=Nom|Number=Sing	1	conj	_	_
+6	араас	араас	NOUN	_	Case=Abl|Number=Sing	7	obl	_	_
+7	көтөрдөрү	көтөр	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+8	сииллэр	сииллэр	ADV	_	_	7	advmod	_	_
+
+# text = Бастаан кини кылааска ааны уонна форточканы аһар
+1	Бастаан	бастаан	ADV	_	_	7	advmod	_	_
+2	кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3	7	nsubj	_	_
+3	кылааска	кылаас	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+4	ааны	аан	NOUN	_	Case=Acc|Number=Sing	7	obj	_	_
+5	уонна	уонна	CCONJ	_	_	4	cc	_	_
+6	форточканы	форточка	NOUN	_	Case=Acc|Number=Sing	4	conj	_	_
+7	аһар	аһар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Куоракка убайым уонна эдьиийим бииргэ үөрэнэллэр
+1	Куоракка	куорак	NOUN	_	Case=Loc|Number=Sing	6	obl	_	_
+2	убайым	убай	NOUN	_	Case=Nom|Number=Sing|Person=1	6	nsubj	_	_
+3	уонна	уонна	CCONJ	_	_	4	cc	_	_
+4	эдьиийим	эдьиий	NOUN	_	Case=Nom|Number=Sing|Person=1	2	conj	_	_
+5	бииргэ	бииргэ	ADV	_	_	6	advmod	_	_
+6	үөрэнэллэр	үөрэн	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+
+# text = Биир улахан ыраас хоско кыра остуоллар тураллар
+1	Биир	биир	NUM	_	NumType=Card	2	nummod	_	_
+2	улахан	улахан	ADJ	_	Degree=Pos	6	amod	_	_
+3	ыраас	ыраас	NOUN	_	Case=Abl|Number=Sing	2	nmod	_	_
+4	хоско	хоско	ADV	_	_	6	advmod	_	_
+5	кыра	кыра	ADJ	_	Degree=Pos	6	amod	_	_
+6	остуоллар	остуол	NOUN	_	Case=Nom|Number=Plur	0	root	_	_
+7	тураллар	тура	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	acl	_	_
+
+# text = Таҥаһы көхөҕө ыйыыллар уонна дьааһыкка уураллар
+1	Таҥаһы	таҥа	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
+2	көхөҕө	көхө	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
+3	ыйыыллар	ыйыы	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	уонна	уонна	CCONJ	_	_	7	cc	_	_
+5	дьааһыкка	дьааһы	NOUN	_	Case=Dat|Number=Sing	7	obl	_	_
+6	уураллар	уура	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	3	conj	_	_
+7	уураллар	уура	VERB	_	Number=Plur|Tense=Pres|VerbForm=Fin	3	conj	_	_
+
+# text = Бу уолаттар мас кэрдиэхтэрэ , эн сүөһү маныаҕыҥ
+1	Бу	бу	DET	_	PronType=Dem	2	det	_	_
+2	уолаттар	уолак	NOUN	_	Case=Nom|Number=Plur	6	nsubj	_	_
+3	мас	мас	ADV	_	_	6	advmod	_	_
+4	кэрдиэхтэрэ	кэрдиэх	NOUN	_	Case=Gen|Number=Plur	2	nmod	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	эн	эн	PRON	_	Case=Nom|Number=Sing|Person=2	0	root	_	_
+7	сүөһү	сүөһү	NOUN	_	Case=Acc|Number=Sing	6	obj	_	_
+8	маныаҕыҥ	маныаҕы	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	6	acl	_	_
+
+# text = Быт , былахы , кулахы киһи хаанынан аһыыллар
+1	Быт	быт	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	былахы	былах	NOUN	_	Case=Nom|Number=Sing	1	conj	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	кулахы	кулах	NOUN	_	Case=Nom|Number=Sing	1	conj	_	_
+6	киһи	киһи	NOUN	_	Case=Abl|Number=Sing	7	obl	_	_
+7	хаанынан	хаан	NOUN	_	Case=Abl|Number=Sing	0	root	_	_
+8	аһыыллар	аһыыл	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	_
+
+# text = Утуйар таҥаһы биһиги арыт таһырдьа ыйыыбыт
+1	Утуйар	утуйар	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+2	таҥаһы	таҥа	NOUN	_	Case=Gen|Number=Sing	1	nmod	_	_
+3	биһиги	биһиги	PRON	_	Case=Nom|Number=Plur|Person=1	5	nsubj	_	_
+4	арыт	арыт	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
+5	таһырдьа	таһыр	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	_
+6	ыйыыбыт	ыйыы	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	5	conj	_	_
+
+# text = Кини туораҕы уонна араас үөннэри эмиэ сиир
+1	Кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
+2	туораҕы	туораҕ	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
+3	үөннэри	үөннээ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	уонна	уонна	CCONJ	_	_	5	cc	_	_
+5	араас	араас	NOUN	_	Case=Acc|Number=Sing	2	conj	_	_
+6	эмиэ	эмиэ	ADV	_	_	7	advmod	_	_
+7	сиир	сиир	VERB	_	VerbForm=Conv	5	acl	_	_
+
+# text = Киэһээҥи оскуолаҕа улахан дьон үөрэнэллэр
+1	Киэһээҥи	киэһээҥ	NOUN	_	Case=Gen|Number=Sing	4	nmod	_	_
+2	оскуолаҕа	оскуола	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+3	улахан	улахан	ADJ	_	_	4	amod	_	_
+4	дьон	дьон	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	_
+5	үөрэнэллэр	үөрэн	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+
+# text = Мин биир аҕаһым үрдүкү оскуолаҕа үөрэнэр
+1	Мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1	6	nsubj	_	_
+2	биир	биир	NUM	_	NumType=Card	3	nummod	_	_
+3	аҕаһым	аҕа	NOUN	_	Case=Gen|Number=Sing|Person=1	6	obl	_	_
+4	үрдүкү	үрдүкү	ADJ	_	_	5	amod	_	_
+5	оскуолаҕа	оскуола	NOUN	_	Case=Dat|Number=Sing	6	obl	_	_
+6	үөрэнэр	үөрэн	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+
+# text = Улахан оҕо уонна эдэр киһи ханна үөрэнэр ?
+1	Улахан	улахан	ADJ	_	Degree=Pos	3	amod	_	_
+2	оҕо	оҕо	NOUN	_	Case=Nom|Number=Sing	3	conj	_	_
+3	уонна	уонна	CCONJ	_	_	5	cc	_	_
+4	эдэр	эдэр	ADJ	_	Degree=Pos	5	amod	_	_
+5	киһи	киһи	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+6	ханна	ханна	ADV	_	_	7	advmod	_	_
+7	үөрэнэр	үөрэн	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+8	?	?	PUNCT	_	_	7	punct	_	_
+
+# text = Онно эр дьон уонна дьахталлар үөрэнэллэр
+1	Онно	онно	ADV	_	_	2	advmod	_	_
+2	эр	эр	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	дьон	дьон	NOUN	_	Case=Nom|Number=Plur	2	nsubj	_	_
+4	уонна	уонна	CCONJ	_	_	5	cc	_	_
+5	дьахталлар	дьахтал	NOUN	_	Case=Nom|Number=Plur	3	conj	_	_
+6	үөрэнэллэр	үөрэн	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	xcomp	_	_
+
+# text = Бөрөнү уонна эһэни дьон эмиэ бултууллар
+1	Бөрөнү	бөрө	NOUN	_	Case=Acc|Number=Sing	6	nsubj	_	_
+2	уонна	уонна	CCONJ	_	_	3	cc	_	_
+3	эһэни	эһэ	NOUN	_	Case=Acc|Number=Sing	1	conj	_	_
+4	дьон	дьон	NOUN	_	Case=Nom|Number=Plur	6	nsubj	_	_
+5	эмиэ	эмиэ	ADV	_	_	6	advmod	_	_
+6	бултууллар	бултуул	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+
+# text = Кылааска биир остуол , үс олоппос турар
+1	Кылааска	кылаас	NOUN	_	Case=Dat|Number=Sing	6	obl	_	_
+2	биир	биир	NUM	_	NumType=Card	3	nummod	_	_
+3	остуол	остуол	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	үс	үс	NUM	_	NumType=Card	6	nummod	_	_
+6	олоппос	олоппос	NOUN	_	Case=Nom|Number=Plur	7	nsubj	_	_
+7	турар	турар	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# text = Быраас эмиэ көрөр уонна рецепт суруйар
+1	Быраас	быраас	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+2	эмиэ	эмиэ	ADV	_	_	5	advmod	_	_
+3	көрөр	көр	VERB	_	Tense=Pres|VerbForm=Conv	5	conj	_	_
+4	уонна	уонна	CCONJ	_	_	3	cc	_	_
+5	рецепт	рецепт	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+6	суруйар	суруй	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Утуйар хоско биир улахан дьааһык турар
+1	Утуйар	утуй	VERB	_	Tense=Pres|VerbForm=Conv	0	root	_	_
+2	хоско	хос	NOUN	_	Case=Dat|Number=Sing	1	obl	_	_
+3	биир	биир	NUM	_	NumType=Card	4	nummod	_	_
+4	улахан	улахан	ADJ	_	Degree=Pos	5	amod	_	_
+5	дьааһык	дьааһык	NOUN	_	Case=Nom|Number=Sing	2	nmod	_	_
+6	турар	туур	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	acl	_	_
+
+# text = Оҕолор уруок ааҕаллар уонна суруйаллар
+1	Оҕолор	оҕо	NOUN	_	Number=Plur	3	nsubj	_	_
+2	уруок	уруок	NOUN	_	_	3	obj	_	_
+3	ааҕаллар	ааҕа	VERB	_	Number=Plur|Tense=Pres	0	root	_	_
+4	уонна	уонна	CCONJ	_	_	6	cc	_	_
+5	суруйаллар	суруйа	VERB	_	Number=Plur|Tense=Pres	3	conj	_	_
+
+# text = Айаана , ол паартаҕа олор уонна суруй
+1	Айаана	Айаана	PROPN	_	Case=Nom	5	nsubj	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	ол	ол	PRON	_	Case=Nom	5	nsubj	_	_
+4	паартаҕа	паарт	NOUN	_	Case=Loc	5	obl	_	_
+5	олор	олор	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+6	уонна	уонна	CCONJ	_	_	7	cc	_	_
+7	суруй	суруй	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	conj	_	_
+
+# text = Бу дьахтар киэһээҥи оскуолаҕа үөрэнэр
+1	Бу	бу	DET	_	PronType=Dem	2	det	_	_
+2	дьахтар	дьахта	NOUN	_	Case=Nom|Number=Plur	6	nsubj	_	_
+3	киэһээҥи	киэһээҥ	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	_
+4	оскуолаҕа	оскуола	NOUN	_	Case=Dat|Number=Sing	6	obl	_	_
+5	үөрэнэр	үөрэн	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	үөрэнэр	үөрэн	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+
+# text = Сарсын мин эмиэ мастерскойга үлэлиэҕим
+1	Сарсын	сарсын	NOUN	_	Case=Ins|Number=Sing	6	obl	_	_
+2	мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1	6	nsubj	_	_
+3	эмиэ	эмиэ	ADV	_	_	6	advmod	_	_
+4	мастерскойга	мастерской	NOUN	_	Case=Dat|Number=Sing	6	obl	_	_
+5	үлэлиэҕим	үлэлиэ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	xcomp	_	_
+6	үлэлиэҕим	үлэлиэ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
+
+# text = Кэскил уонна мин оскуолаҕа үөрэнэбит
+1	Кэскил	кэскил	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	уонна	уонна	CCONJ	_	_	1	cc	_	_
+3	мин	мин	PRON	_	Case=Nom|Number=Sing|Person=1	5	nsubj	_	_
+4	оскуолаҕа	оскуола	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
+5	үөрэнэбит	үөрэн	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	_
+
+# text = Быйыл кинилэр үчүгэйдик бултаатылар
+1	Быйыл	быйыл	ADV	_	_	5	advmod	_	_
+2	кинилэр	кини	PRON	_	Case=Nom|Number=Plur	5	nsubj	_	_
+3	үчүгэйдик	үчүгэй	ADV	_	_	5	advmod	_	_
+4	бултаатылар	бултаа	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+
+# text = Туруйа баҕаны уонна күлгэрини сиир
+1	Туруйа	Туруйа	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	баҕаны	баҕа	NOUN	_	Case=Acc|Number=Sing	1	obj	_	_
+3	уонна	уонна	CCONJ	_	_	4	cc	_	_
+4	күлгэрини	күлгэр	NOUN	_	Case=Acc|Number=Sing	6	obj	_	_
+5	сиир	сиир	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Бу атынан бүгүн таһаҕас тиэйиэхтэрэ
+1	Бу	бу	DET	_	PronType=Dem	2	det	_	_
+2	атынан	аты	NOUN	_	Case=Abl|Number=Sing	6	obl	_	_
+3	бүгүн	бүгүн	ADV	_	_	6	advmod	_	_
+4	таһаҕас	таһаҕас	ADV	_	_	6	advmod	_	_
+5	тиэйиэхтэрэ	тиэйиэх	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Хара таҥаһы үрүҥ сабынан тикпэттэр
+1	Хара	хара	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+2	таҥаһы	таҥа	NOUN	_	Case=Gen|Number=Sing	1	nmod	_	_
+3	үрүҥ	үрүҥ	ADJ	_	_	4	amod	_	_
+4	сабынан	саба	NOUN	_	Case=Abl|Number=Sing	5	obl	_	_
+5	тикпэттэр	тик	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+
+# text = Кини биир доҕоро куоракка үөрэнэр
+1	Кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3	5	nsubj	_	_
+2	биир	биир	NUM	_	NumType=Card	4	nummod	_	_
+3	доҕоро	доҕор	NOUN	_	Case=Nom|Number=Sing	4	conj	_	_
+4	куоракка	куорак	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
+5	үөрэнэр	үөрэн	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Кинилэр дьэҥкир арыы атыылаһаллар
+1	Кинилэр	кини	PRON	_	Case=Nom|Number=Plur	4	nsubj	_	_
+2	дьэҥкир	дьэҥкир	ADV	_	_	4	advmod	_	_
+3	арыы	арыы	ADV	_	_	4	advmod	_	_
+4	атыылаһаллар	атыылаһ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+
+# text = Кэл , бу олоппоско олор уонна аах
+1	Кэл	кэл	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	бу	бу	PRON	_	Case=Nom|Number=Sing|PronType=Dem	5	det	_	_
+4	олоппоско	олоппоско	ADV	_	_	5	advmod	_	_
+5	олор	олор	VERB	_	Mood=Imp|Number=Sing|Person=2	1	conj	_	_
+6	уонна	уонна	CCONJ	_	_	5	cc	_	_
+7	аах	аах	VERB	_	Mood=Imp|Number=Sing|Person=2	5	conj	_	_
+
+# text = Кини олус кырдьаҕас уонна көрбөт
+1	Кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
+2	олус	олус	ADV	_	_	4	advmod	_	_
+3	кырдьаҕас	кырдьаҕас	ADV	_	_	4	advmod	_	_
+4	уонна	уонна	CCONJ	_	_	5	cc	_	_
+5	көрбөт	көр	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+
+# text = Икки атахха эмиэ уон тарбах баар
+1	Икки	икки	NUM	_	NumType=Card	2	nummod	_	_
+2	атахха	атах	NOUN	_	Case=Dat|Number=Sing	6	nsubj	_	_
+3	эмиэ	эмиэ	ADV	_	_	6	advmod	_	_
+4	уон	уон	CCONJ	_	_	5	cc	_	_
+5	тарбах	тарба	NOUN	_	Case=Dat|Number=Sing	2	conj	_	_
+6	баар	баар	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# text = Биир эдэр киһи эмиэ кинигэ ааҕар
+1	Биир	биир	NUM	_	NumType=Card	3	nummod	_	_
+2	эдэр	эдэр	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
+3	киһи	киһи	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+4	эмиэ	эмиэ	ADV	_	_	5	advmod	_	_
+5	кинигэ	кинигэ	NOUN	_	Case=Acc|Number=Sing	6	obj	_	_
+6	ааҕар	ааҕар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Кини күнүс үлэлиир , түүн утуйар
+1	Кини	кини	PRON	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	күнүс	күнүс	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
+3	үлэлиир	үлэлээ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	түүн	түүн	PRON	_	Case=Nom|Number=Sing	6	nsubj	_	_
+6	утуйар	утуйа	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	_
+
+# text = Ити оҕону ууга ыраах киллэримэҥ
+1	Ити	ити	DET	_	Case=Nom|Number=Sing	2	det	_	_
+2	оҕону	оҕо	NOUN	_	Case=Acc|Number=Sing	5	nsubj	_	_
+3	ууга	уу	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
+4	ыраах	ыраа	ADJ	_	_	2	amod	_	_
+5	киллэримэҥ	киллэр	VERB	_	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres	0	root	_	_
+
+# text = Дьэдьэни оҕолор олус таптыыллар
+1	Дьэдьэни	дьэдьэ	NOUN	_	Case=Gen|Number=Sing	3	nmod	_	_
+2	оҕолор	оҕо	NOUN	_	Case=Nom|Number=Plur	3	nsubj	_	_
+3	олус	олус	ADV	_	_	4	advmod	_	_
+4	таптыыллар	тап	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
+
+# text = Оҕо ыллаатин
+1	Оҕо	оҕо	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+2	ыллаатин	ыллаа	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Биир хоско улахан остуол баар
+1	Биир	биир	NUM	_	NumType=Card	2	nummod	_	_
+2	хоско	хоско	NOUN	_	Case=Loc|Number=Sing	5	obl	_	_
+3	улахан	улахан	ADJ	_	_	4	amod	_	_
+4	остуол	остуол	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+5	баар	баар	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# text = Ити оҕолор эмиэ онно үөрэнэллэр
+1	Ити	ити	DET	_	Case=Nom|Number=Plur	3	det	_	_
+2	оҕолор	оҕо	NOUN	_	Case=Nom|Number=Plur	3	nsubj	_	_
+3	эмиэ	эмиэ	ADV	_	_	5	advmod	_	_
+4	онно	онно	ADV	_	_	5	advmod	_	_
+5	үөрэнэллэр	үөрэн	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+
+# text = Биһиги киэһэ эмиэ балыктыахпыт
+1	Биһиги	биһиги	PRON	_	Case=Nom|Number=Plur|Person=1	4	nsubj	_	_
+2	киэһэ	киэ	NOUN	_	Case=Gen|Number=Sing	1	nmod	_	_
+3	эмиэ	эмиэ	ADV	_	_	4	advmod	_	_
+4	балыктыахпыт	балыктаа	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	_
+
+# text = Доҕорум убайа куоракка үөрэнэр
+1	Доҕорум	доҕор	NOUN	_	Case=Nom|Number=Sing|Person=1|Poss=Yes	4	nsubj	_	_
+2	убайа	убай	ADV	_	_	4	advmod	_	_
+3	куоракка	куорак	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+4	үөрэнэр	үөрэн	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Ити дьон тоҕо манна киирбэттэр ?
+1	Ити	ити	DET	_	Case=Nom|Number=Sing	2	det	_	_
+2	дьон	дьон	NOUN	_	Case=Nom|Number=Plur	6	nsubj	_	_
+3	тоҕо	тоҕо	PRON	_	Case=Nom|Number=Sing|PronType=Int	6	obj	_	_
+4	манна	манна	ADV	_	_	6	advmod	_	_
+5	киирбэттэр	киир	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past	6	conj	_	_
+6	?	?	PUNCT	_	_	0	root	_	_
+
+# text = Дьон аһыыллар уонна утуйаллар
+1	Дьон	дьон	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	аһыыллар	аһыы	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	conj	_	_
+3	утуйаллар	утуйа	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+4	уонна	уонна	CCONJ	_	_	2	cc	_	_
+
+# text = Эбэм эмиэ ааҕар уонна суруйар
+1	Эбэм	эбэ	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+2	эмиэ	эмиэ	ADV	_	_	5	advmod	_	_
+3	ааҕар	ааҕа	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+4	уонна	уонна	CCONJ	_	_	3	cc	_	_
+5	суруйар	суруй	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# text = Бу дьон ханнык балыктыыллар ?
+1	Бу	бу	DET	_	PronType=Dem	3	det	_	_
+2	дьон	дьон	NOUN	_	Case=Nom|Number=Plur	3	nsubj	_	_
+3	ханнык	ханнык	PRON	_	PronType=Int	0	root	_	_
+4	балыктыыллар	балыктаа	VERB	_	Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Бу хоско үс киһи утуйабыт
+1	Бу	бу	DET	_	PronType=Dem	3	det	_	_
+2	хоско	хоско	ADV	_	_	4	advmod	_	_
+3	үс	үс	NUM	_	NumType=Card	4	nummod	_	_
+4	киһи	киһи	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+5	утуйабыт	утуй	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
+
+# text = Манна биир кэргэн олорор
+1	Манна	манна	ADV	_	_	4	advmod	_	_
+2	биир	биир	NUM	_	NumType=Card	3	nummod	_	_
+3	кэргэн	кэргэн	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+4	олорор	олор	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Кыһын биһиги ичигэс таҥаһы кэтэбит , оччоҕо тоҥмоппут
+1	Кыһын	кыһын	NOUN	_	Case=Nom|Number=Sing	2	obl	_	_
+2	биһиги	биһиги	PRON	_	Case=Nom|Number=Plur|Person=1	5	nsubj	_	_
+3	ичигэс	ичигэс	ADV	_	_	5	advmod	_	_
+4	таҥаһы	таҥаһы	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
+5	кэтэбит	кэтэ	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	оччоҕо	оччоҕо	ADV	_	_	8	advmod	_	_
+8	тоҥмоппут	тоҥмо	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	5	conj	_	_
+
+# text = Бүгүн оскуолаҕа элбэх кинигэни , тэтэрээти , харандааһы биэрэллэр
+1	Бүгүн	бүгүн	ADV	_	_	7	advmod	_	_
+2	оскуолаҕа	оскуола	NOUN	_	Case=Dat|Number=Sing	7	obl	_	_
+3	элбэх	элбэх	DET	_	_	4	det	_	_
+4	кинигэни	кинигэ	NOUN	_	Case=Acc|Number=Sing	7	obj	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	тэтэрээти	тэтэрээ	NOUN	_	Case=Acc|Number=Sing	4	conj	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	харандааһы	харандааһ	NOUN	_	Case=Acc|Number=Sing	4	conj	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	биэрэллэр	биэр	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+
+# text = Эһиги бу сири билэҕит
+1	Эһиги	эһиги	PRON	_	Case=Nom|Number=Plur|Person=2	4	nsubj	_	_
+2	бу	бу	DET	_	PronType=Dem	3	det	_	_
+3	сири	сири	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	билэҕит	билэ	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	0	root	_	_
+
+# text = Кэскил убайа мас ууһа
+1	Кэскил	кэскил	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+2	убайа	убай	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+3	мас	мас	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+4	ууһа	ууһ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	_
+
+# text = Эһиги ол оскуолаҕа үөрэнэҕит
+1	Эһиги	эһиги	PRON	_	Case=Nom|Number=Plur|Person=2	5	nsubj	_	_
+2	ол	ол	DET	_	PronType=Dem	3	det	_	_
+3	оскуолаҕа	оскуола	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
+4	үөрэнэҕит	үөрэн	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	-т	-т	AUX	_	_	4	aux	_	_
+
+# text = Ити киһи тугу кэпсиир ?
+1	Ити	ити	DET	_	Case=Nom|Number=Sing	2	det	_	_
+2	киһи	киһи	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+3	тугу	тугу	PRON	_	Case=Acc|PronType=Int	5	obj	_	_
+4	кэпсиир	кэпсээ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Онно кыһын сүөһү аһыыр
+1	Онно	онно	ADV	_	_	4	advmod	_	_
+2	кыһын	кыһы	NOUN	_	Case=Gen|Number=Sing	4	obl	_	_
+3	сүөһү	сүөһ	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+4	аһыыр	аһыы	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Бэс ханнык сиргэ үүнэр ?
+1	Бэс	бэс	PRON	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	ханнык	ханнык	DET	_	_	3	det	_	_
+3	сиргэ	сир	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+4	үүнэр	үүн	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Аны миэхэ тимэхтэ аҕал
+1	Аны	аны	PRON	_	Case=Nom|Number=Sing	4	nsubj	_	_
+2	миэхэ	миэхэ	ADV	_	_	4	advmod	_	_
+3	тимэхтэ	тимэ	ADV	_	_	4	advmod	_	_
+4	аҕал	аҕал	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Эһэм тыс этэрбэһи кэтэр
+1	Эһэм	эһэ	PRON	_	Case=Nom|Number=Sing|Person=1	4	nsubj	_	_
+2	тыс	тыс	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+3	этэрбэһи	этэр	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	4	advcl	_	_
+4	кэтэр	кэт	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+
+# text = Ити кыыс аҕата мас ууһа
+1	Ити	ити	DET	_	PronType=Dem	2	det	_	_
+2	кыыс	кыыс	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	аҕата	аҕа	NOUN	_	Case=Gen|Number=Sing|Person=3	2	nmod:poss	_	_
+4	мас	мас	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+5	ууһа	ууһ	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	_
+
+# text = Огурсуга ким уу кутта ?
+1	Огурсуга	огурсу	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+2	ким	ким	PRON	_	Case=Nom|Number=Sing|PronType=Int	4	nsubj	_	_
+3	уу	уу	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	кутта	ку	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Ити киһи аата кимий ?
+1	Ити	ити	DET	_	Case=Nom|Number=Sing	2	det	_	_
+2	киһи	киһи	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+3	аата	аата	NOUN	_	Case=Nom|Number=Sing	4	obj	_	_
+4	кимий	кимий	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Эһиэхэ чаһы баар дуо ?
+1	Эһиэхэ	эһиэхэ	ADV	_	_	4	advmod	_	_
+2	чаһы	чаһы	NOUN	_	Case=Nom|Number=Sing	4	obj	_	_
+3	баар	баар	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	дуо	дуо	PART	_	_	3	discourse	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Эйиэхэ чаһы баар дуо ?
+1	Эйиэхэ	эйиэхэ	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
+2	чаһы	чаһ	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+3	баар	баар	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	дуо	дуо	PART	_	_	3	discourse	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Манна хас хос баарый ?
+1	Манна	манна	PRON	_	Case=Nom|Number=Sing	5	nsubj	_	_
+2	хас	хас	ADV	_	_	5	advmod	_	_
+3	хос	хос	ADV	_	_	5	advmod	_	_
+4	баарый	баар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Эһиэхэ тараах баар дуо ?
+1	Эһиэхэ	эһиэхэ	PRON	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	тараах	тараа	VERB	_	VerbForm=Inf	3	aux	_	_
+3	баар	баар	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	дуо	дуо	PART	_	_	3	discourse	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Эһиэхэ лааппы баар дуо ?
+1	Эһиэхэ	эһиэхэ	PRON	_	Case=Dat|Number=Sing	4	nsubj	_	_
+2	лааппы	лаап	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+3	баар	баар	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	дуо	дуо	PART	_	_	3	discourse	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Кинигэ дьааһыга баар дуо ?
+1	Кинигэ	кинигэ	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+2	дьааһыга	дьааһы	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+3	баар	баар	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	дуо	дуо	PART	_	_	3	discourse	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Эһиэхэ кыра тоһоҕо баар дуо ?
+1	Эһиэхэ	эһиэхэ	PRON	_	Case=Dat|Number=Sing	4	nsubj	_	_
+2	кыра	кыра	ADJ	_	_	3	amod	_	_
+3	тоһоҕо	тоһоҕо	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+4	баар	баар	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	дуо	дуо	PART	_	_	4	discourse	_	_
+6	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Хоту дойдуга үс ый күн көрбөт , сайын үс ый киирбэт
+1	Хоту	хоту	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
+2	дойдуга	дойду	NOUN	_	Case=Dat|Number=Sing	1	nmod	_	_
+3	үс	үс	NUM	_	_	4	nummod	_	_
+4	ый	ый	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
+5	күн	күн	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+6	көрбөт	көр	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	0	root	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	сайын	сайын	ADV	_	_	12	advmod	_	_
+9	үс	үс	NUM	_	_	10	nummod	_	_
+10	ый	ый	NOUN	_	Case=Acc|Number=Sing	11	obj	_	_
+11	киирбэт	киир	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	6	conj	_	_
+
+# text = Кини чулкуну , наскыны эмиэ кэппэт , этэрбэһи кэтэр
+1	Кини	кини	PRON	_	Case=Nom|Number=Sing|Person=3	2	nsubj	_	_
+2	чулкуну	чулку	NOUN	_	Case=Acc|Number=Sing	6	obj	_	_
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	наскыны	наскы	NOUN	_	Case=Acc|Number=Sing	6	obj	_	_
+5	эмиэ	эмиэ	ADV	_	_	6	advmod	_	_
+6	кэппэт	кэп	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	0	root	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	этэрбэһи	этэр	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	6	conj	_	_
+9	кэтэр	кэт	VERB	_	VerbForm=Inf	8	xcomp	_	_
+
+# text = Ити ойуурга элбэх кыра күөл баар
+1	Ити	ити	DET	_	Case=Nom|Number=Sing	3	det	_	_
+2	ойуурга	ойуур	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
+3	элбэх	элбэх	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	кыра	кыра	ADJ	_	_	5	amod	_	_
+5	күөл	күөл	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+6	баар	баар	AUX	_	_	3	aux	_	_
+
+# text = Бу кылааска хас түннүк баарый ?
+1	Бу	бу	DET	_	PronType=Dem	3	det	_	_
+2	кылааска	кылаас	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
+3	хас	хас	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+4	түннүк	түннүк	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
+5	баарый	баар	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
+6	?	?	PUNCT	_	_	3	punct	_	_
+
+# text = Айаана иһити ханна туруорар ?
+1	Айаана	Айаана	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	иһити	иһи	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
+3	ханна	ханна	ADV	_	_	4	advmod	_	_
+4	туруорар	туруор	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Эһиэхэ хас сибиинньэ баарый ?
+1	Эһиэхэ	эһиэ	NOUN	_	Case=Gen|Number=Sing	3	nmod	_	_
+2	хас	хас	PRON	_	Case=Nom|Number=Sing|PronType=Int	3	det	_	_
+3	сибиинньэ	сибиин	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
+4	баарый	баар	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Эн ханнык наскыны таптыыгын ?
+1	Эн	эн	PRON	_	Case=Nom|Number=Sing|Person=2	4	nsubj	_	_
+2	ханнык	ханнык	DET	_	PronType=Int	3	det	_	_
+3	наскыны	наскы	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	таптыыгын	тап	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Бу оҕонньорго алта оҕо баар
+1	Бу	бу	DET	_	PronType=Dem	3	det	_	_
+2	оҕонньорго	оҕонньор	NOUN	_	Case=Dat|Number=Sing	3	obl	_	_
+3	алта	алта	NUM	_	NumType=Card	0	root	_	_
+4	оҕо	оҕо	NOUN	_	Case=Nom|Number=Sing	3	nmod	_	_
+5	баар	баар	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	_
+
+# text = Мүнүүтэҕэ алта уон сөкүүндэ
+1	Мүнүүтэҕэ	мүнүүт	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+2	алта	алта	NUM	_	_	4	nummod	_	_
+3	уон	уон	CCONJ	_	_	4	cc	_	_
+4	сөкүүндэ	сөкүүн	NOUN	_	Case=Dat|Number=Sing	0	root	_	_
+
+# text = Хоһоону өйтөн ааҕарга үөрэт
+1	Хоһоону	хоһоон	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
+2	өйтөн	өй	NOUN	_	Case=Abl|Number=Sing	5	obl	_	_
+3	ааҕарга	ааҕар	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
+4	үөрэт	үөрэт	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+
+# text = Айымньы аатын болҕой
+1	Айымньы	айым	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	аатын	аат	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_
+3	болҕой	бол	VERB	_	Mood=Imp|Number=Sing|Person=3	0	root	_	_
+
+# text = Оҕолор туох туһунан кэпсэттилэр ?
+1	Оҕолор	оҕо	NOUN	_	Case=Nom|Number=Plur	4	nsubj	_	_
+2	туох	туох	PRON	_	PronType=Int	4	obj	_	_
+3	туһунан	туһунан	ADP	_	_	2	case	_	_
+4	кэпсэттилэр	кэпсэт	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# text = Икки оҕо кинигэни былдьаспыттар
+1	Икки	икки	NUM	_	NumType=Card	2	nummod	_	_
+2	оҕо	оҕо	NOUN	_	Case=Nom|Number=Plur	4	nsubj	_	_
+3	кинигэни	кинигэ	NOUN	_	Case=Acc|Number=Sing	4	obj	_	_
+4	былдьаспыттар	былдьа	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
+
+# text = Петя оҕолорго ол кинигэттэн араас үчүгэй кэпсээннэри ааҕан биэрбит
+1	Петя	Петя	PROPN	_	Case=Nom|Number=Sing	9	nsubj	_	_
+2	оҕолорго	оҕол	NOUN	_	Case=Dat|Number=Plur	9	iobj	_	_
+3	ол	ол	PRON	_	Case=Nom|Number=Sing	4	det	_	_
+4	кинигэттэн	кинигэ	NOUN	_	Case=Abl|Number=Sing	9	obl	_	_
+5	араас	араас	ADV	_	_	9	advmod	_	_
+6	үчүгэй	үчүгэй	ADJ	_	_	7	amod	_	_
+7	кэпсээннэри	кэпсээн	NOUN	_	Case=Acc|Number=Plur|Poss=3	9	obj	_	_
+8	ааҕан	ааҕа	VERB	_	VerbForm=Conv	9	advcl	_	_
+9	биэрбит	биэр	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+
+# text = Онтон ыла бу оҕолор кинигэни былдьаспат буолбуттар
+1	Онтон	онтон	ADV	_	_	6	advmod	_	_
+2	ыла	ыла	SCONJ	_	_	6	mark	_	_
+3	бу	бу	DET	_	PronType=Dem	4	det	_	_
+4	оҕолор	оҕо	NOUN	_	Number=Plur	6	nsubj	_	_
+5	кинигэни	кинигэ	NOUN	_	Case=Acc|Number=Sing|Person=3	6	obj	_	_
+6	былдьаспат	былдьа	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past	0	root	_	_
+7	буолбуттар	буол	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past	6	aux	_	_
+
+# text = Бөрө саһыл балыгын былдьаан сиэн кэбиспит уонна ыйыппыт
+1	Бөрө	бөрө	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+2	саһыл	саһыл	ADJ	_	_	1	amod	_	_
+3	балыгын	балык	NOUN	_	Case=Acc|Number=Sing	7	obj	_	_
+4	былдьаан	былдьаа	ADV	_	_	7	advmod	_	_
+5	сиэн	сиэн	ADV	_	_	7	advmod	_	_
+6	кэбиспит	кэбис	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	7	conj	_	_
+7	ыйыппыт	ый	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
+8	уонна	уонна	CCONJ	_	_	6	cc	_	_
+
+# text = Саһыл , хантан балык ыллыҥ ?
+1	Саһыл	саһыл	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	хантан	хан	NOUN	_	Case=Abl|Number=Sing	5	obl	_	_
+4	балык	балык	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
+5	ыллыҥ	ыл	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+6	?	?	PUNCT	_	_	5	punct	_	_
+
+# text = Ойбонтон
+1	Ойбонтон	Ойбонтон	PROPN	_	Animacy=Inan|Case=Nom|Number=Sing	0	root	_	_
+
+# text = Хайдах ыллыҥ ?
+1	Хайдах	хайдах	ADV	_	_	2	advmod	_	_
+2	ыллыҥ	быть	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+3	?	?	PUNCT	_	_	2	punct	_	_
+
+# text = Кутурукпунан куйуурдаан
+1	Кутурукпунан	кутурук	NOUN	_	Case=Abl|Number=Sing	2	obl	_	_
+2	куйуурдаан	куйуур	VERB	_	Tense=Pres|VerbForm=Conv|Voice=Cau	0	root	_	_
+
+# text = Арай биирдэ өйдөммүтэ , кутуруга ойбоҥҥо хам тоҥон хаалбыт
+1	Арай	арай	ADV	_	_	7	advmod	_	_
+2	биирдэ	биирдэ	ADV	_	_	7	advmod	_	_
+3	өйдөммүтэ	өйдөммүт	NOUN	_	Case=Dat|Number=Sing|Person=3|Poss=Yes	7	obl	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	кутуруга	кутуру	NOUN	_	Case=Dat|Number=Sing	7	obl	_	_
+6	ойбоҥҥо	ойбоҥ	NOUN	_	Case=Dat|Number=Sing	7	obl	_	_
+7	хам	хам	VERB	_	VerbForm=Conv	0	root	_	_
+8	тоҥон	тоҥ	VERB	_	VerbForm=Conv	7	advcl	_	_
+9	хаалбыт	хаал	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	conj	_	_
+
+# text = Бөрө онтон билиҥҥэ диэри ол ойбоҥҥо хоройон олорор үһү
+1	Бөрө	бөрө	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+2	онтон	онтон	ADV	_	_	7	advmod	_	_
+3	билиҥҥэ	билиҥ	NOUN	_	Case=Dat|Number=Sing	7	obl	_	_
+4	диэри	диэри	ADV	_	_	7	advmod	_	_
+5	ол	ол	PRON	_	Case=Nom|Number=Sing|PronType=Dem	6	nmod	_	_
+6	ойбоҥҥо	ойбоҥ	NOUN	_	Case=Dat|Number=Sing	7	obl	_	_
+7	хоройон	хорой	VERB	_	VerbForm=Conv|Voice=Cau	0	root	_	_
+8	олорор	олор	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	conj	_	_
+9	үһү	үһү	ADV	_	_	8	advmod	_	_
+
+# text = Оттон саһыл :
+1	Оттон	Оттон	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+2	саһыл	саһыл	VERB	_	Mood=Imp|VerbForm=Fin	0	root	_	_
+3	:	:	PUNCT	_	_	2	punct	_	_
+

@@ -1,2 +1,4 @@
 lang,model,metrics,eval_set
-tat,gpt-4.1,"{lemma: 72.15, upos:75.17, depress: 54.75, feats: 42.11, uas: 40.22, las: 27.94, cycle_prop: 20.95, multiroot_prop: 0}",https://github.com/UniversalDependencies/UD_Tatar-NMCTT/blob/master/tt_nmctt-ud-test.conllu
+tat,gpt-4.1,"{lemma: 72.15, upos:75.17, deprel: 54.75, feats: 42.11, uas: 40.22, las: 27.94, cycle_prop: 20.95, multiroot_prop: 0}",https://github.com/UniversalDependencies/UD_Tatar-NMCTT/blob/master/tt_nmctt-ud-test.conllu
+sah,gpt-4.1,"{lemma: 72.99, upos:78.56, deprel: 59.45, feats: 39.31, uas: 50.65, las: 39.73, cycle_prop: 0.33, multiroot_prop: 0}",https://github.com/UniversalDependencies/UD_Yakut-YKTDT/blob/master/sah_yktdt-ud-test.conllu
+nld,gpt-4.1,"{lemma: 70.98, upos:72.91, deprel: 60.49, feats: 54.65, uas: 39.65, las: 33.58, cycle_prop: 29.87, multiroot_prop: 0}",https://github.com/UniversalDependencies/UD_Dutch-Alpino/blob/master/nl_alpino-ud-test.conllu
