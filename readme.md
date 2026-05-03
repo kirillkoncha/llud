@@ -19,7 +19,7 @@ pip install .
 Declare LLM provider and use it to initialize the UD parser (along with the language you want to parse):
 
 ```python
-from core.schema import UDParser
+from core.parser import UDParser
 from providers.llm import LLMProvider
 
 provider = LLMProvider(
