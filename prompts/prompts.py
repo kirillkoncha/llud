@@ -1,6 +1,8 @@
 from langchain_core.prompts import PromptTemplate
 
-UD_PROMPT = PromptTemplate.from_template("""
+
+UD_PROMPT = PromptTemplate.from_template(
+    """
 You are a Universal Dependencies (UD) parser. Parse the given sentence into a UD-compliant representation.
 
 Return ONLY JSON strictly matching this schema:
@@ -69,4 +71,5 @@ Rules:
 
 Language (glottolog): {lang_code}
 Sentence: "{sentence}"
-""")
+"""
+)
